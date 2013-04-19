@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Import</string>
+  <string name="Import">Importar</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_camera_picker">Front and back camera switch</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
