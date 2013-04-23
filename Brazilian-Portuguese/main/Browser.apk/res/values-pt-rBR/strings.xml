@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="MIUI_startpage">Página iniciar</string>
+  <string name="MIUI_startpage">Página inicial</string>
   <string name="accessibility_button_addbookmark">Favoritos</string>
   <string name="accessibility_button_back">Voltar</string>
   <string name="accessibility_button_bookmark">Marcador</string>
@@ -48,7 +48,7 @@
   <string name="autofill_profile_editor_country">País:</string>
   <string name="autofill_profile_editor_delete_profile">Deletar</string>
   <string name="autofill_profile_editor_email_address">Email:</string>
-  <string name="autofill_profile_editor_heading">Type the text you want to auto-fill in web forms.</string>
+  <string name="autofill_profile_editor_heading">Digite o texto de auto-preenchimento dos formulários.</string>
   <string name="autofill_profile_editor_name">Nome completo:</string>
   <string name="autofill_profile_editor_phone_number">Telefone:</string>
   <string name="autofill_profile_editor_phone_number_invalid">Número inválido.</string>
@@ -56,9 +56,9 @@
   <string name="autofill_profile_editor_state">Estado:</string>
   <string name="autofill_profile_editor_zip_code">CEP:</string>
   <string name="autofill_profile_successful_delete">Texto de auto preenchimento deletado.</string>
-  <string name="autofill_profile_successful_save">Auto-fill text saved.</string>
+  <string name="autofill_profile_successful_save">Preenchimento automático salvo.</string>
   <string name="autofill_setup_dialog_message">O navegador pode completar automaticamente os formulários de internet.Deseja definir o texto de auto preenchimento</string>
-  <string name="autofill_setup_dialog_negative_toast">You can always set up your auto-fill text from the Browser &gt; Settings &gt; General screen.</string>
+  <string name="autofill_setup_dialog_negative_toast">Você sempre pode configurar o texto de preenchimento automático a partir do Navegador em &gt; Configurações &gt; Geral.</string>
   <string name="autologin_bar_error">"Não foi possivel logar"</string>
   <string name="autologin_bar_hide_text">Esconder</string>
   <string name="autologin_bar_login_text">Login</string>
@@ -77,27 +77,27 @@
   <string name="bookmark_this_page_to_readmodelist">Adicionar esta página na lista de favoritos</string>
   <string name="bookmark_thumbnail_view">Thumbnails</string>
   <string name="bookmark_title">Titulo</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
-  <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
-  <string name="bookmark_url">Url</string>
-  <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
-  <string name="bookmarks">Bookmarks</string>
-  <string name="bookmarks_management">Bookmarks</string>
-  <string name="bookmarks_root_folder">Root folder</string>
-  <string name="bookmarks_search">Browser</string>
-  <string name="browserFrameFileErrorLabel">File problem</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Não foi possível salvar na lista de favoritos."</string>
+  <string name="bookmark_to_readmodelist_saved">Salvo na lista de favoritos</string>
+  <string name="bookmark_url">URL</string>
+  <string name="bookmark_url_not_valid">"URL inválida"</string>
+  <string name="bookmarks">Favoritos</string>
+  <string name="bookmarks_management">Favoritos</string>
+  <string name="bookmarks_root_folder">Pasta Raiz</string>
+  <string name="bookmarks_search">Navegador</string>
+  <string name="browserFrameFileErrorLabel">Erro de Arquivo</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated."</string>
-  <string name="browserFrameNetworkErrorLabel">Connection problem</string>
-  <string name="browser_bookmarks_page_bookmarks_text">Bookmarks</string>
-  <string name="browser_history">Recently-visited pages</string>
-  <string name="cancel">Cancel</string>
-  <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
-  <string name="choose_upload">Choose file for upload</string>
-  <string name="choosertitle_sharevia">Share via</string>
-  <string name="clear">Clear</string>
-  <string name="clear_history">Clear history</string>
-  <string name="containing_folder">Add to</string>
+  <string name="browserFrameFormResubmitMessage">"A página que você está tentando visualizar contém dados que já foram apresentados (\"POSTDATA\"). Se você recarregar a página todos os dados do formulário serão perdidos (como uma pesquisa ou compra on-line) ou reenviados."</string>
+  <string name="browserFrameNetworkErrorLabel">Problema de conexão</string>
+  <string name="browser_bookmarks_page_bookmarks_text">Favoritos</string>
+  <string name="browser_history">Páginas recentes</string>
+  <string name="cancel">Cancelar</string>
+  <string name="cannot_download">Você só pode realizar downloads de URLS \"http\" ou \"https\".</string>
+  <string name="choose_upload">Procurar arquivo para Upload</string>
+  <string name="choosertitle_sharevia">Enviar via</string>
+  <string name="clear">Limpar</string>
+  <string name="clear_history">Limpar histórico</string>
+  <string name="containing_folder">Adicionar para</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
   <string name="contextheader_folder_empty">Empty folder</string>
   <string name="contextmenu_add_contact">Add contact</string>
