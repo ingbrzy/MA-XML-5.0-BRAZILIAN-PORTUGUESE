@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Data (Backup Xiaomi and Gmail info)</string>
+  <string name="account_contact_backup_info">Dados(Informações de backup Xiaomi and Gmail)</string>
   <string name="account_login">Login</string>
-  <string name="account_summary">Backup Gmail, E-mail and Xiaomi accounts</string>
-  <string name="already_enable_encrypt">Encryption enabled</string>
+  <string name="account_summary">Backup Gmail, E-mail e Xiaomi </string>
+  <string name="already_enable_encrypt">Encriptação ativada</string>
   <string name="app_name">Backup</string>
-  <string name="auto_backup">Automatic Backup</string>
-  <string name="auto_backup_all_user_apps">All apps</string>
-  <string name="auto_backup_choose">Automatically backup</string>
-  <string name="auto_backup_choose_empty">No backups</string>
-  <string name="auto_backup_choose_title">Choose backup items</string>
+  <string name="auto_backup">Backup automático</string>
+  <string name="auto_backup_all_user_apps">Todos aplicativos</string>
+  <string name="auto_backup_choose">Backup automático</string>
+  <string name="auto_backup_choose_empty">Nenhum backup</string>
+  <string name="auto_backup_choose_title">Definir arquivos de backup</string>
   <string name="auto_backup_date">Backup frequency (in days)</string>
   <string name="auto_backup_only_wifi">Automatically backup only when Wi-Fi connected</string>
   <string name="auto_backup_open">Enable automatic backup</string>
