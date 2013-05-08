@@ -155,7 +155,7 @@
   <string name="file_picker_sdcard_not_found">Cartão SD não detectado, por favor se o cartão esta montado em seu dispositivo.</string>
   <string name="find_on_page">Procurar na página</string>
   <string name="folder_name">Nome da pasta</string>
-  <string name="forward">P´roximo</string>
+  <string name="forward">Próximo</string>
   <string name="geolocation_permissions_prompt_dont_share">Recusar</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s quer saber a sua localização</string>
   <string name="geolocation_permissions_prompt_remember">Lembrar minha escolha</string>
@@ -174,10 +174,10 @@
   <string name="have_sent_bookmark_to_home_screen">Enviar favoritos para a tela Inicial</string>
   <string name="history">Histórico</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="homepage_set">Definir Página inicial.</string>
+  <string name="homepage_set">Página inicial definida.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Importar favoritos</string>
-  <string name="import_bookmark_failure">FALHA ao importar favoritos!</string>
+  <string name="import_bookmark_failure">Falha ao importar favoritos!</string>
   <string name="import_bookmark_sucess">Favoritos importados com sucesso</string>
   <string name="import_bookmarks_dialog_add">Enviar favoritos a sua conta google</string>
   <string name="import_bookmarks_dialog_confirm_add" formatted="false">Sincronizar os favoritos deste dispositivo a sua conta %s?</string>
@@ -193,14 +193,14 @@
   <string name="import_bookmarks_wizard_next">Próximo</string>
   <string name="import_bookmarks_wizard_previous">Anterior</string>
   <string name="importing_favorite_files">Importando dados ...</string>
-  <string name="instant_search_label">Google Instant (Labs)</string>
-  <string name="is_first_history_item">Primeiro item de hitórico</string>
+  <string name="instant_search_label">Google Instant (Beta)</string>
+  <string name="is_first_history_item">Primeiro item de histórico</string>
   <string name="is_first_tab">Primeira aba</string>
   <string name="is_last_history_item">Ultimo item do Histórico</string>
   <string name="is_last_tab">Ultima aba</string>
   <string name="is_page_bottom">Na parte inferior da página</string>
   <string name="is_page_top">Você já esta no topo da ágina</string>
-  <string name="js_engine_flags">Set JS flags</string>
+  <string name="js_engine_flags">Definir JavaScript</string>
   <string name="loadSuspended">"O navegador não pode carregar esta página porque não há nenhuma conexão com a Internet."</string>
   <string name="loadSuspendedTitle">Sem conexão</string>
   <string name="loading_video">Carregando video…</string>
@@ -245,7 +245,7 @@
   <string name="pref_autologin_title">Sincronizar automaticamente conta do Google</string>
   <string name="pref_clear_cache_for_exit">Limpar cache e sair</string>
   <string name="pref_clear_history_for_exit">Limpar histórico e sair</string>
-  <string name="pref_confirm_for_exit">Confirm on exit</string>
+  <string name="pref_confirm_for_exit">Tem certeza que deseja sair?</string>
   <string name="pref_content_autofit">Auto-ajuste de páginas</string>
   <string name="pref_content_autofit_summary">Formatar páginas web para se ajustar a tela</string>
   <string name="pref_content_block_popups">Bloquear pop-ups</string>
@@ -299,13 +299,13 @@
   <string name="pref_fling_on_border_operation">Operation for fling on border</string>
   <string name="pref_font_size_category">Text size</string>
   <string name="pref_force_userscalable">Force enable zoom</string>
-  <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behaviour"</string>
-  <string name="pref_general_autofill_title">Auto-fill</string>
-  <string name="pref_general_exit_setting_title">Exit settings</string>
-  <string name="pref_general_setting_title">Settings</string>
-  <string name="pref_general_sync_title">Sync</string>
-  <string name="pref_general_title">General</string>
-  <string name="pref_gesture_title">Gesture operations</string>
+  <string name="pref_force_userscalable_summary">Não permitir que sites alterem o zoom</string>
+  <string name="pref_general_autofill_title">Preenchimento automático</string>
+  <string name="pref_general_exit_setting_title">SAir das configurações</string>
+  <string name="pref_general_setting_title">Configurações</string>
+  <string name="pref_general_sync_title">Sincronizar</string>
+  <string name="pref_general_title">Geral</string>
+  <string name="pref_gesture_title">Gestos</string>
   <string name="pref_inverted">Inverted rendering</string>
   <string name="pref_inverted_category">Inverted screen rendering</string>
   <string name="pref_inverted_contrast">Contrast</string>
