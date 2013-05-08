@@ -3,7 +3,7 @@
   <string name="MIUI_startpage">Página inicial</string>
   <string name="accessibility_button_addbookmark">Favoritos</string>
   <string name="accessibility_button_back">Voltar</string>
-  <string name="accessibility_button_bookmark">Marcador</string>
+  <string name="accessibility_button_bookmark">Favorito</string>
   <string name="accessibility_button_bookmarks">Favoritos</string>
   <string name="accessibility_button_clear">Limpar entrada</string>
   <string name="accessibility_button_closetab">Fechar aba</string>
@@ -437,7 +437,7 @@
   <string name="tab_opened_background">Abas abertas em segundo plano.</string>
   <string name="tab_quicklinks">Links rápidos</string>
   <string name="tab_snapshots">Páginas salvas</string>
-  <string name="tab_yellowpage">Páginas amarelas</string>
+  <string name="tab_yellowpage">Atalhos</string>
   <string name="title_bar_loading">Carregando…</string>
   <string name="too_many_subwindows_dialog_message">Apenas um pop-up podem ser abertas ao mesmo tempo.</string>
   <string name="too_many_subwindows_dialog_title">Pop-up esta aberta</string>
