@@ -772,10 +772,10 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Subir/Descer na página</item>
-        <item>Trocar visualização</item>
+        <item>Mudar de Aba</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Voltar/Avançar Página</item>
-        <item>Trocar Visualização</item>
+        <item>Mudar de Aba</item>
     </string-array>
 </resources>
