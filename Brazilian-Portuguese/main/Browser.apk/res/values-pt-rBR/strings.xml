@@ -266,7 +266,7 @@
   <string name="pref_data_preload_summary">Permitir que navegador carregue os resultados de pesquisa privados em segundo plano</string>
   <string name="pref_data_preload_title">Resultados de pesquisa automáticos</string>
   <string name="pref_data_title">Gerenciamento de largura de banda</string>
-  <string name="pref_default_text_encoding">Codificação de Texto/string>
+  <string name="pref_default_text_encoding">Codificação de Texto</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Codificação de Texto</string>
   <string name="pref_default_zoom">Zoom padrão</string>
