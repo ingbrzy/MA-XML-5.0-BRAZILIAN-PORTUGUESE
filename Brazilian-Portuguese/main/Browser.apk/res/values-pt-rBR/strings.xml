@@ -127,7 +127,7 @@
   <string name="disable_autofill">Desativar auto-preenchimento</string>
   <string name="do_not_save">Cancelar</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">Armazenamento USB é necessário para baixar %s.</string>
-  <string name="download_no_sdcard_dlg_title">Armazenamento USB não disponivel/string>
+  <string name="download_no_sdcard_dlg_title">Armazenamento USB não disponivel</string>
   <string name="download_pending">Iniciando download...</string>
   <string name="download_sdcard_busy_dlg_msg">O armazenamento USB não esta disponivel. Para permitir downloads, toque em Desativar o armazenamento USB na notificação</string>
   <string name="download_sdcard_busy_dlg_title">Armazenamento USB indisponivel</string>
