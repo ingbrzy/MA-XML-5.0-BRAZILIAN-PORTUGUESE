@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">Too many requests are being processed. Please try again later.</string>
-  <string name="ack_record">Ack record</string>
-  <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
-  <string name="airplane_error_title">Airplane mode</string>
-  <string name="app_name">Bluetooth Share</string>
+  <string name="ErrorTooManyRequests">Muitas solicitações estão sendo processadas. Tente novamente mais tarde.</string>
+  <string name="ack_record">Registro Ack</string>
+  <string name="airplane_error_msg">"Você não pode usar o bluetooth no modo avião."</string>
+  <string name="airplane_error_title">Modo avião</string>
+  <string name="app_name">Compartilhar bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
-  <string name="auth_notif_message">Type session key for %1$s</string>
-  <string name="auth_notif_ticker">OBEX authentication request</string>
-  <string name="auth_notif_title">Session Key Request for PBAP</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+  <string name="auth_notif_message">Chave de sessão para %1$s</string>
+  <string name="auth_notif_ticker">Solicitação de autenticação OBEX</string>
+  <string name="auth_notif_title">Chave de sessão solicitada para PBAP</string>
+  <string name="bluetooth_share_file_name">compartilhar_conteudo_bluetooth</string>
   <string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
-  <string name="bpp_cancel">Cancel</string>
+  <string name="bpp_cancel">Cancelar</string>
   <string name="bpp_main">Bluetooth Printing</string>
   <string name="bpp_printing_button_text">Printing</string>
   <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
