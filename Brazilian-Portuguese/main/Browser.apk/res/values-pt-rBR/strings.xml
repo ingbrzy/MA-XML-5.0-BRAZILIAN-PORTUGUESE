@@ -325,7 +325,7 @@
   <string name="pref_privacy_clear_cache">Limpar cache</string>
   <string name="pref_privacy_clear_cache_dlg">Deseja deletar os dados e o cache?</string>
   <string name="pref_privacy_clear_cache_summary">Apagar cache e dados</string>
-  <string name="pref_privacy_clear_cookies"> Limpar todos os cookies</string></string>
+  <string name="pref_privacy_clear_cookies"> Limpar todos os cookies</string>
   <string name="pref_privacy_clear_cookies_dlg">Apagar todos os cookies?</string>
   <string name="pref_privacy_clear_cookies_summary">Limpar todos os cookies do navegador</string>
   <string name="pref_privacy_clear_form_data">Limpar dados de formulário/string>
