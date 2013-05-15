@@ -104,21 +104,19 @@
   <string name="apn_save_msg">Este APN foi alterado, deseja salvar as alterações?</string>
   <string name="apn_server">Servidor</string>
   <string name="apn_settings">Configuração de APNs</string>
-
-
-  <string name="apn_type">APN type</string>
-  <string name="apn_user">Username</string>
-  <string name="app_disable_dlg_text">If you disable a built-in app, other apps may misbehave.</string>
-  <string name="app_disable_dlg_title">Disable built-in app?</string>
-  <string name="app_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.</string>
-  <string name="app_disable_notifications_dlg_title">Turn off notifications?</string>
-  <string name="app_factory_reset">Uninstall updates</string>
-  <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
-  <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
-  <string name="app_forward_locked">App is copy-protected.</string>
-  <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
-  <string name="app_install_location_title">Preferred install location</string>
+  <string name="apn_type">Tipo APN</string>
+  <string name="apn_user">Nome de usuário</string>
+  <string name="app_disable_dlg_text">Se você desativar um aplicativo integrado, outros aplicativos podem apresentar mau funcionamento.</string>
+  <string name="app_disable_dlg_title">Desativar aplicat. integrado?</string>
+  <string name="app_disable_notifications_dlg_text">Se você desativar notificações para este aplicativo, você poderá perder alertas importantes e atualizações.</string>
+  <string name="app_disable_notifications_dlg_title">Desativar notificações?</string>
+  <string name="app_factory_reset">Desinstalar atualizações</string>
+  <string name="app_factory_reset_dlg_text">Todas as atualizações deste aplicativo de sistema Android serão desinstaladas.</string>
+  <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
+  <string name="app_floating_window_dlg">Permitir\"%1$s\" para mostrar a janela pop-up</string>
+  <string name="app_forward_locked">O aplicativo é protegido contra cópia.</string>
+  <string name="app_install_location_summary">Alterar o local de instalação preferido para novos aplicativos</string>
+  <string name="app_install_location_title">Local de instalação preferido</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title"/>
