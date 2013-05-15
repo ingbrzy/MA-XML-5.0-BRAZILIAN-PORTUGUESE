@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d related songs</item>
-        <item quantity="one">%d related song</item>
+        <item quantity="other">%d músicas relacionadas</item>
+        <item quantity="one">%d música relacionada</item>
     </plurals>
     <plurals name="Ntracks_total">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
     </plurals>
     <plurals name="Ntracks_string">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">%d album</item>
+        <item quantity="other">%d álbuns</item>
+        <item quantity="one">%d álbum</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">songs</item>
-        <item quantity="one">song</item>
+        <item quantity="other">músicas</item>
+        <item quantity="one">música</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">albums</item>
-        <item quantity="one">album</item>
+        <item quantity="other">álbuns</item>
+        <item quantity="one">álbum</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">artists</item>
-        <item quantity="one">artist</item>
+        <item quantity="other">artistas</item>
+        <item quantity="one">artista</item>
     </plurals>
     <plurals name="Nplaylists">
         <item quantity="other">playlists</item>
         <item quantity="one">playlist</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" folders"</item>
-        <item quantity="one">" folder"</item>
+        <item quantity="other">" pastas"</item>
+        <item quantity="one">" pasta"</item>
     </plurals>
     <plurals name="Nitems_batch_selection">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">There are %d songs in SD card</item>
-        <item quantity="one">There is %d song in SD card</item>
+        <item quantity="other">Há %d músicas no cartão SD</item>
+        <item quantity="one">Há %d música no cartão SD</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d músicas adicionadas à playlist.</item>
+        <item quantity="one">1 música adicionada à playlist.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d músicas adicionadas à playlist.</item>
+        <item quantity="one">1 música adicionada à playlist.</item>
     </plurals>
     <plurals name="Nonlinecategory">
-        <item quantity="other">" categories"</item>
-        <item quantity="one">" category"</item>
+        <item quantity="other">" categorias"</item>
+        <item quantity="one">" categoria"</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d songs</item>
-        <item quantity="one">%1$s, %2$d song</item>
+        <item quantity="other">%1$s, %2$d músicas</item>
+        <item quantity="one">%1$s, %2$d música</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d songs were deleted.</item>
-        <item quantity="one">1 song was deleted.</item>
+        <item quantity="other">%d músicas foram apagadas.</item>
+        <item quantity="one">1 música foi apagada.</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded.</item>
-        <item quantity="one">1 song will be downloaded.</item>
+        <item quantity="other">%d músicas serão baixadas.</item>
+        <item quantity="one">1 música será baixada.</item>
     </plurals>
 </resources>
