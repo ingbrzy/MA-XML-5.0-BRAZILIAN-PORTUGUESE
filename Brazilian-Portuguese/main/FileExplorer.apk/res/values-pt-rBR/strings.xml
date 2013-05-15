@@ -14,7 +14,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_cleanup">Cancelar limpeza</string>
   <string name="category_all">Tudo</string>
-  <string name="category_apk">APKs</string>
+  <string name="category_apk">Aplicativos</string>
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Documentos</string>
@@ -27,7 +27,7 @@
   <string name="category_video">Videos</string>
   <string name="category_zip">Zips</string>
   <string name="choose_send_type">Selecione o tipo de envio</string>
-  <string name="choose_upload_location">Selecione o local de Upload</string>
+  <string name="choose_upload_location">Selecione o local para envio</string>
   <string name="clean_complete">Limpeza completa</string>
   <string name="clean_message">Deletando %1$s</string>
   <string name="clean_title">Excluir arquivos de mais de 30 dias na lixeira</string>
@@ -47,7 +47,7 @@
   <string name="create_new_folder_failed">Falha ao criar nova pasta %1$s</string>
   <string name="create_share_link_description">Criando Link…</string>
   <string name="cution">Tips</string>
-  <string name="data_capacity">Spaço: %1$s</string>
+  <string name="data_capacity">Espaço: %1$s</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair?</string>
   <string name="decompress_fail">Falha ao extrair!</string>
@@ -205,7 +205,7 @@
   <string name="tab_category">Browse</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefone</string>
-  <string name="toast_file_not_can_read">The file is unreadable or corrupted.</string>
+  <string name="toast_file_not_can_read">O arquivo está ilegivel ou corrompido.</string>
   <string name="trans_task">Network transfer</string>
   <string name="trans_task_delete_confirm_message">Are you sure you want to delete the selected %1$d tasks?</string>
   <string name="transing">Transferindo...</string>
@@ -221,13 +221,13 @@
   <string name="ui_main_toast_favorite_removed">Favorito(s) removidos</string>
   <string name="ui_main_toast_operation_failed">Remoção de %1$s favorito(s) falhou.</string>
   <string name="upload_failed">Falha ao enviar!</string>
-  <string name="upload_file_toolarge_message">"%1$d arquivos maiores que  300MB can't be uploaded.Por favor veja as transferencias para mais detalhes"</string>
+  <string name="upload_file_toolarge_message">"%1$d Arquvos maiores que 300 MB não podem ser enviados.Por favor veja as transferencias para mais detalhes"</string>
   <string name="upload_successful">Enviado com sucesso!</string>
   <string name="uploading">Enviando...</string>
   <string name="used">Used</string>
   <string name="user_guide">Guia de usuario</string>
   <string name="user_guide_download_other_version">"Baixar MiDrive para Windows ou Mac"</string>
-  <string name="user_guide_kuaipan_copy">"Use MiDrive to share your files between multiple devices"</string>
+  <string name="user_guide_kuaipan_copy">"Use MiDrive para compartilhar seus arquivos entre vários dispositivos"</string>
   <string name="user_guide_other_version">Baixar versões alternativas do MiDrive</string>
   <string name="user_guide_summary">Usar MiDrive</string>
   <string name="user_guide_upload_to_kuaipan">"Copiar e colar arquivos no MiDrive"</string>
@@ -238,7 +238,7 @@
   <string name="wait_wifi">Esperando pela conexão Wi-Fi</string>
   <string name="waiting">Aguarde...</string>
   <string name="wangpan_root_path">My Drive</string>
-  <string name="wifi_state">Wi-Fi Status</string>
+  <string name="wifi_state">Status da Wi-Fi</string>
   <string name="xiaomi_account">Conta Xiaomi</string> 
   <string name="yes">Sim</string>
 </resources>
