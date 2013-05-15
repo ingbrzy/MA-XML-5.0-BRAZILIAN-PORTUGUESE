@@ -10,10 +10,10 @@
   <string name="auto_backup_choose">Backup automático</string>
   <string name="auto_backup_choose_empty">Nenhum backup</string>
   <string name="auto_backup_choose_title">Definir arquivos de backup</string>
-  <string name="auto_backup_date">Frequenca de Backup(em dias)</string>
+  <string name="auto_backup_date">Frequencia de Backup(em dias)</string>
   <string name="auto_backup_only_wifi">Backup automático apenas pela Wi-Fi</string>
   <string name="auto_backup_open">Ativar backup automático</string>
-  <string name="auto_backup_progress">Realizando Backup automático por favor Aguarde...</string>
+  <string name="auto_backup_progress">Realizando Backup automático por favor aguarde...</string>
   <string name="auto_backup_select_user_apps">Selecionar aplicações</string>
   <string name="auto_backup_selected_user_apps">Aplicações selecionadas</string>
   <string name="auto_backup_setting">Configurações de Backup automático</string>
@@ -31,7 +31,7 @@
   <string name="backup_finished">Backup completo</string>
   <string name="backup_hint">Não desligue o telefone, pode causar erros no backup</string>
   <string name="backup_items_app_tailer">\u0020App Dados de Aplicações</string>
-  <string name="backup_items_sysdata_tailer">\u0020System Dados doSistema</string>
+  <string name="backup_items_sysdata_tailer">\u0020System Dados do Sistema</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">Criando Backup...</string>
   <string name="backup_recently">\u0020(Anterior)</string>
@@ -125,7 +125,7 @@
   <string name="restore_launcher_layout_hit">(Nota: Restaurar o layout do launcher)</string>
   <string name="restore_progress">Restaurando...</string>
   <string name="restore_report">Relatório de restauração</string>
-  <string name="restore_telephony_hit">(Note: O precesso de recuperação irá reiniciar o aplicativo do telefone)</string>
+  <string name="restore_telephony_hit">(Nota: O processo de recuperação irá reiniciar o aplicativo do telefone)</string>
   <string name="retry">Tentar novamente</string>
   <string name="reverse_all">Limpar tudo</string>
   <string name="sc_bad_request">Bad request</string>
@@ -176,8 +176,7 @@
   <string name="task_running_hint">Serviço rodando em segundo plano, tente restaurar novamente!</string>
   <string name="task_running_restore_dialog">Restauração em segundo plano em progresso, aperte OK para ver.</string>
   <string name="task_running_restore_hint">Serviço rodando em segundo plano, tente novamente!</string>
-  <string name="task_service_not_launched">O serviçõ n
-  ão!</string>
+  <string name="task_service_not_launched">O serviçõ não!</string>
   <string name="task_stopped_exception">Tarefa abortada</string>
   <string name="total_num">%d gravações(s) no total</string>
   <string name="unit_byte">\u0020Bytes</string>
