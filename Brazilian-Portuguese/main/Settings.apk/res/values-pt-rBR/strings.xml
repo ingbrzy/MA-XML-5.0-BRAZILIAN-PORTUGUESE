@@ -51,7 +51,7 @@
     <string name="small_font">Pequeno</string>
     <string name="medium_font">Médio</string>
     <string name="large_font">Grande</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+    <string name="font_size_preview_text">Sirva a este Homem Churrasco e Chimarrão.</string>
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Cartão SD</string>
     <string name="battery_info_status_label">Status da bateria:</string>
@@ -438,19 +438,19 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio da mídia</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do dispositivo</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivo</string>
-    <string name="bluetooth_sap_profile_summary_connected">Connected to SIM Access Server</string>
-    <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
+    <string name="bluetooth_sap_profile_summary_connected">Conectado ao servidor de acesso SIM</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectado ao servidor de acesso DUN</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Não está conectado ao servidor de transferência de arquivo</string>
-    <string name="bluetooth_sap_profile_summary_not_connected">Not connected to SIM Access Server</string>
-    <string name="bluetooth_dun_profile_summary_not_connected">Not connected to DUN Server</string>
+    <string name="bluetooth_sap_profile_summary_not_connected">Não está conectado ao servidor de acesso SIM</string>
+    <string name="bluetooth_dun_profile_summary_not_connected">Não está conectado ao servidor de acesso DUN</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à Internet</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compart. conexão local de Intern. com disp.</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usar para áudio de mídia</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do dispositivo</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usado para transferência de arquivo</string>
-    <string name="bluetooth_sap_profile_summary_use_for">Use for SIM Access</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network Access</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso SIM</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usar para acesso a rede Dial-up</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
     <string name="bluetooth_dock_settings">Configurações de dock</string>
@@ -586,9 +586,9 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="wifi_p2p_menu_search">Pesquisar</string>
     <string name="wifi_p2p_menu_searching">Pesquisando...</string>
     <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
-    <string name="wifi_p2p_menu_create_group">Create group</string>
-    <string name="wifi_p2p_menu_remove_group">Remove group</string>
-    <string name="wifi_p2p_menu_advanced">Advanced</string>
+    <string name="wifi_p2p_menu_create_group">Criar grupo</string>
+    <string name="wifi_p2p_menu_remove_group">Remover grupo</string>
+    <string name="wifi_p2p_menu_advanced">Avançado</string>
     <string name="wifi_p2p_peer_devices">Dispositivos</string>
     <string name="wifi_p2p_failed_connect_message">Impossível conectar.</string>
     <string name="wifi_p2p_failed_rename_message">Falha ao renomear dispositivo.</string>
@@ -606,7 +606,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="testing_wifi_info">Informações de WiFi</string>
     <string name="disableNetwork">disableNetwork</string>
     <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
+    <string name="disconnect">Desconectar</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="wifi_api_test">WiFi API</string>
@@ -652,7 +652,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="dtmf_tone_enable_title">Tons do teclado</string>
     <string name="sound_effects_enable_title">Tons de toque</string>
     <string name="lock_sounds_enable_title">Tons de bloqueio de tela</string>
-    <string name="haptic_feedback_enable_title">Feedback táctil</string>
+    <string name="haptic_feedback_enable_title">Vibrar ao toque</string>
     <string name="audio_record_proc_title">Cancelamento dos ruídos</string>
     <string name="volume_media_description">Volume de mídia, jogos, vídeos e outros</string>
     <string name="volume_ring_description">Volume de toques e notificações</string>
@@ -686,9 +686,9 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="brightness_summary">Ajustar o brilho da tela</string>
     <string name="screen_timeout">Desligar tela</string>
     <string name="screen_timeout_summary">Desligar a tela após %1$s de inatividade</string>
-    <string name="wallpaper_settings_title">Wallpaper</string>
+    <string name="wallpaper_settings_title">Plano de Fundo</string>
     <string name="wallpaper_settings_fragment_title">Selecionar Wallpaper:</string>
-    <string name="screensaver_settings_title">Screen Candy</string>
+    <string name="screensaver_settings_title">Tela Candy</string>
     <string name="screensaver_settings_summary_on">Começará no modo de espera se estiver conectado à energia</string>
     <string name="screensaver_settings_summary_off">Desativada</string>
     <string name="screensaver_component_title">Candy selecionado</string>
@@ -725,14 +725,14 @@ PIN possivelmente incorreto."</string>
 PIN possivelmente incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
-    <string name="sim_change_failed_enable_sim_lock">"Unable to Change SIM PIN.
- Enable SIM Lock."</string>
-    <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock.
- SIM doesn't support it."</string>
+    <string name="sim_change_failed_enable_sim_lock">"Não foi possível alterar o PIN do SIM.
+ Ativar bloqueio do SIM."</string>
+    <string name="sim_lock_change_not_supported">"Não foi possível alterar Bloqueio do SIM.
+SIM não suporta."</string>
     <string name="sim_pin_attempts">"
 Attempts Remaining :"</string>
-    <string name="sim_pin_enabled">PIN1 Enabled!</string>
-    <string name="sim_pin_disabled">PIN1 Disabled!</string>
+    <string name="sim_pin_enabled">PIN1 Ativado!</string>
+    <string name="sim_pin_disabled">PIN1 Desativado!</string>
     <string name="device_info_settings">Status do dispositivo</string>
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="system_update_settings_list_item_summary" />
@@ -746,8 +746,8 @@ Attempts Remaining :"</string>
     <string name="device_status_activity_title">Status</string>
     <string name="device_status">Status</string>
     <string name="device_status_summary">Número de telefone, sinal, bateria etc.</string>
-    <string name="device_additional_status_summary">Phone number, Signal, IMEI, etc.</string>
-    <string name="device_additional_status">Additional Status Info</string>
+    <string name="device_additional_status_summary">Numero do telefone, Sinal, IMEI, etc.</string>
+    <string name="device_additional_status">Informações do status adicional</string>
     <string name="storage_settings">Armazenamento</string>
     <string name="storage_settings_title">Configurações de armazenamento</string>
     <string name="storage_settings_summary">Desmontar o cartão SD, visualizar armazenamento disponível</string>
