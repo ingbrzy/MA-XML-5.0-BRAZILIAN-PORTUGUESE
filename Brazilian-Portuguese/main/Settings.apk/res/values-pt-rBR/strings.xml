@@ -1540,15 +1540,15 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="show_screen_updates_summary">Piscar áreas da tela quando forem atualizadas</string>
     <string name="show_hw_screen_updates">Mostrar atualizações de tela da GPU</string>
     <string name="show_hw_screen_updates_summary">Piscar áreas da tela quando forem exibidas pela GPU</string>
-    <string name="disable_overlays">Disable HW overlays</string>
-    <string name="disable_overlays_summary">Always use GPU for screen compositing</string>
-    <string name="enable_traces_title">Enable traces</string>
-    <string name="enable_traces_dialog_title">Select enabled traces</string>
-    <string name="enable_traces_summary_none">No traces currently enabled</string>
-    <string name="enable_traces_summary_num">%1$d traces currently enabled</string>
-    <string name="enable_traces_summary_all">All traces currently enabled</string>
-    <string name="debug_layout">Show layout bounds</string>
-    <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
+    <string name="disable_overlays">Desativar HW sobreposições</string>
+    <string name="disable_overlays_summary">Use sempre GPU para composição da tela</string>
+    <string name="enable_traces_title">Ativar traços</string>
+    <string name="enable_traces_dialog_title">Selecione traços ativados</string>
+    <string name="enable_traces_summary_none">Nenhum traço atualmente ativado</string>
+    <string name="enable_traces_summary_num">%1$d traços atualmente ativados</string>
+    <string name="enable_traces_summary_all">Todos os traços atualmente ativados</string>
+    <string name="debug_layout">Mostrar limites de layout</string>
+    <string name="debug_layout_summary">Mostrar clipe de Limites, margens, etc.</string>
     <string name="show_cpu_usage">Mostrar o uso da CPU</string>
     <string name="show_cpu_usage_summary">Sobreposição de tela que mostra o uso da CPU atual</string>
     <string name="force_hw_ui">Forçar renderização GPU</string>
@@ -1577,7 +1577,7 @@ Um método do Google para sincronizar dados de modo a permitir o acesso aos seus
     <string name="data_usage_pick_cycle_day">Dia do mês para redefinir o ciclo de uso dos dados:</string>
     <string name="data_usage_empty">Nenhum aplicativo usou dados durante o período.</string>
     <string name="data_usage_label_foreground">Primeiro plano</string>
-    <string name="data_usage_label_background">Wallpaper</string>
+    <string name="data_usage_label_background">Plano de fundo</string>
     <string name="data_usage_app_restricted">Restrito</string>
     <string name="data_usage_disable_mobile">Desativar dados móveis?</string>
     <string name="data_usage_disable_mobile_limit">Definir limite de dados móveis</string>
@@ -1608,7 +1608,7 @@ Algumas contas poderão copiar automaticamente do dispositivo para a internet. U
 
 Para escolher quais tipos de informações poderão ser sincronizadas, vá a Configurações > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Turn auto-sync data off?</string>
-    <string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
+    <string name="data_usage_auto_sync_off_dialog">"Isso vai conservar dados e uso da bateria, mas você vai precisar sincronizar cada conta manualmente para coletar dados recentes. E você não vai receber notificações quando ocorre atualizações."</string>
     <string name="data_usage_cycle_editor_title">Data de redefinição do ciclo de uso</string>
     <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
     <string name="data_usage_cycle_editor_positive">Definidas</string>
@@ -1681,9 +1681,9 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="backup_pw_set_button_text">Definir senha</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="percentage">%d%%</string>
-    <string name="sel_sub_title">Configure Subscriptions</string>
-    <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
-    <string name="select_subscription">Select Subscription</string>
+    <string name="sel_sub_title">Configurar Subscrições</string>
+    <string name="sel_sub_summary">Selecione subscrição de SUB-1 e SUB-2</string>
+    <string name="select_subscription">Selecione subscrição</string>
     <string name="multi_sim_settings_title">Multi SIM Settings</string>
     <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
     <string name="voice_title">Voice/USSD/MMI</string>
