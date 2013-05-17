@@ -1966,11 +1966,11 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="screen_timeout_title">Tempo limite da tela</string>
     <string name="screen_on_proximity_sensor_title">Prevenir má operação</string>
     <string name="screen_on_proximity_sensor_summary">Previne má operação quando o dispositivo estiver em algum bolso (utiliza o sensor de proximidade).</string>
-    <string name="preferred_launcher_title">Preferred Launcher</string>
-    <string name="preferred_launcher_warning_title">Replacing default launcher</string>
-    <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
-    <string name="preferred_launcher_warning_replace">Replace Launcher</string>
-    <string name="preferred_launcher_warning_use_system">Use default launcher</string>
+    <string name="preferred_launcher_title">Launcher Preferido</string>
+    <string name="preferred_launcher_warning_title">Mudando padrão do launcher</string>
+    <string name="preferred_launcher_warning_message">Substituir o launcher padrão pode consumir mais recursos do que o launcher padrão. Tem certeza de que deseja substituir?</string>
+    <string name="preferred_launcher_warning_replace">Substituir Launcher</string>
+    <string name="preferred_launcher_warning_use_system">Usar launcher padrão</string>
     <string name="key_settings_title">Botões</string>
     <string name="key_settings">Botões</string>
     <string name="menu_key">Botão Menu</string>
@@ -2044,7 +2044,7 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="wifi_enable_watchdog_service_summary">Utilizar conexão WiFi somente quando conexão for forte</string>
     <string name="wifi_disabled_help">A rede WiFi foi desconectada devido a sua baixa qualidade de conexão. Para ajustar esta configuração, vá em Configurações > WiFi > Menu avançado.</string>
     <string name="wifi_wps_overlap_error">Outra sessão WiFi protegida foi detectada. Tente novamente em alguns minutos.</string>
-    <string name="wifi_p2p_wps_setup">WLAN protected setup</string>
+    <string name="wifi_p2p_wps_setup">Configuração WLAN protegida</string>
     <string name="default_input_method">Método de entrada padrão</string>
     <string name="volume_category_title">Volume</string>
     <string name="vibrate_category_title">Vibrar</string>
