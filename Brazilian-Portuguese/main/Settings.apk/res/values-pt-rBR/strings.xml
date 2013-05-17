@@ -2321,7 +2321,7 @@ tente o seguinte:
     <string name="app_floating_window_dlg">Permitir\"%1$s\" para mostrar a janela pop-up</string>
     <string name="perm_privacy_app_count_trust_summary">Aplicativo Confiável</string>
     <string name="safe_relative">Permissões de segurança</string>
-    <string name="mdb_entering">Entrar</string>
+    <string name="mdb_entering">Entrando</string>
     <string name="mdb_restore_cancel">Cancelar</string>
     <string name="mdb_restore_info1">"Irá restaurar os dados do seu telefone"</string>
     <string name="mdb_restore_info2">"Por favor, não desconecte o cabo USB"</string>
