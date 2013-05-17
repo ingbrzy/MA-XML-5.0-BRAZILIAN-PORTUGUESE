@@ -75,7 +75,7 @@
   <string name="email_guests_label">E-mail guests</string>
   <string name="email_picker_label">E-mail with</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Empty event not created.</string>
+  <string name="empty_event">Evento não criado.</string>
   <string name="event_create">Novo evento</string>
   <string name="event_delete">Deletar evento</string>
   <string name="event_edit">Editar evento</string>
@@ -115,7 +115,7 @@
   <string name="more_string">%1$s mais...</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>
-  <string name="no_calendars_found">Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.</string>
+  <string name="no_calendars_found">Antes de adicionar um evento, você deve adicionar pelo menos uma conta de Calendário ao seu dispositivo e tornar o calendário visível. Toque Adicionar conta para adicionar uma cont (se você acabou de adicionar uma conta, espere a sincronização terminar e tente novamente). Ou toque em Cancelar e confirme se pelo menos um calendário está visível.</string>
   <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
   <string name="not_synced">Não sincronizado</string>
@@ -164,7 +164,7 @@
   <string name="response_yes">Sim</string>
   <string name="save_label">OK</string>
   <string name="saving_event">Evento salvo.</string>
-  <string name="saving_event_with_guest">Updates will be sent.</string>
+  <string name="saving_event_with_guest">As atualizações serão enviadas.</string>
   <string name="search">Procurar</string>
   <string name="search_history_cleared">Histórico de busca limpo.</string>
   <string name="search_title">Procurar meus calendários</string>
@@ -179,7 +179,7 @@
   <string name="snooze_label">Snooze</string>
   <string name="synced">Sincronizado</string>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index">Event %1$s of %2$s.</string>
+  <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
   <string name="timezone_label">Fuso horário</string>
   <string name="today">Hoje</string>
   <string name="today_at_time_fmt">Hoje às %s</string>
