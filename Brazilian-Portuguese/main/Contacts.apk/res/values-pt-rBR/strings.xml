@@ -26,20 +26,20 @@
   <string name="add_xiaomi_account_dialog_btn">Usar conta Xiaomi</string>
   <string name="add_xiaomi_account_dialog_msg">Para uma melhor experiência, por favor, considerar a utilização de sua conta Xiaomi para sincronizar e fazer backup de informações de contato e gerenciar contatos do seu computador.</string>
   <string name="add_xiaomi_account_dialog_title">Choose sync account</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information entered so far will be copied.</string>
-  <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
-  <string name="aggregation_suggestion_join_dialog_message">Merge current contact with the selected contact?</string>
-  <string name="all_list_empty">No contacts</string>
-  <string name="all_resources">All</string>
-  <string name="attach_photo_dialog_title">Contact photo</string>
-  <string name="audio_chat">Voice chat</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Mudar para editar o contato do mesmo nome? Informações inseridas até o momento serão copiados.</string>
+  <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
+  <string name="aggregation_suggestion_join_dialog_message">Substituir contato atual com o contato selecionado?</string>
+  <string name="all_list_empty">Sem contatos</string>
+  <string name="all_resources">Tdos</string>
+  <string name="attach_photo_dialog_title">Foto do contato</string>
+  <string name="audio_chat">Chat de Voz</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="batch_delete">Batch delete contacts</string>
-  <string name="batch_delete_msg">"Are you sure you want to delete the selected %d contacts?
+  <string name="batch_delete">Excluir contatos em lote</string>
+  <string name="batch_delete_msg">"Você tem certeza que deseja excluir os contatos %d selecionados?
 
-If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
-  <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
+Se você estiver usando o serviço de sincronização de contatos, informações de contato na nuvem também serão excluídos."</string>
+  <string name="bluetooth_connection_failed_toast">Conexão Bluethoot interrompida</string>
   <string name="blurbJoinContactDataWith">Choose the contact you want merge with %s:</string>
   <string name="btn_delete_multi_contacts">Delete %d contacts</string>
   <string name="btn_delete_one_contact">Delete contact</string>
