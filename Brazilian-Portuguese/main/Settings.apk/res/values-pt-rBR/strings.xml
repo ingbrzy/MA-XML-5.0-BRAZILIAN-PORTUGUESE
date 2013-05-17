@@ -2107,9 +2107,9 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="master_clear_erase_application_progress">Apagar aplicativos em execução</string>
     <string name="erase_internal_storage">Apagar cartão SD emulado</string>
     <string name="erase_internal_storage_description">Apagar todos os cados no cartão SD emulado, como fotos e músicas</string>
-    <string name="storage_format">Format</string>
-    <string name="usage_log">Application usage statistics</string>
-    <string name="bluetooth_device_searchable">Device visible</string>
+    <string name="storage_format">Formatar</string>
+    <string name="usage_log">Estatísticas de uso de aplicativos</string>
+    <string name="bluetooth_device_searchable">Dispositivo visível</string>
     <string name="usb_msd_title">Armaz. em Massa</string>
     <string name="usb_msd_summary">Permite que você transfira arquivos entre computadores</string>
     <string name="usb_msd_driver_installer_title">Disco de instalação de Driver (MSD)</string>
@@ -2131,7 +2131,7 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="font_size_huge">Enorme</string>
     <string name="virus_scanner_title">Anti Virus</string>
     <string name="virus_scanner_scanning">Proteção de Software</string>
-    <string name="virus_scanner_scan">Escanear</string>
+    <string name="virus_scanner_scan">Scanear</string>
     <string name="virus_scanner_select_lib">Selecionar banco de dados de vírus</string>
     <string name="virus_scanner_select_trust_lib">Selecionar banco de dados de vírus confiável</string>
     <string name="virus_scanner_update_lib">Atualizar banco de dados de vírus</string>
@@ -2145,10 +2145,10 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="virus_scanner_manual_update">Atualização manual</string>
     <string name="virus_scanner_lib_updating">Atualizando ...</string>
     <string name="virus_scanner_lib_already_latest">Banco de dados de vírus atualizado</string>
-    <string name="virus_scanner_lib_update_failed">Falha natualização do banco de dados de vírus</string>
-    <string name="virus_scan_app_safe_scanning">Escaneando ...</string>
+    <string name="virus_scanner_lib_update_failed">Falha na atualização do banco de dados de vírus</string>
+    <string name="virus_scan_app_safe_scanning">Scaneando ...</string>
     <string name="virus_scan_app_multi_engines">Você selecionou várias engines, a verificação poderá demorar um pouco.</string>
-    <string name="virus_scan_app_scanning">Escaneando ...</string>
+    <string name="virus_scan_app_scanning">Scaneando ...</string>
     <string name="virus_scan_app_waiting">Aguardando</string>
     <string name="virus_scan_app_passed">Concluído</string>
     <string name="virus_scan_app_risk">Ameaças encontradas</string>
