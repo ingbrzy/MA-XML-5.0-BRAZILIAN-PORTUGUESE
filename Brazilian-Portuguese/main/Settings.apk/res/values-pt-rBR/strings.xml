@@ -1873,11 +1873,6 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="perm_privacy_app_count">%1$d permissões</string>
     <string name="perm_privacy_app_trust_summary">Confiável</string>
     <string name="perm_privacy_app_trust">Confio neste aplicativo</string>
-    <string name="perm_privacy_app_trust_summary_off">MIUI irá monitorar este aplicativo</string>
-    <string name="perm_privacy_app_trust_summary_on">MIUI vai confiar neste aplicativo</string>
-    <string name="perm_privacy_app_count">%1$d permissões</string>
-    <string name="perm_privacy_app_trust_summary">Confiável</string>
-    <string name="perm_privacy_app_trust">Confio neste aplicativo</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI irá monitorar neste aplicativo</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI vai confiar neste aplicativo</string>
     <string name="perm_privacy_app_manage">Detalhes</string>
