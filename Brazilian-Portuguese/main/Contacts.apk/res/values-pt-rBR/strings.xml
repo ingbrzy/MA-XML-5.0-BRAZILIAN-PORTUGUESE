@@ -40,20 +40,20 @@
 
 Se você estiver usando o serviço de sincronização de contatos, informações de contato na nuvem também serão excluídos."</string>
   <string name="bluetooth_connection_failed_toast">Conexão Bluethoot interrompida</string>
-  <string name="blurbJoinContactDataWith">Choose the contact you want merge with %s:</string>
-  <string name="btn_delete_multi_contacts">Delete %d contacts</string>
+  <string name="blurbJoinContactDataWith">Escolha o contato que deseja unir a %s:</string>
+  <string name="btn_delete_multi_contacts">Deletar %d contatos</string>
   <string name="btn_delete_one_contact">Delete contact</string>
-  <string name="btn_rotation">Rotation</string>
-  <string name="btn_split_contact">Separate contact</string>
-  <string name="button_cancel_scan">Stop</string>
-  <string name="button_scan">Re-scan</string>
+  <string name="btn_rotation">Rotação</string>
+  <string name="btn_split_contact">Dividir contato</string>
+  <string name="button_cancel_scan">Parar</string>
+  <string name="button_scan">Rebuscar</string>
   <string name="caching_vcard_message">Caching vCard(s) to phone...</string>
   <string name="caching_vcard_title">Caching</string>
   <string name="callAgain">Redial</string>
   <string name="callBack">Call back</string>
-  <string name="callDetailTitle">Call details</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
-  <string name="callShortcutActivityTitle">Choose a number to call</string>
+  <string name="callDetailTitle">Detalhes de ligações</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
+  <string name="callShortcutActivityTitle">Escolha um número para ligar</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
   <string name="call_car">Call car</string>
@@ -145,22 +145,22 @@ Se você estiver usando o serviço de sincronização de contatos, informações
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
+  <string name="config_export_vcard_type">Padrão</string>
+  <string name="config_import_vcard_type">Padrão</string>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">"Are you sure you want to delete %s's call logs?"</string>
-  <string name="confirm_delete_selected_all_call_logs">"Are you sure you want to delete the contact's call logs?"</string>
-  <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
-  <string name="confirm_export_title">Export contacts?</string>
-  <string name="connections">Connections</string>
-  <string name="contactDetailAbout">About</string>
-  <string name="contactDetailCalllog">Call log</string>
-  <string name="contactDetailUpdates">Updates</string>
+  <string name="confirm_delete_contact_all_call_logs">"Você tem certeza que quer deletar os registros de ligação de %s?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Você tem certeza que quer deletar os registros de ligação de %s?"</string>
+  <string name="confirm_export_message">Sua lista de contatos será exportada para o arquivo: %s.</string>
+  <string name="confirm_export_title">Exportar contatos?</string>
+  <string name="connections">Conexôes</string>
+  <string name="contactDetailAbout">Sobre</string>
+  <string name="contactDetailCalllog">Registro de ligação</string>
+  <string name="contactDetailUpdates">Atualizações</string>
   <string name="contactMultiPickerActivityTitle">Select contacts</string>
-  <string name="contactPickerActivityTitle">Choose a contact</string>
+  <string name="contactPickerActivityTitle">Escolha um contato</string>
   <string name="contactSavedErrorToast">"Couldn't save contact changes."</string>
-  <string name="contactSavedToast">Contact saved.</string>
-  <string name="contact_delete_toast">Contact deleted successfully</string>
+  <string name="contactSavedToast">Contato salvo.</string>
+  <string name="contact_delete_toast">Contato deletado com sucesso</string>
   <string name="contact_detail_calllog_call_note_tips">Call note</string>
   <string name="contact_detail_calllog_call_record_tips">Call record</string>
   <string name="contact_directory_description">Directory %1$s</string>
