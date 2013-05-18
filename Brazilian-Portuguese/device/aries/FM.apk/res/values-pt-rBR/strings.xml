@@ -116,10 +116,10 @@
   <string name="test_prompt">Escolha um Teste</string>
   <string name="test_run">Iniciar Teste</string>
   <string name="title_select_station">Selecionar Emissora - %s</string>
-  <string name="toast_delete_station">%sMHz foi excluída.</string>
+  <string name="toast_delete_station">%sMHz foi excluído.</string>
   <string name="toast_edit_station">As mudanças foram salvas</string>
-  <string name="toast_save_station">%sMHz foi salva</string>
-  <string name="toast_sleep_mode">Stop FM in %s</string>
-  <string name="transmit_msg_string">Transmitting at:</string>
+  <string name="toast_save_station">%sMHz foi salvo</string>
+  <string name="toast_sleep_mode">Parar FM em %s</string>
+  <string name="transmit_msg_string">Transmitindo em:</string>
   <string name="type_rd"/>
 </resources>
