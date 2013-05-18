@@ -124,7 +124,7 @@
   <string name="pref_camera_auto_focus_title_entry_off">Desligado</string>
   <string name="pref_camera_auto_focus_title_entry_on">Ligado</string>
   <string name="pref_camera_autoexposure_default">center-weighted</string>
-  <string name="pref_camera_autoexposure_entry_centerweighted">Ponderado Central</string>
+  <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada ao Centro</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de Quadros</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição Spot</string>
   <string name="pref_camera_autoexposure_title">Selecionar o Modo de Exposição Automática</string>
