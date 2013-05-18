@@ -9,7 +9,7 @@
   <string name="alert_title_new_station">Nova Emissora</string>
   <string name="alert_title_save_station">Salvar Emissora - %s</string>
   <string name="app_name">Rádio FM</string>
-  <string name="aud_output_mode">Modo de Saída de Audio Output</string>
+  <string name="aud_output_mode">Modo de Saída de Áudio</string>
   <string name="audio_db_album_name">Gravações FM</string>
   <string name="audio_db_artist_name">Minhas Gravações FM</string>
   <string name="audio_db_playlist_name">Gravações FM</string>
