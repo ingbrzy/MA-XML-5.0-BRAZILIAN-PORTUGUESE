@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Contacts Storage</string>
-  <string name="call_log_provider_label">Call log</string>
-  <string name="create_contact">New contact</string>
-  <string name="default_directory">Contacts</string>
-  <string name="edit_contact">Add to contact</string>
-  <string name="local_invisible_directory">Other</string>
-  <string name="pound_search_tip">Input number after \"#\" to search contacts</string>
-  <string name="provider_label">Contacts</string>
-  <string name="read_write_all_voicemail_description">Allows the application to store and retrieve all voicemails that this device can access.</string>
-  <string name="read_write_all_voicemail_label">Access all voicemails</string>
-  <string name="send_sms">Send message</string>
-  <string name="sharedUserLabel">Android Core Apps</string>
-  <string name="upgrade_msg">Upgrading Contacts database.</string>
-  <string name="upgrade_out_of_memory_notification_text">Select to complete the upgrade.</string>
-  <string name="upgrade_out_of_memory_notification_ticker">Contact upgrade needs more memory</string>
-  <string name="upgrade_out_of_memory_notification_title">Upgrading contact storage</string>
-  <string name="voicemail_from_column">"Voicemail from "</string>
+    <string name="sharedUserLabel">Principais aplicativos do Android</string>
+    <string name="app_label">Armazenamento de contatos</string>
+    <string name="provider_label">Contatos</string>
+    <string name="upgrade_msg">Atualizando o banco de dados de contatos.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">A atualização de contatos precisa de mais memória</string>
+    <string name="upgrade_out_of_memory_notification_title">Armazenamento de atualização de contatos</string>
+    <string name="upgrade_out_of_memory_notification_text">Selecione para concluir a atualização.</string>
+    <string name="default_directory">Contatos</string>
+    <string name="local_invisible_directory">Outros</string>
+    <string name="read_write_all_voicemail_label">Acessar todas as mensagens de voz</string>
+    <string name="read_write_all_voicemail_description">Permite que o aplicativo armazene e recupere todas as mensagens de voz que esse dispositivo acessa.</string>
+    <string name="voicemail_from_column">"Correio de voz de "</string>
+    <string name="pound_search_tip">Insira um número após \"#\" para pesquisar contatos</string>
+    <string name="create_contact">Novo contato</string>
+    <string name="send_sms">Enviar SMS/MMS</string>
+    <string name="edit_contact">Adicionar a contato</string>
+    <string name="call_log_provider_label">Registo de chamadas</string>
 </resources>
