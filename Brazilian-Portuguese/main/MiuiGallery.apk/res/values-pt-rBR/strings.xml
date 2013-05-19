@@ -40,18 +40,18 @@
   <string name="cloud_album_more_settings">Configuração de album na nuvem</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_albums">Albuns nas nuvens</string>
-  <string name="cloud_camera_display_name">Unsorted</string>
+  <string name="cloud_camera_display_name">Não classificado</string>
   <string name="cloud_gallery_no_pictures">Nenhuma foto em MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Cloud Recycle bin full, please empty recycle bin by visiting i.xiaomi.com.</string>
-  <string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
-  <string name="cloud_media_set_set">Cloud albums</string>
+  <string name="cloud_gallery_recyclebin_full">Lixeira de armazenamento nas nuvens cheia, por favor, esvazie a lixeira visitando i.xiaomi.com.</string>
+  <string name="cloud_gallery_space_full">Erro no Upload!, Galeria de armazenamento nas nuvens esta cheia</string>
+  <string name="cloud_media_set_set">Albuns</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_tab_albums">Albums</string>
-  <string name="cloud_tab_all">All</string>
-  <string name="cloud_tab_locations">Locations</string>
-  <string name="cloudfolder_already_exists">Cloud folder already exists</string>
-  <string name="confirm_delete">Delete</string>
-  <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
+  <string name="cloud_tab_all">Todos</string>
+  <string name="cloud_tab_locations">Locais</string>
+  <string name="cloudfolder_already_exists">Pasta na nuvem já existe</string>
+  <string name="confirm_delete">Deletar</string>
+  <string name="confirm_delete_album" formatted="false">Tem certeza de que deseja excluir álbuns %s (incluindo itens %s )?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>
   <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s folders (including %s)</string>
