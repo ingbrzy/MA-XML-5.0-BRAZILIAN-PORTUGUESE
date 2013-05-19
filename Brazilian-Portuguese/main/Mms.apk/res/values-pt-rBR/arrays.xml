@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Three times</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Uma vez</item>
+        <item>Duas vezes</item>
+        <item>Três vezes</item>
+        <item>Cinco vezes</item>
+        <item>Dez vezes</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>E-mail</item>
+        <item>Organização</item>
+        <item>MI</item>
+        <item>Telefone IP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Anotação</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Exibe horário de recebimento</item>
+        <item>Exibe horário de envio (impreciso, utiliza dados do servidor)</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via SMS</item>
+        <item>Via SMS na Nuvem</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Por SMS</item>
+        <item>Por SMS na Nuvem</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Apenas no silencioso</item>
+        <item>Nunca</item>
     </string-array>
 </resources>
