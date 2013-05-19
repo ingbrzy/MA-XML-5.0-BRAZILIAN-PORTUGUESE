@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Clássico</item>
+        <item>Clássico (sem excesso)</item>
+        <item>Crossfade</item>
+        <item>Falldown</item>
+        <item>Pagina</item>
+        <item>Cascata</item>
+        <item>Rotação</item>
+        <item>Cubo 3D</item>
+    </string-array>
+    <string-array name="transformation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Por tema</item>
+        <item>Centralizar</item>
+        <item>Esquerda</item>
+        <item>Direita</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_values">
+        <item>byTheme</item>
+        <item>center</item>
+        <item>left</item>
+        <item>right</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ensolarado</item>
+        <item>Nublado</item>
+        <item>Chuviscos</item>
+        <item>Neblina</item>
+        <item>Tempestade Forte</item>
+        <item>Tempestade Pesada</item>
+        <item>Tempestade</item>
+        <item>Tempestade de Raios</item>
+        <item>Chuva</item>
+        <item>Chuva Forte</item>
+        <item>Chuva Moderada</item>
+        <item>Chuva Fraca</item>
+        <item>Chuva com Neve</item>
+        <item>Nevasca</item>
+        <item>Neve</item>
+        <item>Neve Pesada</item>
+        <item>Neve Moderada</item>
+        <item>Neve Leve</item>
+        <item>Forte Tempestade de Areia</item>
+        <item>Empoeirado</item>
+        <item>Leve Tempestade de Areia</item>
+        <item>Dilúvio</item>
+        <item>Empoeirado</item>
+    </string-array>
+</resources>
