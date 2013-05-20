@@ -50,7 +50,7 @@
 • Guarde seus eventos com segurança"</string>
   <string name="creating_event">Evento criado.</string>
   <string name="creating_event_with_guest">Os convites serão enviados.</string>
-  <string name="custom">"Custom (can't customize on phone)"</string>
+  <string name="custom">"Personalizado (não pode pode ser personalizado no telefone)"</string>
   <string name="daily">Diariamente</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dia</string>
@@ -158,7 +158,7 @@
   <string name="quick_response_settings_summary">Edit default responses when e-mailing guests</string>
   <string name="quick_response_settings_title">Editar respostas rápidas</string>
   <string name="reminders_label">Adicionar lembrete</string>
-  <string name="repeats_label">Recurring</string>
+  <string name="repeats_label">Re-ocorrendo</string>
   <string name="response_maybe">Talvez</string>
   <string name="response_no">Não</string>
   <string name="response_yes">Sim</string>
