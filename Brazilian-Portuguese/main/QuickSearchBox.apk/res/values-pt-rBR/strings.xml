@@ -26,7 +26,7 @@
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Procurar configurações</string>
-  <string name="remove_from_history">Remove from search history</string>
+  <string name="remove_from_history">Remover do histórico de pesquisa</string>
   <string name="remove_from_history_failed">"Não foi possível remover o item do historico"</string>
   <string name="search_in_app_store">Procurar Loja</string>
   <string name="search_in_web">Procurar na web</string>
