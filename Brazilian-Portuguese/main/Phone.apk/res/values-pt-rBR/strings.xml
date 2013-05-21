@@ -106,9 +106,9 @@
   <string name="bad_pin_miui">O antigo PIN que você digitou não está correto. Por favor, tente novamente.</string>
   <string name="bad_puk2_miui">O PUK2 que você digitou não está correto. Por favor, tente novamente</string>
   <string name="bad_puk_miui">O PUK que você digitou não está correto. Por favor, tente novamente.</string>
-  <string name="bf_news_settings">Business and Financial News</string>
-  <string name="callFailed_cb_enabled">You cannot make outgoing calls while call barring is on.</string>
-  <string name="callFailed_congestion">Network busy</string>
+  <string name="bf_news_settings">Notícias de Negócios e Financeiras</string>
+  <string name="callFailed_cb_enabled">Você não pode fazer ligações enquanto restrição de chamadas estiver ligada.</string>
+  <string name="callFailed_congestion">Rede ocupada</string>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
   <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
