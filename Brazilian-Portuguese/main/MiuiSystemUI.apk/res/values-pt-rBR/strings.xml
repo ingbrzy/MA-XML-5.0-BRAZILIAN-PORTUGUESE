@@ -117,11 +117,11 @@
   <string name="mdb_restore_mode">Modo restauração MDB</string>
   <string name="mdb_usb_disconnection_exit">USB desconectada, restauração abortada!</string>
   <string name="mount_storage">Sim</string>
-  <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
-  <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
-  <string name="no_notification_tips">No notifications</string>
-  <string name="notification_icon_filter">Customize status bar notification</string>
-  <string name="notification_icon_filter_hide">Don’t show notifications in status bar</string>
+  <string name="move_data_to_sdcard_message">"Para assegurar uma experiência de uso suave e estável, as imagens e as fotos serão exportados para o cartão SD para liberar mais memória interna. É melhor manter o cartão de memória SD no telefone para uso diário."</string>
+  <string name="move_data_to_sdcard_title">Exportar dados internos para cartão de memória SD</string>
+  <string name="no_notification_tips">Sem notificações</string>
+  <string name="notification_icon_filter">Personalize a notificação da barra de status</string>
+  <string name="notification_icon_filter_hide">Não mostrar notificações na barra de status</string>
   <string name="notification_icon_filter_list_empty_summary">Current list is empty</string>
   <string name="notification_icon_filter_menu_item_hide">Don’t show notifications of this app in status bar</string>
   <string name="notification_icon_filter_menu_item_show">Show notifications of this app in status bar</string>
