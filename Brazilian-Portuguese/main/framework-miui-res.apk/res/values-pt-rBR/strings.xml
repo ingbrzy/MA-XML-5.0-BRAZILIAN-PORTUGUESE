@@ -46,7 +46,7 @@
     <string name="firewall_setting">Firewall</string>
     <string name="first_back_long_press_message">"Você deseja ativar a opção de finalizar aplicativos em execução ao pressionar longamente a tecla voltar? 
     <string name="fm_record_smaple_prefix_miui">Gravação FM</string>
-    <string name="fools_day" />
+    <string name="fools_day">Dia da mentira</string>
     <string name="force_exit_message">\"%1$s\" terminado com sucesso</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">O registro de chamada e SMS ficarão ocultos no modo de Privacidade. O modo de edição do Launcher também será desativado.</string>
