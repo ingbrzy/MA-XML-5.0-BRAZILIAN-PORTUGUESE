@@ -101,7 +101,7 @@
   <string name="menu_about_preferences">Sobre o Calendário</string>
   <string name="menu_general_preferences">Configurações gerais</string>
   <string name="menu_preferences">Configurações</string>
-  <string name="menu_select_visible_calendars">Calendários para exibir</string>
+  <string name="menu_select_visible_calendars">Calendários a exibir</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Novo evento</string>
@@ -170,7 +170,7 @@
   <string name="search_title">Procurar meus calendários</string>
   <string name="select_synced_calendars_button">Sincronizar calendários</string>
   <string name="select_synced_calendars_title">Sincronizar calendários</string>
-  <string name="select_visible_calendars_title">Calendars to display</string>
+  <string name="select_visible_calendars_title">Calendários a exibir</string>
   <string name="show_controls">Mostrar controles</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="show_newer_events">Toque parar ver eventos a partir de %1$s</string>
