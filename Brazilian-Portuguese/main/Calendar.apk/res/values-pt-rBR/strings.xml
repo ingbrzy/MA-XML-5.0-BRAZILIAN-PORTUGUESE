@@ -187,7 +187,7 @@
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
   <string name="view_event_calendar_label">Calendário:</string>
   <string name="view_event_organizer_label">Organizador:</string>
-  <string name="view_event_response_label">Attending?</string>
+  <string name="view_event_response_label">Assistirá?</string>
   <string name="week_view">Semana</string>
   <string name="weekly">Semanal (todo %s)</string>
   <string name="what_label">O que</string>
