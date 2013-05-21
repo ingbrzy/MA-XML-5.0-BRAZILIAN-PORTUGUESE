@@ -279,7 +279,7 @@
     <string name="settings_i_xiaomi_com">Entrar em i.xiaomi.com para gerenciar seu armazenamento em nuvem</string>
     <string name="cloud_album_more_settings">Configurações álbum nuvem</string>
     <string name="browse_category">Procurar fotos</string>
-    <string name="photo_page_save_image">Savar</string>
+    <string name="photo_page_save_image">Salvar</string>
     <string name="photo_page_save_uri_image_ok">Salvar foto no diretório fotos da câmeras.</string>
     <string name="photo_page_save_uri_image_fail">Falha ao salvar foto.</string>
     <string name="albumset_page_title_separator"> | </string>
