@@ -264,7 +264,7 @@ saia de vista por um momento"</string>
     <string name="pref_camera_volumekey_function_entry_shutter">obturador</string>
     <string name="pref_camera_volumekey_function_entry_zooming">zoom</string>
     <string name="pref_camera_volumekey_function_title">Botões de Volume</string>
-    <string name="pref_camera_long_pressing_burst_shooting_title">Burst Shooting</string>
+    <string name="pref_camera_long_pressing_burst_shooting_title">Fotos Sequênciais</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Off</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">On</string>
     <string name="pref_camera_current_k_value">Valor Atual</string>
