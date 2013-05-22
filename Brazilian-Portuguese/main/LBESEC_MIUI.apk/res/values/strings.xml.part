@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Do you wish to allow %1$s to get ROOT permission?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Are your sure to allow %1$s to get ROOT permission?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Deseja permitir que %1$s obtenha permissão de ROOT?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Tem certeza de que permite %1$s obter permissão de ROOT?</string>
 </resources>
