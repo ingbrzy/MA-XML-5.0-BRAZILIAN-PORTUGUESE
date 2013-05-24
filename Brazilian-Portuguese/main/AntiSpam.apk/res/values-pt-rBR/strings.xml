@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Firewall</string>
     <string name="firewall_settings_tab_title">Ajustes</string>
@@ -128,6 +129,13 @@
     <string name="remove_delete">Excluir</string>
     <string name="blacklist_tab_title">Lista negra</string>
     <string name="whitelist_tab_title">Lista Branca</string>
-    <string name="log_count">( %d )</string>
     <string name="new_bw_list_button">Adicionar contatos</string>
+    <string name="mark_number_dialog_maintitle">Marcar número desconhecido e fazer o upload</string>
+    <string name="mark_number_dialog_subtitle">Desenvolvido em conjunto com 搜狗号码通</string>
+    <string name="custom_mark_category">Personalizado</string>
+    <string name="smart_antispam">Identificar número desconhecido Smartly</string>
+    <string name="turn_on_smart_antispam_hint">Depois números permitindo serão identificados, números de etiqueta e ajudam a determinar chamadas fraudulentas.</string>
+    <string name="turn_on_smart_antispam_title">Identificar números desconhecidos</string>
+    <string name="turn_on_smart_antispam_summary_on">Só funciona em redes WLAN e 3G</string>
+    <string name="turn_on_smart_antispam_summary_off">Somente consulta ao banco de dados de número local</string>
 </resources>
