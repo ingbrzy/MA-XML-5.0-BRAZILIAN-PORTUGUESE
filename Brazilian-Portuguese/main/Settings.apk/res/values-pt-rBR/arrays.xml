@@ -346,25 +346,25 @@ o driver precisa ser instalado manualmente"</item>
 dispositivo de armazenamento XIAOMI irá aparecer em seu computador
 Abrir e selecione Setup.exe para instalação"</item>
         <item></item>
-        <item>"电脑将出现 XIAOMI 存储设备
-请打开并选择AndroidFileTransfer.dmg进行安装"</item>
+        <item>"Dispositivo de armazenamento Xiaomi irá aparecer em seu computador
+Abrir e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.电脑将出现 MI 2手机存储设备
-您可以传输文件了"</item>
+        <item>"2.Dispositivo de armazenamento MI2 vai aparecer no seu computador
+Agora você pode transferir arquivos"</item>
         <item></item>
-        <item>"软件会自动打开，并读取手机数据
-您可以传输文件了"</item>
+        <item>"Computador irá automaticamente abrir e ler dados do telefone
+Agora você pode transferir arquivos"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"如果您已安装此驱动程序
-电脑会出现MI 2 手机存储设备"</item>
-        <item>"电脑系统为 Windows Vista 及以上版本时
-电脑会出现 MI2 便携媒体播放器"</item>
-        <item>"如果您已安装此驱动程序
-软件会自动打开，并读取手机数据"</item>
+        <item>"Se você instalar esse driver
+o dispositivo de armazenamento MI2 deve aparecer no computador"</item>
+        <item>"Para Windows Vista ou versões mais recentes,
+o leitor de música MI2 vai aparecer no seu computador"</item>
+        <item>"Se você instalar esse driver
+Computador irá automaticamente abrir e ler dados do telefone"</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -373,16 +373,16 @@ Abrir e selecione Setup.exe para instalação"</item>
         <item>Frio</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>鲜艳</item>
-        <item>标准</item>
+        <item>Brilhante</item>
+        <item>Padrão</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>允许</item>
-        <item>提示</item>
-        <item>拒绝</item>
+        <item>Permitir</item>
+        <item>Perguntar</item>
+        <item>Negar</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>允许</item>
-        <item>拒绝</item>
+        <item>Permitir</item>
+        <item>Negar</item>
     </string-array>
 </resources>
