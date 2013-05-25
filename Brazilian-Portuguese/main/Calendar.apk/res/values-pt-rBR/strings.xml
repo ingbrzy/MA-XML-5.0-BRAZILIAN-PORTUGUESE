@@ -122,7 +122,6 @@
     <string name="preferences_hide_declined_title">Ocultar recusados</string>
     <string name="preferences_week_start_day_title">A semana começa em</string>
     <string name="preferences_week_start_day_dialog">A semana começa em</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_clear_search_history_title">Limpar histórico de pesquisa</string>
     <string name="preferences_clear_search_history_summary">Remover todas as pesquisas realizadas</string>
     <string name="search_history_cleared">Histórico de pesquisa apagado.</string>

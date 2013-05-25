@@ -19,7 +19,8 @@
     <string name="err_type_suggestion">Sugestões</string>
     <string name="err_type_data_lost">Arquivos perdidos</string>
     <string name="status_msg_pending_upload">%d feedbacks sendo enviados...</string>
-    <string name="status_msg_collecting_log">Coletando logs</string>
+    <string name="status_msg_collecting_log">"A fim de resolver problemas mais rapidamente, 
+Coletando logs"</string>
     <string name="action_submit">Enviar</string>
     <string name="section_err_type">Tipo de feedback</string>
     <string name="section_description">Descrição</string>

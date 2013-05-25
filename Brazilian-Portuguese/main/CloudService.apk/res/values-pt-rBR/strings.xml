@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Xiaomi Sync</string>
-  <string name="find_device">Procurar dispositivo</string>
-  <string name="find_device_stop_noise">Clique \"OK\" para parar o alerta sonoro</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar fotos usando Wi-Fi para evitar custos de dados extras</string>
+  <string name="sync_item_sms_title">Sincronizar mensagens</string>
+  <string name="sync_item_sms_summary">As mensagens serão automaticamente sincronizadas</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Usar a Wi-Fi para sincronizar mensagens</string>
+  <string name="sub_sync_item_sms_summary">Sincronizar mensagens usando Wi-fi para evitar custos de dados extras</string>
   <string name="pref_title_sync_contacts_title">sincronizar contators</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Usar Wi-fi na visualização de fotos</string>
-  <string name="sub_sync_item_sms_summary">Sincronizar mensagens usando Wi-fi para evitar custos de dados extras</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Usar a Wi-Fi para sincronizar mensagens</string>
-  <string name="sync_item_sms_summary">As mensagens serão automaticamente sincronizadas</string>
-  <string name="sync_item_sms_title">Sincronizar mensagens</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar fotos usando Wi-Fi para evitar custos de dados extras</string>
+  <string name="find_device">Procurar dispositivo</string>
+  <string name="find_device_stop_noise">Clique \"OK\" para parar o alerta sonoro</string>  
 </resources>

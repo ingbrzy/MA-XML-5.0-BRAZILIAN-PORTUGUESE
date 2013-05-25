@@ -7,4 +7,9 @@
         <item>Texto grande</item>
         <item>Texto enorme</item>
     </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Mostrar a mensagem mais recente na tela após excluir uma mensagem</item>
+        <item>Mostrar a mensagem mais velha na tela após excluir uma mensagem</item>
+        <item>Mostrar lista de mensagem na tela após excluir uma mensagem</item>
+    </string-array>
 </resources>

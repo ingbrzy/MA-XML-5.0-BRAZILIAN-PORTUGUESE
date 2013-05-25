@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="build_number">20080722-0001</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="permission_read_attachment_desc">Permite que este aplicativo leia os anexos do seu e-mail.</string>
     <string name="permission_access_provider_label">Acessar dados do provedor de e-mail</string>
@@ -54,12 +53,6 @@
     <string name="notification_to_account">para %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d novas mensagens</string>
     <string name="account_name_display_all">Todas as contas</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
     <string name="mailbox_name_display_outbox">Caixa de saída</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>
@@ -71,13 +64,6 @@
     <string name="picker_mailbox_name_all_inbox">Caixa de entrada (todas)</string>
     <string name="picker_combined_view_fmt">Visualização combinada (%s)</string>
     <string name="debug_version_fmt">Versão: %s</string>
-    <string name="debug_enable_debug_logging_label">Ativar LOG extensivo?</string>
-    <string name="debug_enable_exchange_logging_label">Ativar parser do log do exchange? (extensivo)</string>
-    <string name="debug_enable_exchange_file_logging_label">Ativar log do exchange no cartão SD?</string>
-    <string name="debug_clear_webview_cache">Limpar cache WebView</string>
-    <string name="debug_disable_graphics_acceleration_label">Desativar aceleração gráfica</string>
-    <string name="debug_force_one_minute_refresh_label">Forçar atualização por minuto de POP/IMAP</string>
-    <string name="debug_enable_strict_mode_label">Ativar modo estrito (com log)</string>
     <string name="account_folder_list_summary_inbox">Caixa de entrada</string>
     <string name="account_folder_list_summary_starred">Com estrela</string>
     <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -210,10 +196,6 @@ Cc: %4$s
     <string name="account_setup_account_type_title">Configuração da conta</string>
     <string name="account_setup_account_type_headline">Tipo de conta</string>
     <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
-    <string name="account_setup_account_type_pop_action">POP3</string>
-    <string name="account_setup_account_type_imap_action">IMAP</string>
-    <string name="account_setup_account_type_exchange_action">Exchange</string>
-    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
     <string name="account_setup_incoming_title">Configuração da conta</string>
     <string name="account_setup_incoming_headline">Configurações de entrada do servidor</string>
     <string name="account_setup_incoming_username_label">Nome de usuário</string>
@@ -416,7 +398,6 @@ Cc: %4$s
     <string name="search_slow_warning_title">Aguardando resultados</string>
     <string name="search_slow_warning_message">Alguns servidores podem levar um longo tempo.</string>
     <string name="action_bar_mailbox_list_title">Pastas</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="default_signature">Enviado de meu MIPhone</string>
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>
     <string name="application_name">Instant Upload</string>
@@ -490,7 +471,9 @@ Cc: %4$s
     <string name="manager_toast_canceled">Envio cancelado</string>
     <string name="manager_toast_not_canceled">Envio já concluído</string>
     <string name="manager_sync_all">Sincronizar tudo</string>
-    <string name="manager_activity_last_sync_format">Última sincronização: %1$s %2$s</string>
+    <string name="manager_activity_last_sync_format">"Última sincronização：
+%1$s
+%2$s"</string>
     <string name="finished_empty">A lista de itens concluídos está vazia.</string>
     <string name="notify_uploads">Instant Upload</string>
     <string name="notify_resolved">Envios concluídos</string>
@@ -579,4 +562,5 @@ Cc: %4$s
     <string name="account_setup_basic_description_label">Nome da conta (opcional)</string>
     <string name="add_quick_responses_action">criar nova</string>
     <string name="account_security_waiting_policy_key_message">%s precisa de informações de configurações de segurança do servidor, por favor aguarde...</string>
+    <string name="cleared_trusted_senders_message">"Desmarque a opção \"mostrar imagens\"imagens em mensagens não será mostrado automaticamente"</string>
 </resources>
