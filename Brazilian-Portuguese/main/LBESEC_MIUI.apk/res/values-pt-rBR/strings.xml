@@ -146,9 +146,10 @@
     <string name="Dashboard_Perm_SU_Desc">Monitorando %1$d apps com permissões de root</string>
     <string name="Dashboard_Perm_SU_Disabled">Permissões de root desativadas</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso ROOT não está disponível na MIUI Estável</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Permitir o acesso ROOT a aplicativos de terceiros pode causar instabilidades no sistema, perda de dados pessoais ou até mesmo falha de hardware..Por favor troque sua ROM para uma versão de desenvolvimento para ativar as permissões ROOT.</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Permitir o acesso ROOT a aplicativos de terceiros pode causar instabilidades no sistema, perda de dados pessoais ou até mesmo falha de hardware..
+
+Por favor troque sua ROM para uma versão de desenvolvimento para ativar as permissões ROOT."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_HIPS_Switch">Monitor de Permissões</string>
     <string name="Dashboard_Perm_HIPS">Gerenciar permissões de apps</string>
     <string name="Dashboard_Perm_HIPS_Desc">Monitorando %1$d aplicativo(s)</string>
@@ -156,13 +157,13 @@
     <string name="Dashboard_Perm_HIPS_Disabled">Monitor de permissões desativado</string>
     <string name="Dashboard_Perm_HIPS_Risky">Permissões importantes (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Permissões normais (%1$d)</string>
-    <string name="Dashboard_Perm_AutoStart_Switch">Início Automático de aplicativos</string>
     <string name="Dashboard_Perm_AutoStart">Gerenciar início automático</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Ativar ou desativar o início automático de aplicativos</string>
     <string name="Dashboard_HIPS_Disable_Title">Monitor de Permissões</string>
     <string name="Dashboard_HIPS_Disable_Content">Ao desativar o monitor você fará com que a MIUI pare de monitorar requisições de aplicativos, não mais protegendo sua segurança e privacidade. Deseja realmente desativá-lo?</string>
     <string name="Dashboard_Su_Enable_Title">Permissões root</string>
-    <string name="Dashboard_Su_Enable_Content">"Ao ativar esta opção você permitirá que aplicativos solicitem permissões root. Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, perda de dados pessoais, dados de sistema ou até mesmo falhas de hardware. Proceda com cautela. Deseja continuar?"</string>
+    <string name="Dashboard_Su_Enable_Content">"Ao ativar esta opção você permitirá que aplicativos solicitem permissões root. 
+Nota: Apps com este tipo de permissão podem causar instabilidade do sistema, perda de dados pessoais, dados de sistema ou até mesmo falhas de hardware. Proceda com cautela. Deseja continuar?"</string>
     <string name="Dashboard_Log_Clear_Title">Limpar Logs</string>
     <string name="Dashboard_Log_Clear_Content">Todos os logs serão apagados. Deseja realmente ativá-lo?</string>
     <string name="Privacy_Perm_Count">Permitido: %1$d Negado: %2$d</string>
