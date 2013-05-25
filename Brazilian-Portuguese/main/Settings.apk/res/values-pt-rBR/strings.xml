@@ -130,28 +130,11 @@
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
     <string name="bluetooth_auto_connect">Conexão automática</string>
     <string name="bluetooth_connection_permission_request">Solicitação de conexão Bluetooth</string>
-    <string name="bluetooth_pbap_connection_permission_request">Pedido de conexão Pbap</string>
-    <string name="bluetooth_ftp_connection_permission_request">Pedido de conexão Ftp</string>
-    <string name="bluetooth_map_connection_permission_request">Pedido de conexão Map</string>
-    <string name="bluetooth_sap_connection_permission_request">Pedido de conexão Sap</string>
-    <string name="bluetooth_dun_connection_permission_request">Pedido de conexão Dun</string>
     <string name="bluetooth_connection_notif_message">Toque para conectar-se a \"%1$s\".</string>
     <string name="bluetooth_connection_dialog_text">Deseja conectar-se ao \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Solicitação da lista telefônica</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s gostaria de acessar os seus contatos e histórico de chamadas. Conceder acesso a %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
-    <string name="bluetooth_ftp_request">Pedido Ftp</string>
-    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s gostaria de acessar seus arquivos e pastas. Dar acesso a %2$s?</string>
-    <string name="bluetooth_ftp_remember_choice">Não perguntar novamente</string>
-    <string name="bluetooth_mas_request">Pedido de acesso a mensagens</string>
-    <string name="bluetooth_mas_acceptance_dialog_text">%1$s gostaria de acessar suas mensagens. Dar acesso a %2$s?</string>
-    <string name="bluetooth_mas_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_sap_request">SAP request</string>
-    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
-    <string name="bluetooth_sap_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_dun_request">DUN request</string>
-    <string name="bluetooth_dun_acceptance_dialog_text">%1$s would like to use DUN. Give access to %2$s?</string>
-    <string name="bluetooth_dun_remember_choice">"Don't ask again"</string>
     <string name="date_and_time">Configurações de data e hora</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
@@ -444,9 +427,7 @@ Para continuar usando seu dispositivo, é necessário restaurar as configuraçõ
     <string name="android_beam_off_summary">Desativado</string>
     <string name="android_beam_disabled_summary">Indisponível porque o NFC está desativado</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"Quando este recurso está ativado, você pode arrastar o conteúdo do aplicativo para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. 
- 
-Por exemplo, você pode arrastar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais. Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar em sua tela. O aplicativo determina o que é arrastado."</string>
+    <string name="android_beam_explained">Quando este recurso está ativado, você pode arrastar o conteúdo do aplicativo para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo, você pode arrastar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais. Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar em sua tela. O aplicativo determina o que é arrastado.</string>
     <string name="nsd_quick_toggle_title">Serviço de descoberta de rede</string>
     <string name="nsd_quick_toggle_summary">Permite que aplicativos em outros dispositivos descubram aplicativos deste dispositivo</string>
     <string name="wifi_quick_toggle_title">WiFi</string>
@@ -658,10 +639,6 @@ PIN possivelmente incorreto."</string>
 PIN possivelmente incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
-    <string name="sim_change_failed_enable_sim_lock">Não foi possível alterar o PIN do SIM. Ativar bloqueio do SIM.</string>
-    <string name="sim_lock_change_not_supported">Não foi possível alterar Bloqueio do SIM. SIM não suporta.</string>
-    <string name="sim_pin_enabled">PIN1 Ativado!</string>
-    <string name="sim_pin_disabled">PIN1 Desativado!</string>
     <string name="device_info_settings">Status do dispositivo</string>
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="system_update_settings_list_item_summary" />
@@ -776,21 +753,15 @@ PIN possivelmente incorreto."</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
     <string name="master_clear_title">Restaurar configuração de fábrica</string>
     <string name="master_clear_summary">Apaga todos os dados no dispositivo</string>
-    <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b> de seu dispositivo, incluindo:
- 
-"<li>Sua Conta do Google</li>"
-"<li>Configurações e dados do sistema</li>"
-"<li>Aplicativos baixados</li></string>
+    <string name="master_clear_desc">Essa ação apagará todos os dados do armazenamento interno de seu dispositivo</string>
     <string name="master_clear_accounts">"
 
 No momento você está conectado às seguintes contas:
 "</string>
-    <string name="master_clear_desc_also_erases_external"><li>músicas</li>"
-"<li>Imagens</li>"
-"<li>Outros dados de usuário</li></string>
+    <string name="master_clear_desc_also_erases_external" />
     <string name="master_clear_desc_erase_external_storage">"
 
-Para limpar músicas, imagens e outros dados de usuário,  o "<b>cartão SD</b> precisa ser apagado.</string>
+Para apagar músicas, fotos e outros dados do usuário, desmarque "</string>
     <string name="erase_external_storage">Apagar cartão SD</string>
     <string name="erase_external_storage_description">Apagar todos os dados do cartão SD, como músicas e fotos</string>
     <string name="master_clear_button_text">Redefinir dispositivo</string>
@@ -951,14 +922,9 @@ Pronto para começar? Toque em Próximo."</string>
     <string name="show_background_processes">Mostrar processo em cache</string>
     <string name="reset_app_preferences">Reiniciar preferências de apps</string>
     <string name="reset_app_preferences_title">Reiniciar preferências de apps?</string>
-    <string name="reset_app_preferences_desc">"Isto irá apagar todas as preferências para:
+    <string name="reset_app_preferences_desc">"Esta operação redefinirá todas as seguintes preferências:
 
- "<li>Apps desativados</li>"
- "<li>Notificações desativadas</li>"
- "<li>Aplicativos padrão</li>"
- "<li>Restrição de uso de dados</li>"
-
- Você não perderá os dados do app."</string>
+"</string>
     <string name="reset_app_preferences_button">Reiniciar appss</string>
     <string name="manage_space_text">Gerenciar espaço</string>
     <string name="filter">Filtro</string>
@@ -1088,8 +1054,7 @@ Pronto para começar? Toque em Próximo."</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Excluir</string>
-    <string name="user_dict_settings_empty_text">"Você não possui palavras no dicionário do usuário. 
-Adicione uma palavra tocando no botão Adicionar (+)."</string>
+    <string name="user_dict_settings_empty_text">Você não possui palavras no dicionário do usuário. Adicione uma palavra tocando no botão Adicionar (+).</string>
     <string name="user_dict_settings_all_languages">Todos os idiomas</string>
     <string name="user_dict_settings_more_languages">Mais Idiomas...</string>
     <string name="testing">Testando</string>
@@ -1384,9 +1349,7 @@ Alguns aplicativos podem não funcionar até que sejam atualizados por seus dese
     <string name="wifi_setup_status_eap_not_supported">EAP não é suportado.</string>
     <string name="wifi_setup_eap_not_supported">Não é possível configurar uma conexão WiFi EAP durante a configuração. É possível fazer isso em seguida, na opção Configurações > Sem fio &amp; redes.</string>
     <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos...</string>
-    <string name="wifi_setup_description_connected">Toque em <b>Próximo</b>" para continuar a configuração.
-
-Toque em "<b>Voltar</b> para conectar-se a outra rede WiFi.</string>
+    <string name="wifi_setup_description_connected">Toque em <b>Próximo</b>" para continuar a configuração. Toque em "<b>Voltar</b> para conectar-se a outra rede WiFi.</string>
     <string name="accessibility_sync_enabled">Sincronização ativada</string>
     <string name="accessibility_sync_disabled">Sincronização desativada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -1409,13 +1372,12 @@ Toque em "<b>Voltar</b> para conectar-se a outra rede WiFi.</string>
     <string name="settings_backup_summary">Fazer backup de minhas configurações</string>
     <string name="sync_menu_sync_now">Sincronizar agora</string>
     <string name="sync_menu_sync_cancel">Cancelar sincronização</string>
-    <string name="sync_one_time_sync">"Toque para sincronizar agora
-%1$s"</string>
+    <string name="sync_one_time_sync">"Toque para sincronizar agora（
+%1$s）"</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Agenda</string>
     <string name="sync_contacts">Contatos</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>" 
-Um método do Google para sincronizar dados de modo a permitir o acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja."</string>
+    <string name="sync_plug" />
     <string name="header_application_sync_settings">Configurações de sincronização do aplicativo</string>
     <string name="header_data_and_synchronization">Dados e sincronização</string>
     <string name="preference_change_password_title">Alterar senha</string>
@@ -1544,10 +1506,8 @@ Para escolher quais tipos de informações poderão ser sincronizadas, vá a Con
 Como o uso de dados é calculado por seu dispositivo, e sua operadora pode explicar o uso de forma diferente, cogite usar um limite moderado."</string>
     <string name="data_usage_restrict_background_title">Restringir dados de segundo plano?</string>
     <string name="data_usage_restrict_background">Se você restringir os dados móveis de segundo plano, alguns aplicativos e serviços não funcionarão, a menos que você esteja conectado a uma rede WiFi.</string>
-    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">aviso</font></string>
-    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">limite</font></string>
+    <string name="data_usage_sweep_warning" />
+    <string name="data_usage_sweep_limit" />
     <string name="data_usage_uninstalled_apps">Aplicativos removidos</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
     <string name="data_usage_total_during_range">%2$s: por volta de %1$s utilizado</string>
@@ -1626,165 +1586,6 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="help_label">Ajuda</string>
     <string name="cell_broadcast_settings">Cell broadcasts</string>
     <string name="cell_broadcast_settings_summary">Selecione os tipos de alerta a exibir.</string>
-    <string name="perm_app_name">Permissões</string>
-    <string name="perm_copyright">Desenvolvido por LBE Privacy Guard</string>
-    <string name="perm_version">Verssão: %1$s</string>
-    <string name="perm_configuration">Confugurações</string>
-    <string name="perm_user_app">Transferido aplicativos (%d)</string>
-    <string name="perm_system_app">Aplicativos do sistema (%d)</string>
-    <string name="perm_system_app_label">[System App]</string>
-    <string name="perm_monitored_app">Aplicativos monitorados (%1$d)</string>
-    <string name="perm_trusted_app">Aplicativos confiáveis (%1$d)</string>
-    <string name="perm_show_system_app">Mostrar aplicativos do sistema</string>
-    <string name="perm_hide_system_app">Ocultar aplicativos do sistema</string>
-    <string name="perm_loading">Carregando...</string>
-    <string name="perm_operating">Verificando...</string>
-    <string name="perm_canceling">Cancelando...</string>
-    <string name="perm_invalid_input">Entrada inválida</string>
-    <string name="perm_service_enabled">Serviço ativo</string>
-    <string name="perm_service_disabled">Serviço está desativado</string>
-    <string name="perm_summary_enabled">Ligado</string>
-    <string name="perm_summary_disabled">Desligado</string>
-    <string name="perm_enable">Ativar monitor de permissão</string>
-    <string name="perm_disable">Desligar</string>
-    <string name="perm_optimize">Otimizar</string>
-    <string name="perm_check">Verificar</string>
-    <string name="perm_clean">Limpar</string>
-    <string name="perm_good">Bom</string>
-    <string name="perm_update">Atualização do software</string>
-    <string name="perm_shortcut">Menu contextual</string>
-    <string name="perm_hips_action_accept_count">Permitido: %1$d</string>
-    <string name="perm_hips_action_reject_count">Negado: %1$d</string>
-    <string name="perm_hips_group_expense">Segurança</string>
-    <string name="perm_hips_group_pim">Informações pessoais</string>
-    <string name="perm_hips_group_location">Posicionamento</string>
-    <string name="perm_hips_group_phoneid">Identificação do telefone</string>
-    <string name="perm_hips_group_internet">Acesso à Internet</string>
-    <string name="perm_hips_group_data_privacy">Privacidade</string>
-    <string name="perm_hips_group_root">ROOT</string>
-    <string name="perm_hips_mobile_network">Rede Móvel</string>
-    <string name="perm_hips_mobile_network_desc">Rede Móvel</string>
-    <string name="perm_hips_mobile_network_hint">%1$s aplicativos têm permissão para acessar a Internet por rede móvel</string>
-    <string name="perm_hips_wifi_network_desc">Rede Wi-Fi</string>
-    <string name="perm_hips_wifi_network_hint">%1$s aplicativos têm permissão para acessar a Internet por rede Wi-Fi</string>
-    <string name="perm_hips_network_unknown_addr">Endereço desconhecido</string>
-    <string name="perm_hips_network_mobile_event">utilizando a rede móvel</string>
-    <string name="perm_hips_network_wifi_event">utilizando a rede Wi-Fi</string>
-    <string name="perm_hips_network_accept">aceitar conexão de %1$s</string>
-    <string name="perm_hips_network_connect">conectar a %1$s</string>
-    <string name="perm_hips_network_listen">atender a porta %1$s</string>
-    <string name="perm_hips_network_recv">receber dados</string>
-    <string name="perm_hips_network_send">enviar dados</string>
-    <string name="perm_hips_root">ROOT</string>
-    <string name="perm_hips_root_desc">Pedido de Permissão ROOT</string>
-    <string name="perm_hips_root_desc_stable">Indisponível em MIUI estável</string>
-    <string name="perm_hips_root_hint">%1$s aplicativos são permitidos obter permissão de root</string>
-    <string name="perm_hips_send_sms_recipient">Destinatário:</string>
-    <string name="perm_hips_send_sms_content">Conteúdo:</string>
-    <string name="perm_hips_send_sms_smsc">Central SMS:</string>
-    <string name="perm_hips_send_sms_smsc_default">Central SMS padrão</string>
-    <string name="perm_hips_send_sms_port">Porta Destino:</string>
-    <string name="perm_hips_send_sms_data">enviar SMS para %1$s:%2$d</string>
-    <string name="perm_hips_send_sms_text">enviar SMS para %1$s</string>
-    <string name="perm_hips_call_number">chamar %1$s</string>
-    <string name="perm_hips_contact_access">ler sua lista de contatos</string>
-    <string name="perm_hips_sms_access">Ler caixa de entrada SMS</string>
-    <string name="perm_hips_calllog_access">Ler registros de chamadas</string>
-    <string name="perm_hips_location_source_network">Fonte: Rede</string>
-    <string name="perm_hips_location_source_gps">Fonte: GPS</string>
-    <string name="perm_hips_location_source_cellular">Fonte: Rede Celular</string>
-    <string name="perm_hips_location_cell_location">Obter localização celular</string>
-    <string name="perm_hips_location_cellinfo">Obter localização celular</string>
-    <string name="perm_hips_location_monitor">Rastrear sua localização</string>
-    <string name="perm_hips_location_access">Obter sua localização corrente</string>
-    <string name="perm_hips_phoneid_imei">obter número IMEI</string>
-    <string name="perm_hips_phoneid_imeisn">obter IMEI/SN</string>
-    <string name="perm_hips_phoneid_iccid">obter Serial SIM Card</string>
-    <string name="perm_hips_phoneid_number">obter sue número de telefone</string>
-    <string name="perm_hips_phoneid_imsi">obter número IMSI</string>
-    <string name="perm_hips_allow_all">Permitir tudo</string>
-    <string name="perm_hips_prompt_all">Avisar tudo</string>
-    <string name="perm_hips_reject_all">Rejeitar tudo</string>
-    <string name="perm_hips_root_title">obter permissão ROOT</string>
-    <string name="perm_hips_listen_call_state">monitorar status da chamada</string>
-    <string name="perm_hips_get_call_state">obter status de chamada atual</string>
-    <string name="perm_hips_end_call">rejeitar chamada atual</string>
-    <string name="perm_hips_answer_call">responder chama atual</string>
-    <string name="perm_hips_silence_ringer">silenciar a campainha</string>
-    <string name="perm_hips_cancel_missed_calls">apagar notificação de chamadas não atendidas</string>
-    <string name="perm_hips_adjust_volume_incall">ajustar o volume da chamada</string>
-    <string name="perm_hips_adjust_ringer_volume">ajustar o volume da campainha</string>
-    <string name="perm_hips_security_prompt_caption">Aviso de Segurança</string>
-    <string name="perm_hips_security_prompt_title">%1$s está tentando %2$s</string>
-    <string name="perm_hips_security_prompt_remember">Lembrar da minha escolha</string>
-    <string name="perm_hips_security_prompt_accept">Permitir (%d)</string>
-    <string name="perm_hips_security_prompt_reject">Negar (%d)</string>
-    <string name="perm_hips_security_prompt_accept_root">Permitir</string>
-    <string name="perm_hips_security_prompt_next">Próximo</string>
-    <string name="perm_hips_security_prompt_root_caption">Aviso Importante</string>
-    <string name="perm_hips_security_prompt_root_step1">Deseja permitir que %1$s obter permissão ROOT?</string>
-    <string name="perm_hips_security_prompt_root_step2">Permissão ROOT pode causar instabilidade no sistema</string>
-    <string name="perm_hips_security_prompt_root_step3">Seus dados de privacidade, contas, senha e mensagens pode ser comprometida</string>
-    <string name="perm_hips_security_prompt_root_step4">Dano permanente de hardware também é possível</string>
-    <string name="perm_hips_security_prompt_root_step5">Utilizar com cuidado!</string>
-    <string name="perm_hips_security_prompt_root_step6">Permitir %1$s obter permissão ROOT?</string>
-    <string name="perm">Permissões</string>
-    <string name="perm_app">Aplicativos</string>
-    <string name="perm_log">Registros</string>
-    <string name="perm_header">monitorando %1$d aplicativos</string>
-    <string name="perm_header_disabled">Monitor de permissão está desativado</string>
-    <string name="perm_su_switch">Permissões ROOT</string>
-    <string name="perm_su">Gerenciar Permissão ROOT</string>
-    <string name="perm_su_desc">Monitorando %1$d aplicações para permissão de ROOT</string>
-    <string name="perm_su_desc1">Gerenciar permissão ROOT</string>
-    <string name="perm_su_disabled">Permissão root desativada</string>
-    <string name="perm_su_disabled_in_stable">ROOT não está disponível em MIUI estável</string>
-    <string name="perm_su_disabled_in_stable_desc">"Conceder permissão para ROOT para aplicativos na terceira partição pode causar instabilidade no sistema, até perda de dados pessoais, do sistema ou danos no hardware. 
- 
-Mude para MIUI versão de desenvolvimento para permitir permissão ROOT."</string>
-    <string name="perm_su_disabled_desc">Conceder permissão ROOT para aplicativos na terceira partição pode causar instabilidade no sistema, até perda de dados pessoais, do sistema ou danos no hardware. Garantir que você sabe permissão ROOT.</string>
-    <string name="perm_su_disabled_in_stable_download">Baixar MIUI</string>
-    <string name="perm_hips_switch">Monitor de Permissões</string>
-    <string name="perm_hips">Gerenciar Permissões de aplicativos</string>
-    <string name="perm_hips_desc">Monitorando %1$d aplicativos para segurança e privacidade</string>
-    <string name="perm_hips_desc1">Monitoramento de aplicativos para segurança e privacidade</string>
-    <string name="perm_hips_desc2">Monitoramento %1$d aplicativos para segurança e privacidade</string>
-    <string name="perm_hips_risky">Permissões de risco (%1$d)</string>
-    <string name="perm_hips_safe">Permissões normais (%1$d)</string>
-    <string name="perm_auto_start">Gerenciar aplicativo de início automático</string>
-    <string name="perm_auto_start_desc">Ativar ou desativar a função de de aplicativo de início automático</string>
-    <string name="perm_hips_disable_title">Monitor de Permissões</string>
-    <string name="perm_hips_disable_content">Desativando ele vai fazer MIUI parar solicitações de aplicativos de monitoramento e não mais protegendo a sua segurança e privacidade. Tem certeza de querer desativá-lo?</string>
-    <string name="perm_su_enable_title">Permissão ROOT</string>
-    <string name="perm_su_enable_content">"Ativando permitirá aplicações para solicitar permissão ROOT. 
-Nota: Aplicativos com a permissão pode causar instabilidade no sistema, até perda de dados pessoais, do sistema ou danos no hardware. Gostaria de habilitá-lo?"</string>
-    <string name="perm_log_clear_title">Limpar Logs</string>
-    <string name="perm_log_clear_content">Todos os registros serão apagados. Gostaria de permitir?</string>
-    <string name="perm_privacy_count">Permitidos: %1$d Negados: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d permissões</string>
-    <string name="perm_privacy_app_trust_summary">Confiável</string>
-    <string name="perm_privacy_app_trust">Confio neste aplicativo</string>
-    <string name="perm_privacy_app_trust_summary_off">MIUI irá monitorar neste aplicativo</string>
-    <string name="perm_privacy_app_trust_summary_on">MIUI vai confiar neste aplicativo</string>
-    <string name="perm_privacy_app_manage">Detalhes</string>
-    <string name="perm_privacy_app_uninstall">Desinstalar</string>
-    <string name="perm_privacy_app_log">Logs</string>
-    <string name="perm_privacy_app_installed">Instalação bem-sucedida!</string>
-    <string name="perm_privacy_app_finish">Concluir</string>
-    <string name="perm_privacy_app_launch">Iniciar</string>
-    <string name="perm_privacy_app_trust_dialog_title">Confiar neste aplicativo</string>
-    <string name="perm_privacy_app_trust_dialog_content">MIUI não vai pedir sua confirmação de qualquer segurança e operações afins de privacidade deste aplicativo.</string>
-    <string name="perm_sysopt_boost_boot">Inicializar</string>
-    <string name="perm_sysopt_boost_receiver">Segundo plano</string>
-    <string name="perm_sysopt_boost_auto_start_group">niciar automaticamente</string>
-    <string name="perm_sysopt_boost_auto_start">Permissão iniciar automaticamente</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Permitir este processo iniciar automaticamente</string>
-    <string name="perm_su_enable_dialog">%1$s está tentando obter permissão ROOT sistema que está desativado por padrão para garantir a segurança do sistema. Se você precisa ativá-lo, vá até as configurações em Gerenciador de permissão.</string>
-    <string name="perm_notice">Alerta de Segurança</string>
-    <string name="trust_switch_dialog_msg">"MIUI não irá pedir confirmação de qualquer segurança e operações afins de privacidade a partir deste aplicativo. 
-Confiar neste aplicativo？"</string>
-    <string name="auto_startup_dialog_msg">"MIUI permitirá o aplicativo iniciar automaticamente sem pedir. O que pode levar a um consumo de energia de tráfego / dados. 
-Permitir iniciar automaticamente？"</string>
     <string name="search_airplane">avião</string>
     <string name="search_network">rede</string>
     <string name="search_wifi">Wi-Fi</string>
@@ -1834,16 +1635,12 @@ Permitir iniciar automaticamente？"</string>
     <string name="haptic_feedback_level">Nível de vibração</string>
     <string name="privacy_protect_title">Proteção de privacidade</string>
     <string name="privacy_mode_enable_title">Modo privado</string>
-    <string name="privacy_mode_enable_sum">Oculta registro de chamadas, mensagens entre outros para proteger a privacidade do usuário.</string>
     <string name="ac_enable_title">Controle de acesso</string>
     <string name="ac_set_apps_title">Proteger aplicativos</string>
     <string name="ac_privacy_mode_title">Ativar senha</string>
-    <string name="ac_privacy_mode_sum">Introduza a senha para desativar o Controle de acesso.</string>
     <string name="access_control_password_title">Ativar restrição de acesso</string>
     <string name="access_control_need_to_unlock">Insira uma senha para restringir o acesso</string>
     <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
-    <string name="access_control_need_password">"%s é protegido por senha
-"</string>
     <string name="access_control_no_back_footer">Pressione [icon] para sair</string>
     <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio</string>
     <string name="access_control_app_entry_single">Executar app selecionado</string>
@@ -1854,20 +1651,9 @@ Permitir iniciar automaticamente？"</string>
     <string name="screen_timeout_title">Tempo limite da tela</string>
     <string name="screen_on_proximity_sensor_title">Prevenir má operação</string>
     <string name="screen_on_proximity_sensor_summary">Previne má operação quando o dispositivo estiver em algum bolso (utiliza o sensor de proximidade).</string>
-    <string name="preferred_launcher_title">Launcher Preferido</string>
-    <string name="preferred_launcher_warning_title">Mudando padrão do launcher</string>
-    <string name="preferred_launcher_warning_message">Substituir o launcher padrão pode consumir mais recursos do que o launcher padrão. Tem certeza de que deseja substituir?</string>
-    <string name="preferred_launcher_warning_replace">Substituir Launcher</string>
-    <string name="preferred_launcher_warning_use_system">Usar launcher padrão</string>
     <string name="key_settings_title">Botões</string>
     <string name="key_settings">Botões</string>
-    <string name="screen_key_long_press">Pressão longa nas teclas da tela</string>
-    <string name="screen_key_long_press_action">Função de disparar</string>
     <string name="menu_key">Botão Menu</string>
-    <string name="home_key">tecla Início</string>
-    <string name="back_key">Voltar chave</string>
-    <string name="screen_key_long_press_timeout">Pressão longa tempo de espera</string>
-    <string name="under_keyguard">Embaixo do bloqueio de tela</string>
     <string name="enable_snapshot_screenlock">Tirar foto na lockscreen</string>
     <string name="disable_power_key_long_press_under_keyguard">Desativar na lockscreen</string>
     <string name="trackball_wake_title">Ligar tela com trackball</string>
@@ -1944,36 +1730,6 @@ Permitir iniciar automaticamente？"</string>
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar em modo normal</string>
     <string name="silent_mode_title">Modo Silencioso</string>
-    <string name="wifi_wapi_certification_dont_exist">A senha informada está incorreta. Tente novamente.</string>
-    <string name="please_type_passphrase">Senha do WiFi</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_certificate">Certificado</string>
-    <string name="wifi_wapi_cert_mgmt_titlebar">Gerenciamento de Certificado WAPI</string>
-    <string name="wifi_wapi_cert_install">Instalar Certificado WAPI</string>
-    <string name="wifi_wapi_cert_install_button">Instalar</string>
-    <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
-    <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
-    <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
-    <string name="wifi_wapi_cert_create_subdir">Criar um diretório</string>
-    <string name="wifi_wapi_cert_delet_subdir">Selecionar um certificado</string>
-    <string name="wifi_wapi_as_cert">Certificado AS</string>
-    <string name="wifi_wapi_user_cert">Certificado do Usuário</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Por favor insira um nome para o diretório a ser criado!</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_exist">Por favor escolha outro nome para o diretório. Este nome já existe.</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Falha ao criar diretório</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Por favor insira o nome do certificado</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">O cartão SD não possui o Certificado AS. Verifique se o certificado está presente!</string>
-    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O certificado AS está em formato incorreto! Tente instalar o certificado novamente.</string>
-    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de usuário está em formato incorreto! Tente instalar o certificado novamente.</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Por favor insira o nome do certificado de usuário</string>
-    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Por favor insira o nome do certificado do usuário</string>
-    <string name="wifi_context_menu_connect">Conectar à rede</string>
-    <string name="wifi_context_menu_forget">Esquecer rede</string>
-    <string name="wifi_context_menu_change_password">Alterar senha</string>
-    <string name="wifi_context_menu_change_wapi_certificate">Alterar Certificado WAPI</string>
     <string name="search_label">Configurações</string>
     <string name="search_hint">Configs. de pesquisa</string>
     <string name="search_description">Configs. de pesquisa</string>
@@ -2001,9 +1757,7 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="master_clear_erase_application_progress">Apagar aplicativos em execução</string>
     <string name="erase_internal_storage">Apagar cartão SD emulado</string>
     <string name="erase_internal_storage_description">Apagar todos os cados no cartão SD emulado, como fotos e músicas</string>
-    <string name="storage_format">Formatar</string>
     <string name="usage_log">Estatísticas de uso de aplicativos</string>
-    <string name="bluetooth_device_searchable">Dispositivo visível</string>
     <string name="usb_msd_title">Armaz. em Massa</string>
     <string name="usb_msd_summary">Permite que você transfira arquivos entre computadores</string>
     <string name="usb_msd_driver_installer_title">Disco de instalação de Driver (MSD)</string>
@@ -2031,13 +1785,6 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="virus_scanner_select_single">É recomendado que você selecione o banco de dados mais confiável para uso com o programa</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_Cancel">Cancelar</string>
-    <string name="virus_scanner_provider">Suporte de segurança fornecido por %s</string>
-    <string name="virus_scanner_auto_update">Atualização autom.</string>
-    <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-    <string name="virus_scanner_manual_update">Atualização manual</string>
-    <string name="virus_scanner_lib_updating">Atualizando ...</string>
-    <string name="virus_scanner_lib_already_latest">Banco de dados de vírus atualizado</string>
-    <string name="virus_scanner_lib_update_failed">Falha na atualização do banco de dados de vírus</string>
     <string name="virus_scan_app_safe_scanning">Scaneando ...</string>
     <string name="virus_scan_app_multi_engines">Você selecionou várias engines, a verificação poderá demorar um pouco.</string>
     <string name="virus_scan_app_scanning">Scaneando ...</string>
@@ -2055,47 +1802,6 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="virus_scan_app_is_stop_scan">Interromper varredura?</string>
     <string name="password_guard">Proteção por senha</string>
     <string name="title_dolby_control">Controles Dolby Mobile</string>
-    <string name="dolby_mode_off">Desligar</string>
-    <string name="dolby_mode_music">Modo música</string>
-    <string name="dolby_mode_movie">Modo vídeo</string>
-    <string name="dolby_effects">Efeitos Dolby</string>
-    <string name="dolby_music_advance">Realçador de música</string>
-    <string name="dolby_movie_advance">Realçador de Vídeo</string>
-    <string name="dolby_bassboost_title">Grave：</string>
-    <string name="dolby_bassboost_low">Suave</string>
-    <string name="dolby_bassboost_normal">Normal</string>
-    <string name="dolby_bassboost_high">Forte</string>
-    <string name="dolby_roomsize_title">Surround：</string>
-    <string name="dolby_roomsize_summary">Configurações de som Surround disponíveis apenas ao usar fone de ouvido</string>
-    <string name="dolby_roomsize_low">Indoor</string>
-    <string name="dolby_roomsize_normal">Normal</string>
-    <string name="dolby_roomsize_high">Spacious</string>
-    <string name="dolby_equalizer">Equalizer</string>
-    <string name="dolby_eq_flat">Flat</string>
-    <string name="dolby_eq_rock">Rock</string>
-    <string name="dolby_eq_jazz">Jazz</string>
-    <string name="dolby_eq_pop">Pop</string>
-    <string name="dolby_eq_classical">Clássica</string>
-    <string name="dolby_eq_rb">R &amp; B</string>
-    <string name="dolby_eq_hiphop">Hiphop</string>
-    <string name="dolby_eq_blues">Blues</string>
-    <string name="dolby_eq_electronic">Electronic</string>
-    <string name="dolby_eq_country">Country</string>
-    <string name="dolby_eq_dance">Dance</string>
-    <string name="dolby_eq_metal">Metal</string>
-    <string name="dolby_eq_delete">Remover</string>
-    <string name="dolby_eq_delete_success">Removido com sucesso</string>
-    <string name="dolby_eq_auto">Personalizar</string>
-    <string name="dolby_preset_create">Criar</string>
-    <string name="dolby_preset_rename">Renomear</string>
-    <string name="dolby_preset_format">Personalizado %d</string>
-    <string name="dolby_preset_hint">Insira o nome predefinido</string>
-    <string name="dolby_preset_select">Seleccione a predefinição</string>
-    <string name="dolby_eq_enter_alert_title">Ativar música Dolby</string>
-    <string name="dolby_eq_enter_alert_msg">Só pode utilizar o equalizador no modo Dolby música. Habilitá-lo agora?</string>
-    <string name="wifi_menu_wfd">Tela WiFi</string>
-    <string name="dirac_mode_earbuds">Fones de ouvido</string>
-    <string name="wfd_settings_title">Configurações de Tela WiFi</string>
     <string name="wfd_menu_search">Procurar dispositivos</string>
     <string name="wfd_menu_searching">Procurando...</string>
     <string name="wfd_menu_teardown">Parar</string>
@@ -2107,114 +1813,20 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="wfd_wps_pbc">Preferir PIN</string>
     <string name="power_mode">Modo de Energia</string>
     <string name="skip_step">Pular Etapa</string>
-    <string name="msd_help_title">Ajuda</string>
-    <string name="msd_help_summary">"Tendo dificuldades ao acessar o armazenamento em massa de seu dispositivo pelo computador?
-Por favor selecione o sistema operacional do seu computador:"</string>
-    <string name="msd_install_succeed">Driver já instalado</string>
-    <string name="msd_install_next">Próximo</string>
-    <string name="msd_install">Reinstalar driver</string>
-    <string name="msd_install_finish">OK</string>
-    <string name="msd_install_windows_xp_step_2_1">"1.Se o Assistente de Instalação for exibido,
-sias as suas instruções até que ele seja concluído"</string>
-    <string name="msd_install_retry_windows_xp">"Se o seu computador não detectou o MI2 corretamente,
-tente o seguinte:
-"<li>Desconecte o MI2 do cabo USB, e então, reconecte-o.</li>"
-"<li>Reinstale o driver.</li></string>
-    <string name="msd_install_retry_windows_vista">"Se o seu computador não detectou o MI2 corretamente,
-tente o seguinte:
-"<li>Desconecte o MI2 do cabo USB, e então, reconecte-o.</li></string>
-    <string name="msd_install_retry_mac">"Se o seu computador não detectou o MI2 corretamente,
-tente o seguinte:
-"<li>"Pesquise em seu computador por
-Android File Transfer
-"</li>"
-"<li>Desconecte o MI2 do cabo USB, e então, reconecte-o.</li>"
-"<li>Reinstale o driver.</li></string>
-    <string name="msd_install_retry_linux">"Se o seu computador não detectou o MI2 corretamente,
-tente o seguinte:
-1) Execute o seguinte comando em seu linux: sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Crie um diretório: mkdir /media/mtp
-3) Confirme o as permissoes de usuario no grupo ~fuse~
-4) Faça logout e login novamente
-5) Acesse o dispositivo montado em /media/mtp por um gerenciador de arquivos
-6) Para desmonta-lo, utilize o comando mount -u /media/mtp
- Nota: Para sistemas baseados no ubuntu"</string>
-    <string name="msd_install_status_undo">Instalar driver</string>
-    <string name="msd_install_status_done">Driver já instalado</string>
-    <string name="msd_driver_download">Baixar driver</string>
-    <string name="msd_driver_windows_xp_download">Acessar http://miuiandroid.com/windows/ e fazer o download para o seu PC</string>
-    <string name="msd_driver_mac_download">Acessar http://miuiandroid.com/mac/ e fazer o download para o seu MAC</string>
-    <string name="vpn_settings_password">Proteção por senha de VPN</string>
-    <string name="vpn_safe">Segurança</string>
-    <string name="vpn_configure">Configuração</string>
-    <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
-    <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
-    <string name="sync_wifi_label">Config. WiFi</string>
-    <string name="wifi_enable">Ativar Wi-Fi</string>
     <string name="bluetooth_enable">Ativar bluetooth</string>
-    <string name="sync_enable">Ativar sincronização</string>
-    <string name="accessibility_enable">Ativar accessibilidade</string>
-    <string name="development_enable">Ativar desenvolvimento</string>
-    <string name="device_name">Nome do aparelho</string>
-    <string name="device_edit_title">Alterar o nome do aparelho</string>
-    <string name="device_name_input_hint">Digite o nome do seu aparelho</string>
-    <string name="device_name_usage_point">Permitir que o aparelho seja descoberto por outros aparelhos Bluetooth para permitir a transferência de arquivos e outras funções.</string>
-    <string name="drive_mode">Modo Dirigir</string>
-    <string name="enable_drive_mode">Ativar Modo Dirigir</string>
-    <string name="drive_mode_title">Definir relatório de voz e auto respostaDefinir relatório de voz e auto resposta</string>
-    <string name="drive_mode_settings">Configurações Modo Dirigir</string>
-    <string name="drive_mode_voice_report">Relatório de voz</string>
-    <string name="drive_mode_phone_report">Relatório de chamadas</string>
-    <string name="drive_mode_sms_report">Relatório de SMS</string>
-    <string name="drive_mode_invert_stop_report">Virar para parar relatório</string>
-    <string name="drive_mode_auto_reply">Auto resposta</string>
-    <string name="drive_mode_calling_auto_sms_reply">Auto resposta de chamada com SMS</string>
-    <string name="drive_mode_sms_auto_sms_reply">Auto resposta SMS</string>
-    <string name="drive_mode_only_contact_reply">Responder apenas pessoas da sua lista de contatos</string>
-    <string name="drive_mode_auto_sms_reply_content">Desculpe, eu estou dirigindo agora. Entrarei em contato com você depois.</string>
-    <string name="drive_mode_auto_sms_reply_content_title">Conteúdo de resposta SMS</string>
-    <string name="clear_activities_summary">Ativar este programa para algumas operações por padrão</string>
-    <string name="permission_detail_info">Ver as informações de autorização</string>
-    <string name="permission_detail_info_summary">Todas as permissões: Seguro %1$d，Privado %2$d，Outros %3$d</string>
-    <string name="permission_manage">Gerenciamento de Permissões</string>
-    <string name="permission_manage_summary">Inicialização Automatica, privacidade, gerenciamento de permissões seguro</string>
-    <string name="security_relative">Relacionadas com a segurança</string>
-    <string name="privacy_relative">Privacidade relacionado</string>
-    <string name="other_relative">Outras permissões</string>
-    <string name="permission_manage_title">%s detalhes de permissão</string>
-    <string name="filter_apps_cached">armazenada em cache</string>
-    <string name="screen">Tela</string>
-    <string name="system">Sistema</string>
-    <string name="screen_color_temperature_adjust">Ajuste da temperatura de cor</string>
-    <string name="screen_saturation_adjust">Ajuste da saturação de cor</string>
-    <string name="finish_application">Final</string>
-    <string name="header_category_accounts">CONTAS</string>
-    <string name="auto_startup_application_manage">controle de aplicativo</string>
-    <string name="auto_startup_count">Autorizar %d aplicativos Auto iniciar</string>
-    <string name="man_add_application">Adicionar manualmente aplicativos de início automático</string>
-    <string name="application_item_disable">Desativar</string>
-    <string name="application_item_permission">Autorizar</string>
-    <string name="application_item_already_permission">Autorizados</string>
-    <string name="application_forbid_auto_startup">Desativar%s a inicialização no segundo plano</string>
-    <string name="floating_window_switch_label">Mostrar janela pop-up</string>
-    <string name="floating_window_switch_label_disable">Ocultar a janela pop-up</string>
-    <string name="app_floating_window_dlg_enable">"A ativação de %1$s mostrar definições da janela flutuante precisa reiniciar o aplicativo. Você pode parar de executar manualmente o mesmo aplicativo.
-Você tem certeza que deseja ativar?"</string>
-    <string name="app_floating_window_dlg_disable">A desativação de %1$s definições da janela flutuante vai forçao aplicativo parar . Você também pode abrir manualmente aplicativo. 
-Tem certeza de que deseja desativar?"</string>
-    <string name="wps_category">Segurança WPS</string>
-    <string name="wps_connect_title">Conectar usando WPS</string>
-    <string name="wps_connect_summary">Verifique se o roteador suporta WPS</string>
-    <string name="retry">Repetir</string>
-    <string name="brightness_auto_adjust_off">O brilho pode ser ajustado manualmente a seu gosto pelo movimento deslizante. O brilho da tela permanecerá inalterada em qualquer ambiente.</string>
-    <string name="brightness_auto_adjust_on">Efeito de brilho automático pode ser ajustada pelo movimento deslizante. Efeito de brilho da tela irá variar de acordo com o seu ajuste e ambiente.</string>
-    <string name="private_sms_need_to_unlock">Digite a senha SMS</string>
-    <string name="private_sms_reset_by_account">Entrar conta Xiaomi para redefinir a senha SMS</string>
-    <string name="private_sms_recording_intro_header">Desenhar padrão para criar senha de bloqueio</string>
-    <string name="dirac_control">MI Som</string>
-    <string name="cancel_alert">Descartar as alterações?</string>
-    <string name="android_beam_witch_label">Ativar Android Beam</string>
-    <string name="sim_management_title">Gestão SIM</string>
-    <string name="sim_status_title">SIM status</string>
-    <string name="slot_status_title">informação IMEI</string>
+    <string name="dialog_title_entryvalues_dolby_control">杜比音效控制</string>
+    <string name="virus_scanner_kinsoft_provider">金山手机卫士提供安全支持</string>
+    <string name="wifi_wapi_as_certificate">认证证书</string>
+    <string name="wifi_wapi_fail_to_auth">WAPI 认证失败，请检查证书的有效性</string>
+    <string name="wifi_wapi_fail_to_init">打开 WAPI 证书失败，证书可能不可用</string>
+    <string name="wifi_wapi_psk_type">密码类型</string>
+    <string name="wifi_wapi_user_certificate">用户证书</string>
+    <string name="back_long_press">返回键</string>
+    <string name="back_long_press_timeout">延时时间</string>
+    <string name="bluetooth_profile_name">%1$s的小米手机</string>
+    <string name="enable_assist_key_long_press">长按菜单键打开语音助手</string>
+    <string name="enable_back_long_press">长按返回键停止当前程序</string>
+    <string name="power_key">电源键</string>
+    <string name="pref_volume_category_title">音量键</string>
+    <string name="show_rounded_corners_summary">重启系统后才起作用</string>
 </resources>
