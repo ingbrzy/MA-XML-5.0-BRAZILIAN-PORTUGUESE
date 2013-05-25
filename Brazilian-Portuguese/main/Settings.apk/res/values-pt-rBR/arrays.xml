@@ -275,14 +275,35 @@
         <item>8 segundos</item>
         <item>9 segundos</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Violeta</item>
+        <item>Roxo</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Azul</item>
         <item>Vermelho</item>
         <item>Amarelo</item>
         <item>Verde</item>
         <item>Ciano</item>
-        <item>Rosa</item>
+        <item>Branco</item>
         <item>Violeta</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Não</item>
+        <item>Iniciar Tarefas recentes</item>
+        <item>Iniciar assistente de voz</item>
+        <item>Iniciar Google Search</item>
+        <item>Parar aplicativo</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 segundo</item>
+        <item>1 segundo</item>
+        <item>1.5 segundos</item>
+        <item>2 segundos</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -305,15 +326,63 @@
         <item>Normal</item>
         <item>Economia de Energia</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
-        <item>0.5 segundo</item>
-        <item>1 segundo</item>
-        <item>1.5 segundos</item>
-        <item>2 segundos</item>
+    <string-array name="msd_pc_system">
+        <item>Windows XP ou versões antigas</item>
+        <item>Windows Vista ou versões recentes</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Para Windows XP ou versões mais antigas,
+o driver precisa ser instalado manualmente"</item>
+        <item>"Para Windows Vista ou versões mais recentes,
+o MI 2 leitor de música vai aparecer no seu computador"</item>
+        <item>"Para Mac OS 
+o driver precisa ser instalado manualmente"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"（Por favor, ignore a tela pop-up do Assistente de Configuração）
+dispositivo de armazenamento XIAOMI irá aparecer em seu computador
+Abrir e selecione Setup.exe para instalação"</item>
+        <item></item>
+        <item>"电脑将出现 XIAOMI 存储设备
+请打开并选择AndroidFileTransfer.dmg进行安装"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.电脑将出现 MI 2手机存储设备
+您可以传输文件了"</item>
+        <item></item>
+        <item>"软件会自动打开，并读取手机数据
+您可以传输文件了"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"如果您已安装此驱动程序
+电脑会出现MI 2 手机存储设备"</item>
+        <item>"电脑系统为 Windows Vista 及以上版本时
+电脑会出现 MI2 便携媒体播放器"</item>
+        <item>"如果您已安装此驱动程序
+软件会自动打开，并读取手机数据"</item>
+        <item></item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Quente</item>
         <item>Natural</item>
         <item>Frio</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>鲜艳</item>
+        <item>标准</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>允许</item>
+        <item>提示</item>
+        <item>拒绝</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>允许</item>
+        <item>拒绝</item>
     </string-array>
 </resources>
