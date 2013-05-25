@@ -9,9 +9,10 @@
         <item>Gerenc. de arquivos</item>
         <item>Galeria</item>
         <item>Gerenciador de Permissões</item>
-        <item>Dados de Clima</item>
         <item>Câmera</item>
         <item>Assistente de Rede</item>
+        <item>Dados de Clima</item>
+        <item>Clima</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contatos</item>
