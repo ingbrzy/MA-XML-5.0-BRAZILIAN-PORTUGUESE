@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="camera_error_title">Erro de câmera</string>
-    <string name="cannot_connect_camera">Não é possível conectar à câmera.</string>
+    <string name="cannot_connect_camera">Não é possível conectar a câmera, reinicie a câmera.</string>
+    <string name="cannot_connect_camera_twice">"Não é possível conectar a câmera, reinicie o telefone"</string>
     <string name="camera_disabled">A câmera foi desativada devido às políticas de segurança.</string>
     <string name="camera_label">Câmera</string>
     <string name="video_camera_label">Filmadora</string>
@@ -21,7 +22,6 @@
     <string name="review_cancel">CANCELAR</string>
     <string name="pref_camera_id_title">Selecionar câmera</string>
     <string name="pref_camera_recordlocation_title">Armazenar Localização</string>
-    <string name="pref_camera_recordlocation_default">false</string>
     <string name="pref_camera_recordlocation_entry_off">Desativado</string>
     <string name="pref_camera_recordlocation_entry_on">Ativado</string>
     <string name="pref_camera_sound_title">Som da Câmera</string>
@@ -190,7 +190,6 @@
     <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pano_review_saving_indication_str">Salvando...</string>
     <string name="tap_to_focus">Toque para ajustar o foco.</string>
-    <string name="pref_video_effect_default">none</string>
     <string name="effect_none">Nenhum</string>
     <string name="effect_goofy_face_squeeze">Comprimir</string>
     <string name="effect_goofy_face_big_eyes">Olhos grandes</string>

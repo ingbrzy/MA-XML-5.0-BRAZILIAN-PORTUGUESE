@@ -68,9 +68,6 @@
         <item>Viagem</item>
         <item>Variedades</item>
         <item>Clima e Tempo</item>
-        <item>Renomear</item>
-        <item>Automático</item>
-        <item>Excluir</item>
     </string-array>
     <string-array name="regional_band_entries">
         <item>América do Norte</item>
