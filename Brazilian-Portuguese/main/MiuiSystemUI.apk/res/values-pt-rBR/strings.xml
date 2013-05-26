@@ -213,6 +213,9 @@ d-M-yyyy"</string>
     <string name="ext_media_safe_unmount_notification_message">Você pode remover com segurança o cartão SD de seu dispositivo.</string>
     <string name="ext_media_nomedia_notification_title">Cartão SD removido</string>
     <string name="ext_media_nomedia_notification_message">Cartão SD removido. Insira um novo cartão.</string>
+    <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB conectada</string>
+    <string name="ext_media_mountable_notification_message">Mídia montado, você pode acessá-lo via Gerenciador de Arquivos</string>
+    <string name="ext_media_safe_remove">Remover a mídia com segurança</string>
     <string name="screen_button_custom">Personalizar posição na tela</string>
     <string name="recent_apps_key">Aplicativos recentes</string>
     <string name="recent_apps_key_show">Exibir aplicativos recentes</string>
@@ -284,7 +287,4 @@ d-M-yyyy"</string>
     <string name="screen_rotation_freeze_message">Bloqueadas rotação da tela para o modo paisagem</string>
     <string name="screen_button_disabled_message">Funções dos botões na parte inferior da tela estão desativados. Você pode Ativa-los pressionando \"Home\" e \"Power\"</string>
     <string name="screen_button_enabled_message">Funções dos botões na parte inferior da tela estão ativados</string>
-    <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB conectada</string>
-    <string name="ext_media_mountable_notification_message">Mídia montado, você pode acessá-lo via Gerenciador de Arquivos</string>
-    <string name="ext_media_safe_remove">Remover a mídia com segurança</string>
 </resources>

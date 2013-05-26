@@ -52,4 +52,8 @@
     <string name="about_version_label">Versão:</string>
     <string name="about_developer_label">Desenvolvedor</string>
     <string name="about_developer_name">MIUI</string>
+    <string name="nowifi_alert_dialog_title">Ligação</string>
+    <string name="nowifi_alert_dialog_message">Vai utilizar e ligação 3G para reproduzir o vídeo, continuar?</string>
+    <string name="nowifi_alert_dialog_continue">Continuar</string>
+    <string name="nowifi_alert_dialog_exit">Sair</string>
 </resources>
