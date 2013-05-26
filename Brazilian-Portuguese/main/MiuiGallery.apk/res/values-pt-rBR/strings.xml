@@ -49,7 +49,6 @@
     <string name="frame_black">Preto</string>
     <string name="frame_semicircle">Semicírculo</string>
     <string name="frame_movie">Filme</string>
-    <string name="hue_polymorphism">photoeditor_effect_hue</string>
     <string name="app_name">Galeria</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -71,6 +70,7 @@
     <string name="confirm_delete">Deseja excluir %s itens?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s imagem (ns), em %s tem certeza que deseja excluir?</string>
     <string name="delete_fail_too_many_items">Falha ao excluir muitos itens selecionados</string>
+    <string name="action_fail_unknown_error">Não é possível terminar a operação devido a um erro desconhecido.</string>
     <string name="add_to_cloud_fail_too_many_items">Falha ao concluir a operação, muitos itens selecionados</string>
     <string name="confirm_delete_album" formatted="false">Tem certeza que deseja excluir %s álbuns (incluindo %s itens)?</string>
     <string name="confirm_delete_system_album">O álbum %s é um álbum do sistema. Tem certeza que deseja excluí-lo?</string>
@@ -197,7 +197,6 @@
     <string name="none_picture">Não existem fotos na Galeria.</string>
     <string name="show_hidden_albums">Mostrar álbum oculto (s)</string>
     <string name="not_show_hidden_albums">Não mostrar álbum oculto (s)</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Falha ao carregar imagem!</string>
     <string name="damaged_file">Arquivo corrompido</string>
     <string name="cloud_camera_display_name">Indiferenciados</string>
@@ -247,6 +246,7 @@
     <string name="cleaning_cache">Limpando cache...</string>
     <string name="seconds">segundos</string>
     <string name="rename_failed">Falha ao renomear</string>
+    <string name="rename_failed_duplicated_name">O nome já existe, não foi possível renomear</string>
     <string name="warn">Atenção</string>
     <string name="send_multiple_files_hint_format">Enviar vários arquivos (%s)</string>
     <string name="send">Enviar</string>
@@ -288,7 +288,17 @@
     <string name="cloud_tab_locations">Locais</string>
     <string name="cloud_album_set_create">Novos</string>
     <string name="big_screen_alertdialog_title">Dispositivo projetor</string>
-    <string name="group_by_size">Por tamanho</string>
-    <string name="modify_cloud_settings">Configurações MiCloud</string>
-    <string name="no_files">Pasta vazia</string>
+    <string name="comma">，</string>
+    <string name="quotation">“%s”</string>
+    <string name="share_album">Compartilhar álbuns</string>
+    <string name="share_album_qr_code">Código QR</string>
+    <string name="share_album_owner">Pessoas compartilhando</string>
+    <string name="share_album_share_to">Ação</string>
+    <string name="scan_qr_code">Deixe um amigo digitalizar o próximo código QR, você pode começar a compartilhar este álbum</string>
+    <string name="add_sharer">Adicionando amigo compartilhado</string>
+    <string name="album_name">Nome do álbum</string>
+    <string name="can_modified">Permitir amigos para adicionar fotos</string>
+    <string name="sharer_status_waitting">Aguardar</string>
+    <string name="sharer_status_accepted">Aceito</string>
+    <string name="sharer_status_refused">Rejeitado</string>
 </resources>

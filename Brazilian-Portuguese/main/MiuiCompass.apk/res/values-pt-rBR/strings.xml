@@ -2,7 +2,6 @@
 <resources>
     <string name="app_label">Bússola</string>
     <string name="getting_location">Obtendo localização...</string>
-    <string name="cannot_get_location">Não foi possivel obter a sua localização</string>
     <string name="location_north">%s N</string>
     <string name="location_south">%s S</string>
     <string name="location_east">%s L</string>
@@ -26,4 +25,6 @@
     <string name="direction_south">S</string>
     <string name="direction_east">L</string>
     <string name="direction_west">O</string>
+    <string name="guide_toast">"Pode haver interferência de campo magnético ao redor.
+Calibrar a bússola de acordo com o gesto acima"</string>
 </resources>
