@@ -2192,7 +2192,7 @@ e fazer o download para o seu MAC"</string>
     <string name="system">Sistema</string>
     <string name="screen_color_temperature_adjust">Ajuste da temperatura de cor</string>
     <string name="screen_saturation_adjust">Ajuste da saturação de cor</string>
-    <string name="finish_application">Final</string>
+    <string name="finish_application">Encerrar</string>
     <string name="header_category_accounts">CONTAS</string>
     <string name="auto_startup_application_manage">controle de aplicativo</string>
     <string name="auto_startup_count">Autorizar %d aplicativos Auto iniciar</string>
