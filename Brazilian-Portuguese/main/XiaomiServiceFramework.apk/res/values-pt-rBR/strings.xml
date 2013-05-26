@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="xmpp_server_addr" />
     <string name="app_name">XiaoMi Service Framework</string>
     <string name="account">Conta</string>
     <string name="account_hint_text">Email/Telefone</string>
     <string name="login">Conectar-se</string>
-    <string name="next">Próximo</string>
+    <string name="next">Avançar</string>
     <string name="prev">Voltar</string>
     <string name="forget_password"><u>Esqueci a senha</u></string>
     <string name="password">Senha</string>
     <string name="bad_authentication">Falha na autenticação: Usuário ou senha incorretos</string>
+    <string name="int_phone_user_notice">Ao inscrever-se com um número fora da China continental, por favor, entrar código do país. E.g. +351xxxxxxxxx</string>
     <string name="micloud_welcome_skip_login"><u>Pular esta etapa</u></string>
     <string name="micloud_account_name">Conta XiaoMi</string>
     <string name="micloud_use_existing">Existente</string>
@@ -24,6 +24,8 @@
     <string name="micloud_password_confirm_hint">Confirme sua senha</string>
     <string name="micloud_password_req_notice">8~16 caracteres, números ou letras. A senha é sensível a maiúsculas</string>
     <string name="micloud_password_error_inconsistent">Senhas não conferem</string>
+    <string name="micloud_via_sms_alert">Um SMS será enviado para validar o seu número de telefone. Continuar?</string>
+    <string name="micloud_via_int_sms_alert">Um SMS que podem implicar custos internacionais será enviado para validar o seu número de telefone. Continuar?</string>
     <string name="micloud_error_email">Email inválido</string>
     <string name="micloud_account">Conta XiaoMi</string>
     <string name="micloud_activing_account">Ativando sua conta</string>
@@ -50,7 +52,8 @@
     <string name="error_server">Erro no servidor</string>
     <string name="error_sim_not_ready">SIM indisponível</string>
     <string name="error_unknown">Erro desconhecido: %1$s</string>
-    <string name="quick_login_title">Autenticação necessária, por favor insira sua senha</string>
+    <string name="quick_login_title">"Autenticação necessária, 
+insira sua senha"</string>
     <string name="account_name">Conta: %1$s</string>
     <string name="input_password_hint">Senha</string>
     <string name="confirm">Confirmar</string>
@@ -62,12 +65,15 @@
     <string name="data_sync_notice">Utilize sua conta XiaoMi para sincronizar SMS, MMS, Contatos e outros dados.</string>
     <string name="sync_dspt">Utilizar conta XiaoMi para sincronização</string>
     <string name="sync_sub_dspt">Um SMS será enviado para ativar o serviço</string>
+    <string name="sync_sub_int_dspt">Pode ser enviado um SMS internacional para ativar o serviço</string>
     <string name="send_sms_for_sync_title">Serviço de sincronização desativado</string>
     <string name="send_sms_for_sync_notice">Um SMS será enviado para ativação do serviço, continuar?</string>
+    <string name="send_int_sms_for_sync_notice">Uma activação por SMS que podem implicar custos internacionais é necessária para ativar a sincronização. Você quer continuar?</string>
     <string name="failed_to_send_activate_email">Falha ao enviar email de ativação.</string>
     <string name="access_denied">Acesso negado</string>
-    <string name="sync_on">On</string>
-    <string name="sync_off">Off</string>
+    <string name="reging">Registrando. Por favor aguarde…</string>
+    <string name="sync_on">Lig</string>
+    <string name="sync_off">Desl</string>
     <string name="btn_activate">Ativar</string>
     <string name="sim_changed_notification_content">Cartão SIM inativo, ative-o novamente</string>
     <string name="activating">Ativando...</string>
@@ -89,14 +95,17 @@
     <string name="i_know">OK</string>
     <string name="find_device_disabled_title">Função Encontrar Dispositivo desativada</string>
     <string name="find_device_disabled_notice">Você pode reativá-la em Configurações - Contas &amp; sincronização - Conta Xiaomi</string>
-    <string name="user_agreement_p1">Ao se registrar, você está aceitando os </string>
+    <string name="user_agreement_p1">"Ao se registrar, 
+você está aceitando"</string>
     <string name="user_agreement_p2">Termos de Serviço da Xiaomi</string>
     <string name="user_agreement_p3"> e a </string>
     <string name="user_agreement_p4">Política de Privacidade</string>
-    <string name="user_agreement_p5">Ao se registrar, você está aceitando o </string>
+    <string name="user_agreement_p5">"Ao se registrar, 
+você está aceitando"</string>
     <string name="skip_setup_account_title">Pular configuração de conta</string>
     <string name="skip_setup_account_msg">Usando sua conta Xiaomi, você pode sincronizar e fazer backup de suas mensagens SMS, Contatos, fotos etc. Continuar e configurar depois?</string>
-    <string name="account_dspt">A conta Xiaomi pode sincronizar e criar backup de suas mensagens SMS, Contatos, fotos etc</string>
+    <string name="account_dspt">"A conta Xiaomi pode sincronizar e criar backup de suas mensagens SMS, 
+Contatos, fotos etc"</string>
     <string name="remove_unactivated_account_notice">A conta Xiaomi não está ativada, deseja removê-la agora?</string>
     <string name="remove_confirm">Deletar</string>
     <string name="find_password_on_web_msg">Visite account.xiaomi.com para recuperar sua senha</string>
@@ -135,17 +144,21 @@
     <string name="error_illegal_order_title">Erro na compra</string>
     <string name="error_illegal_order_summary">Erro na compra. Tente novamente mais tarde</string>
     <string name="error_verify_summary">Aplicativo não tem permissão para solicitar o serviço</string>
+    <string name="error_expired_summary">O seu pedido expirou</string>
     <string name="error_frozen_title">Conta bloqueada!</string>
     <string name="error_frozen_summary">Sua conta foi bloqueada</string>
     <string name="error_account_changed_title">Conta atualizada</string>
     <string name="error_account_changed_summary">Sua conta Xiaomi foi atualizado. Verifique seus dados e tente novamente</string>
     <string name="title_recharge">Recarregar Créditos Mi</string>
+    <string name="title_pay">Pagar Mi Credits</string>
     <string name="recharge_prepaid_title">Cartões de recarga pré-pagos</string>
     <string name="recharge_prepaid_summary">Suporta o centro de regarga da China Mobile, China Unicom e China Telecom</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_alipay_summary">Suporta recarga via Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_tenpay_summary">Suporte recarga Tenpay</string>
+    <string name="recharge_pcpay_title">Recarregar via computador</string>
+    <string name="recharge_pcpay_summary">Suporta mais métodos de recarga e limites mais altos</string>
     <string name="recharge_voucher_title">Vale Créditos Mi</string>
     <string name="recharge_voucher_summary">Suporte de recarga de Créditos Mi</string>
     <string name="recharge_hint">1 RMB é igual a 1 Crédito Mi</string>
@@ -156,7 +169,10 @@
     <string name="paytool_tenpay">Tenpay</string>
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="btn_recharge_large">Recarregar</string>
+    <string name="btn_pay_large">Pagar agora</string>
     <string name="recharge_other">Selecione outros meios de pagamento</string>
+    <string name="btn_recharge_success">Conclua recarga</string>
+    <string name="btn_recharge_success_quick">Recarga concluída</string>
     <string name="paytool_picker_hint">Quantidade de Créditos Mi a recarregar</string>
     <string name="paytool_edit_hint">Quantidade (RMB):</string>
     <string name="paytool_edit_limit">Menos de %1$s</string>
@@ -200,11 +216,18 @@
     <string name="voucher_error_code">Ocorreu um erro com o código do vale Creditos Mi</string>
     <string name="progress_voucher_creating">Atualizando créditos Mi...</string>
     <string name="progress_submit_title">Solicitação de recarga enviada</string>
+    <string name="progress_submit_recharge_summary">Recarga：%1$s RMB</string>
+    <string name="progress_submit_pay_summary">Pagar: %1$s RMB</string>
     <string name="progress_submit_hint">A recarga será efetuada em até 3 minutos</string>
     <string name="btn_count_down_auto">%1$s segundos</string>
     <string name="btn_count_down_wait">%1$s aguardar segundos</string>
     <string name="btn_query">Informe-se agora</string>
     <string name="progress_querying">Processando verificação de pagamento...</string>
+    <string name="progress_success_recharge_title">Carregamento de %1$s crédito Mi efectuado</string>
+    <string name="progress_success_pay_title">%1$s Pagamento de crédito Mi completo</string>
+    <string name="progress_success_recharge_summary">Saldo da conta: %1$s crédito(s) Mi</string>
+    <string name="progress_error_recharge_title">Recarga falhou</string>
+    <string name="progress_error_pay_title">Pagamento falhou</string>
     <string name="progress_warning_waiting">Mudanças da conta ainda estão sendo atualizados. Tente novamente mais tarde.</string>
     <string name="progress_warning_contact_server">"Recarga em progresso. 
 1. Entre em contato com o suporte em Shenzhou：%1$s 
@@ -231,23 +254,12 @@
     <string name="bind_sina_weibo">AutorizarSina Weibo</string>
     <string name="bind_weibo_description">Encontre contatos telefônicos, amigos e outras informações diretamente de sua conta</string>
     <string name="add_weibo_account">Adicionar Conta</string>
+    <string name="binded">Autorizado</string>
     <string name="nobind">Não autorizado</string>
     <string name="unbind">Desautorizar</string>
     <string name="update_contacts">Atualizar contatos</string>
     <string name="update_contacts_description">Atualizar contatos telefônicos e outras informações</string>
-    <string name="binding_behavior_error">Erro de autorização!</string>
-    <string name="micloud_val_sms_alert">Uma mensagem de texto será enviada para valiar seu número de telefone. continuar?</string>
-    <string name="no_sim">Nenhum cartão SIM, serviço de sincronização desativado</string>
-    <string name="bind">Autorizar</string>
-    <string name="bind_description">Permitir sincronização com os contatos do telefone</string>
-    <string name="progress_submit_summary">Recarregando: %1$s RMB</string>
-    <string name="progress_success_title">Recarga de %1$s Créditos Mi concluída</string>
-    <string name="progress_success_summary">Balanço: %1$s Créditos Mi</string>
-    <string name="progress_error_title">Falha na recarga</string>
-    <string name="progress_error_common">Falha na recarga, tente novamente mais tarde.</string>
-    <string name="progress_error_network">Falha ao conectar-se à rede, verifique sua conexão de dados.</string>
-    <string name="progress_error_server">Erro no servidor, tente novamente mais tarde.</string>
-    <string name="progress_error_waiting">Recarga em processamento, tente novamente mais tarde</string>
-    <string name="imported_contacts">Importado %s contatos</string>
-    <string name="progress_error_auth">Ocorreu um erro de autenticação, tente novamente.</string>
+    <string name="updated_contacts">Atualizado %s contactos</string>
+    <string name="process_result">Resultado do processo:</string>
+    <string name="account_detail">Conta Xiaomi:%1$s</string>
 </resources>

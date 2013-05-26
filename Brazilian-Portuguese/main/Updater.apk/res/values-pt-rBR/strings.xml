@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="kernel_upgrade_link" />
-    <string name="kernel_upgrade_version" />
     <string name="app_name">Atualizador</string>
     <string name="apply_now_button_text">Atualizar</string>
     <string name="download_whole_rom">Baixar (%s)</string>
@@ -87,9 +85,12 @@
     <string name="install_rom_from_sd">Selecionar ROM para instalação</string>
     <string name="download_current_rom">Baixar o último pacote completo</string>
     <string name="no_proper_updates">Nenhuma atualização encontrada</string>
-    <string name="sign_in_info">"Esta atualização tem uma popularidade de %1$s %2$s pessoas já baixaram a versão %3$s"</string>
-    <string name="sign_in_info_total_more">"Seu ranking de envios é %1$s %2$s usuários já se conectaram à MIUI %3$s"</string>
-    <string name="sign_in_info_rank_more">"Seu ranking de envios está depois de %1$s Mais de %2$s já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info">"Esta atualização tem uma popularidade de %1$s %2$s 
+pessoas já baixaram a versão %3$s"</string>
+    <string name="sign_in_info_total_more">"Seu ranking de envios é %1$s %2$s 
+usuários já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info_rank_more">"Seu ranking de envios está depois de %1$s 
+Mais de %2$s já se conectaram à MIUI %3$s"</string>
     <string name="sign_in_add_account">Ative sua conta Xiaomi</string>
     <string name="sign_in_add_account_helper">Seu dispositivo não está conectado à uma conta MIUI, faça o login para obter pontos após a atualização</string>
     <string name="my_rank">Ranking:</string>
@@ -113,7 +114,8 @@
     <string name="share_qq">Postar com o Tencent Weibo</string>
     <string name="install_qq">Instalar o Tencent Weibo</string>
     <string name="upgrade_kernel">Versão do kernel atual preisa ser atualizado</string>
-    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI.Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:"</string>
+    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI.Você precisa atualizar o kernel manualmente. 
+Por favor, consulte o tutorial de atualização:"</string>
     <string name="view_upgrade_tutorial">Visualizar tutorial</string>
     <string name="upgrade_close">Fechar</string>
     <string name="recommend_vote_title">Enquete MIUI BETA TEAM</string>
@@ -127,7 +129,8 @@
     <string name="choose_recommend">Escolha se recomenda ou não esta versão</string>
     <string name="refuse_recommend_reason">Opine sobre seu voto</string>
     <string name="update_feedback">Feedback de betas diários</string>
-    <string name="update_feedback_expired">"Infelizmente você perdeu o prazo para o feedback de betas diários! Lembre-se de Votar na Quinta-feira"</string>
+    <string name="update_feedback_expired">"Infelizmente você perdeu o prazo para o feedback de betas diários! 
+Lembre-se de Votar na Quinta-feira"</string>
     <string name="update_happy">Feliz</string>
     <string name="update_general">Mais ou menos</string>
     <string name="update_sad">Triste</string>
@@ -141,7 +144,8 @@
     <string name="my_expect_update">Expectativas</string>
     <string name="get_update_error">Falha ao opber informação de atualização</string>
     <string name="active_xiaomi_account_title">Ativar conta Xiaomi</string>
-    <string name="active_xiaomi_account_msg">"Por favor acesse o fórum MIUI para ativar sua conta Xiaomi:"</string>
+    <string name="active_xiaomi_account_msg">"Por favor acesse o fórum MIUI para ativar sua conta Xiaomi:
+"</string>
     <string name="active_xiaomi_account">Ativo</string>
     <string name="update_comment_title">Observações</string>
     <string name="update_comment_hint">(opcional)</string>

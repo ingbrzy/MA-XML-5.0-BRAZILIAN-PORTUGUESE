@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>
         <item>Apelido</item>
         <item>Telefone</item>
         <item>E-mail</item>
-        <item>Organização</item>
+        <item>Empresa</item>
         <item>MI</item>
-        <item>Telefone IP</item>
+        <item>Telefone SIP</item>
         <item>Aniversário</item>
         <item>Website</item>
         <item>Endereço</item>
         <item>Anotação</item>
     </string-array>
-    <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>Pequena</item>
         <item>Padrão</item>
         <item>Grande</item>
-        <item>Super grande</item>
+        <item>Enorme</item>
     </string-array>
 </resources>

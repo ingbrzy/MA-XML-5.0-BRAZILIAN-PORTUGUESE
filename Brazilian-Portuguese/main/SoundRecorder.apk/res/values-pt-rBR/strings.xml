@@ -7,8 +7,6 @@
     <string name="max_length_reached">Duração máxima atingida</string>
     <string name="insert_sd_card">Insira um Cartão SD</string>
     <string name="button_ok">Ok</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="audio_db_artist_name">Suas gravações</string>
     <string name="audio_db_album_name">Gravações de Áudio</string>
     <string name="audio_db_playlist_name">Minhas gravações</string>
@@ -19,7 +17,8 @@
     <string name="default_record_name">Gravação sem título</string>
     <string name="menu_view_record_list">Visualizar gravações</string>
     <string name="delete_dialog_message">Você deseja excluir a gravação atual?</string>
-    <string name="overwrite_dialog_message">%s já existe, você deseja sobrescrevê-lo?</string>
+    <string name="overwrite_dialog_message">"%s já existe. 
+Deseja substituir?"</string>
     <string name="notification_recording">Gravando</string>
     <string name="notification_playback">Executando...</string>
     <string name="notification_stopped">A gravação parou</string>
@@ -64,15 +63,8 @@
     <string name="menu_settings">Configurações</string>
     <string name="preference_led_indicator">Indicador de gravação quando a tela estiver bloqueada</string>
     <string name="preference_led_indicator_prompt">Mostrar indicadores de LED, barra de status e tela bloqueada durante a gravação</string>
-    <string name="notification_playback_paused">Execução em pausa...</string>
-    <string name="prefDefault_recordType">audio/3gpp</string>
-    <string name="prefDialogTitle_recordType">Selecione o tipo de arquivo da gravação</string>
-    <string name="pref_summary_enable_high_quality">Arquivos de alta qualidade consequentemente terão tamanho maior</string>
-    <string name="pref_summary_enable_sound_effect">Tocar som quando o estado da gravação alterar</string>
-    <string name="pref_title_enable_high_quality">Ativar alta qualidade</string>
     <string name="pref_title_enable_sound_effect">Ativar efeitos sonoros</string>
     <string name="pref_title_record_type">Tipo de arquivo</string>
     <string name="preferences_title">Configurações</string>
     <string name="record_name_minute">minutos</string>
-    <string name="status_bar_recording_back">Clique para retornar ao Gravador</string>
 </resources>

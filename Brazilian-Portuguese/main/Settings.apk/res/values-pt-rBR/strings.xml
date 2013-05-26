@@ -146,11 +146,11 @@
     <string name="bluetooth_mas_request">Pedido de acesso a mensagens</string>
     <string name="bluetooth_mas_acceptance_dialog_text">%1$s gostaria de acessar suas mensagens. Dar acesso a %2$s?</string>
     <string name="bluetooth_mas_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_sap_request">SAP request</string>
-    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
-    <string name="bluetooth_sap_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_dun_request">DUN request</string>
-    <string name="bluetooth_dun_acceptance_dialog_text">%1$s would like to use DUN. Give access to %2$s?</string>
+    <string name="bluetooth_sap_request">Pedido SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s gostaria de acessar o cartão SIM. Dar acesso a %2$s?</string>
+    <string name="bluetooth_sap_remember_choice">"Não perguntar novamente"</string>
+    <string name="bluetooth_dun_request">Pedido DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s gostaria de usar DUN. Dar acesso a %2$s?</string>
     <string name="bluetooth_dun_remember_choice">"Don't ask again"</string>
     <string name="date_and_time">Configurações de data e hora</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
@@ -1628,9 +1628,9 @@ Como o uso de dados é calculado por seu dispositivo, e sua operadora pode expli
     <string name="cell_broadcast_settings_summary">Selecione os tipos de alerta a exibir.</string>
     <string name="perm_app_name">Permissões</string>
     <string name="perm_copyright">Desenvolvido por LBE Privacy Guard</string>
-    <string name="perm_version">Verssão: %1$s</string>
-    <string name="perm_configuration">Confugurações</string>
-    <string name="perm_user_app">Transferido aplicativos (%d)</string>
+    <string name="perm_version">Versão: %1$s</string>
+    <string name="perm_configuration">Configurações</string>
+    <string name="perm_user_app">Transferindo aplicativos (%d)</string>
     <string name="perm_system_app">Aplicativos do sistema (%d)</string>
     <string name="perm_system_app_label">[System App]</string>
     <string name="perm_monitored_app">Aplicativos monitorados (%1$d)</string>
@@ -1841,7 +1841,7 @@ O que pode levar a um consumo de energia de tráfego / dados. permitir iniciar a
     <string name="ac_privacy_mode_sum">Introduza a senha para desativar o Controle de acesso.</string>
     <string name="access_control_password_title">Ativar restrição de acesso</string>
     <string name="access_control_need_to_unlock">Insira uma senha para restringir o acesso</string>
-    <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
+    <string name="access_control_reset_by_account">Entrar conta Xiaomi para redefinir a senha de controle de acesso</string>
     <string name="access_control_need_password">"%s é protegido por senha
 "</string>
     <string name="access_control_no_back_footer">Pressione [icon] para sair</string>
@@ -2070,7 +2070,7 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="dolby_roomsize_low">Indoor</string>
     <string name="dolby_roomsize_normal">Normal</string>
     <string name="dolby_roomsize_high">Spacious</string>
-    <string name="dolby_equalizer">Equalizer</string>
+    <string name="dolby_equalizer">Equalizador</string>
     <string name="dolby_eq_flat">Flat</string>
     <string name="dolby_eq_rock">Rock</string>
     <string name="dolby_eq_jazz">Jazz</string>
@@ -2079,7 +2079,7 @@ Atenção, esta operação não pode ser desfeita"</string>
     <string name="dolby_eq_rb">R &amp; B</string>
     <string name="dolby_eq_hiphop">Hiphop</string>
     <string name="dolby_eq_blues">Blues</string>
-    <string name="dolby_eq_electronic">Electronic</string>
+    <string name="dolby_eq_electronic">Electrônico</string>
     <string name="dolby_eq_country">Country</string>
     <string name="dolby_eq_dance">Dance</string>
     <string name="dolby_eq_metal">Metal</string>

@@ -20,15 +20,23 @@
     <string name="install_failed_msg">Não foi possível instalar o %1$s neste dispositivo.</string>
     <string name="launch">Abrir</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
-    <string name="unknown_apps_dlg_text">"Por segurança, o seu dispositivo está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market. Você pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas."</string>
+    <string name="unknown_apps_dlg_text">"Por segurança, o seu dispositivo está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market. 
+ 
+Você pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas."</string>
     <string name="ok">OK</string>
     <string name="settings">Configurações</string>
     <string name="allow_source_dlg_title">Permitir novas fontes de aplicativos?</string>
-    <string name="allow_source_dlg_text">"%1$s quer instalar outros aplicativos. Permitir agora e no futuro?"</string>
+    <string name="allow_source_dlg_text">"%1$s quer instalar outros aplicativos. 
+ 
+Permitir agora e no futuro?"</string>
     <string name="manage_applications">Gerenciar aplicativos</string>
     <string name="dlg_app_replacement_title">Substituir aplicativo</string>
-    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. Todos os dados de usuário anteriores serão salvos."</string>
-    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. 
+
+Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? 
+
+Todos os dados de usuário anteriores serão salvos."</string>
     <string name="lift_ban">Permitir</string>
     <string name="out_of_space_dlg_title">Sem espaço</string>
     <string name="out_of_space_dlg_text">Não foi possível instalar %1$s. Libere um pouco de espaço e tente novamente.</string>
@@ -56,8 +64,10 @@
     <string name="privacy_relative">permissões de Privacidade</string>
     <string name="other_relative">Outras permissões</string>
     <string name="perm_notice">Alerta de Segurança</string>
-    <string name="trust_switch_dialog_msg">MIUI não irá pedir confirmação de segurança e operações de privacidade deste aplicativo. Confiar neste aplicativo？</string>
-    <string name="auto_startup_dialog_msg">MIUI permitirá ao aplicativo iniciar-se automaticamente, sem avisar. Isto pode levar a um consumo de bateria ou tráfego de dados. permitir Iniciar automaticamente?</string>
+    <string name="trust_switch_dialog_msg">"MIUI não irá pedir confirmação de segurança e operações de privacidade deste aplicativo. 
+Confiar neste aplicativo？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI permitirá ao aplicativo iniciar-se automaticamente, sem avisar. Isto pode levar a um consumo de bateria ou tráfego de dados. 
+Permitir Iniciar automaticamente?"</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="perm_privacy_app_finish">Concluir</string>
