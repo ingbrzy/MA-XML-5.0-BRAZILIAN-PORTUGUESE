@@ -242,7 +242,7 @@
     <string name="settings_label">Configurações</string>
     <string name="settings_label_launcher">Configurações</string>
     <string name="settings_shortcut">Atalho para as configurações</string>
-    <string name="airplane_mode">Modo para avião</string>
+    <string name="airplane_mode">Modo avião</string>
     <string name="radio_controls_title">Mais...</string>
     <string name="wireless_networks_settings_title">Redes sem fio e outras</string>
     <string name="radio_controls_summary">Gerenciar rede WiFi, Bluetooth, modo para avião, redes e VPNs</string>
