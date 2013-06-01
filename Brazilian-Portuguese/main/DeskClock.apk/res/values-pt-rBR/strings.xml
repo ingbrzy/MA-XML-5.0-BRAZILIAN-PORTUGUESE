@@ -95,7 +95,7 @@ Você também pode cancelar este alarme."</string>
     <string name="start">Iniciar</string>
     <string name="pause">Pausar</string>
     <string name="reset">Zerar</string>
-    <string name="lap">Volta</string>
+    <string name="lap">Reset</string>
     <string name="timer_continue">Continuar</string>
     <string name="elapsed_hour">%d horas</string>
     <string name="worldclock_empty_text">Nenhum Relógio Mundial</string>
