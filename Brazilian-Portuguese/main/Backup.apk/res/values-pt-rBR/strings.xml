@@ -122,8 +122,7 @@ Isto pode resultar em corrupção dos dados!"</string>
     <string name="progress_backup_hint">Criando backup...</string>
     <string name="cancel_backup">Cancelar</string>
     <string name="restore_contact">Restaurar Contatos</string>
-    <string name="restore_contact_content">Em alguns casos, seus contatos poderão ser duplicados.
- Caso isso ocorra, utilize a opção de Mesclar Contatos na sua agenda telefônica.</string>
+    <string name="restore_contact_content">Em alguns casos, seus contatos poderão ser duplicados. Caso isso ocorra, utilize a opção de Mesclar Contatos na sua agenda telefônica.</string>
     <string name="progress_restore_hint">"Restaurando: "</string>
     <string name="cancel_restore">Cancelar Restauração</string>
     <string name="restore_failed">Falha durante restauração!</string>

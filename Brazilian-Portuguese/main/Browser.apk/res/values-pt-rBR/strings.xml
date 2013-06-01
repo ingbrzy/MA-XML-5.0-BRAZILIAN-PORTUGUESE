@@ -391,6 +391,7 @@
     <string name="pref_volume_key_operation">Ação para botões de volume</string>
     <string name="pref_gesture_title">Gestos</string>
     <string name="pref_fling_on_border_enabled">Deslizar nas bordas</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Deslizar ao redor da borda da tela</string>
     <string name="pref_fling_on_border_operation">Ação para deslizar nas bordas</string>
     <string name="is_page_top">Topo da página atingido</string>
     <string name="is_page_bottom">Final da página atingido</string>
@@ -432,6 +433,13 @@
     <string name="return_to_homepage">Voltar a página inicial</string>
     <string name="notif_install_successful">Download foi concluído.</string>
     <string name="in_incognito">Se foi anônimo vai ficar sem histórico do navegador.</string>
+    <string name="alert_tips">Este site pode ser um risco à segurança, acessar com cuidado!</string>
     <string name="tab_opened_background_in_incognito">Abriu em nova janela anônima</string>
     <string name="stop_loading">Parar</string>
+    <string name="navigation_button_close">Fechar</string>
+    <string name="navigation_button_view">Visualizar</string>
+    <string name="navigation_button_tab">Abas</string>
+    <string name="navigation_button_newtab">Novo</string>
+    <string name="close_all_tab_alert_title">Fechar todas as abas</string>
+    <string name="close_all_tab_alert_message">Tem certeza de fechar todas as abas?</string>
 </resources>
