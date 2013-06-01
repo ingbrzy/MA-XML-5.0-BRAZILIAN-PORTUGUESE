@@ -363,6 +363,7 @@ Tentativa realizada: %s."</string>
     <string name="mx_activate_error_malformed_info">Informações pessoais alteradas. Será necessário reativar o serviço de mensagem na nuvem</string>
     <string name="mx_activate_error_server">O servidor recusou a ativação. Falha ao ativar mensagem na nuvem</string>
     <string name="mx_activate_hint_sim_change">O Cartão SIM foi alterado. Será necessário reativar o serviço de mensagem na nuvem. Ativar agora?</string>
+    <string name="mx_activate_int_hint_sim_change">Cartão SIM foi alterado, precisa enviar um SMS internacional para reativar o serviço de mensagem na nuvem. Ativar agora?</string>
     <string name="mx_activate_hint_malformed_info">Informações pessoais alteradas. Será necessário reativar o serviço de mensagem na nuvem. Ativar agora?</string>
     <string name="mx_activate_int_hint_malformed_info">Os seus dados pessoais foram interrompidos, é necessária um SMS internacional para a reativação da mensagem por nuvem. Ativar agora?</string>
     <string name="mx_activate_hint_server">O servidor recusou a ativação. Falha ao ativar mensagem na nuvem. Ativar agora?</string>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="home_indicator">bottom_point</string>
-    <string name="wallpaper_scrolling">todos</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="application_name">Launcher</string>
     <string name="folder_name">Pasta</string>
     <string name="unnamed_folder_name">Pasta sem nome</string>
@@ -76,7 +72,8 @@
     <string name="pref_render_in_truecolor_title">Gráficos melhores</string>
     <string name="pref_render_in_truecolor_summary">Habilite para melhorar os gráficos.</string>
     <string name="pref_enable_drawing_cache_title">Cache gráfico</string>
-    <string name="pref_enable_drawing_cache_summary">Desligue essa opção para liberar memória e reduzir o fluxo de dados</string>
+    <string name="pref_enable_drawing_cache_summary">"Desligue essa opção para liberar memória e 
+reduzir o fluxo de dados"</string>
     <string name="pref_icon_shadow_title">Sombrear ícones</string>
     <string name="pref_icon_shadow_summary">Ativa a sombra dos ícones dos aplicativos</string>
     <string name="pref_screen_transformation_type_title">Seleção de efeitos de transição de tela</string>
@@ -109,9 +106,6 @@
     <string name="gadget_load_error">Carregando widget...</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="guide_tips_editing_mode">Segure um dos widgets abaixo para arrastá-lo para a tela inicial</string>
-    <string name="durationformatshort">%2$2d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="photo_adjust">Editar foto</string>
     <string name="select_photo">Foto</string>
     <string name="select_frame">Quadro</string>
@@ -185,21 +179,6 @@
     <string name="status_bar_toggle_power_low">Economia de energia</string>
     <string name="status_bar_toggle_power_mid">Normal</string>
     <string name="status_bar_toggle_power_high">Performance</string>
-    <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-    <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-    <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-    <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
-    <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
-    <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
-    <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
-    <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-    <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
-    <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
-    <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.Settings$AccessibilitySettingsActivity</string>
     <string name="screen_rotation_freeze_message">Rotação da tela travada para modo paisagem</string>
     <string name="screen_button_disabled_message">Botões na parte inferior da tela estão desativados. Poderá habilitá-los pressionando \"Home\" and \"Power\"</string>
     <string name="screen_button_enabled_message">Botões na parte inferior da tela estão habilitados</string>

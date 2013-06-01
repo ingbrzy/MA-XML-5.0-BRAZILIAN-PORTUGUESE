@@ -192,6 +192,16 @@
     <string name="move_to_cloud_album">Mover para</string>
     <string name="send_to_cloud_failed_message">Não conseguiu enviar item para o armazenamento pasta na Nuvem</string>
     <string name="cant_delete_system_album">O álbum %s é um álbum de sistema, que não pode ser excluído.</string>
+    <string name="share_album">Compartilhar álbuns</string>
+    <string name="share_album_qr_code">Código QR</string>
+    <string name="share_album_owner">Pessoas compartilhando</string>
+    <string name="share_album_share_to">Ação</string>
+    <string name="scan_qr_code">Deixe um amigo digitalizar o próximo código QR, você pode começar a compartilhar este álbum</string>
+    <string name="add_sharer">Adicionando amigo compartilhado</string>
+    <string name="album_name">Nome do álbum</string>
+    <string name="can_modified">Permitir amigos para adicionar fotos</string>
+    <string name="sharer_status_accepted">Aceito</string>
+    <string name="sharer_status_refused">Rejeitado</string>
     <string name="click_to_enter_camera">Clique para iniciar a Câmera</string>
     <string name="camera_view_none_message">Fotos capturadas serão exibidas aqui.</string>
     <string name="none_picture">Não existem fotos na Galeria.</string>
@@ -282,7 +292,6 @@
     <string name="photo_page_save_image">Salvar</string>
     <string name="photo_page_save_uri_image_ok">Salvar foto no diretório fotos da câmeras.</string>
     <string name="photo_page_save_uri_image_fail">Falha ao salvar foto.</string>
-    <string name="albumset_page_title_separator"> | </string>
     <string name="cloud_tab_all">Todos</string>
     <string name="cloud_tab_albums">Álbums</string>
     <string name="cloud_tab_locations">Locais</string>
@@ -290,15 +299,5 @@
     <string name="big_screen_alertdialog_title">Dispositivo projetor</string>
     <string name="comma">，</string>
     <string name="quotation">“%s”</string>
-    <string name="share_album">Compartilhar álbuns</string>
-    <string name="share_album_qr_code">Código QR</string>
-    <string name="share_album_owner">Pessoas compartilhando</string>
-    <string name="share_album_share_to">Ação</string>
-    <string name="scan_qr_code">Deixe um amigo digitalizar o próximo código QR, você pode começar a compartilhar este álbum</string>
-    <string name="add_sharer">Adicionando amigo compartilhado</string>
-    <string name="album_name">Nome do álbum</string>
-    <string name="can_modified">Permitir amigos para adicionar fotos</string>
     <string name="sharer_status_waitting">Aguardar</string>
-    <string name="sharer_status_accepted">Aceito</string>
-    <string name="sharer_status_refused">Rejeitado</string>
 </resources>

@@ -79,7 +79,6 @@
     <string name="scanning_nosdcard">Pesquisando o armazenamento USB…</string>
     <string name="search_title">Pesquisar</string>
     <string name="delete_playlist_menu">Excluir</string>
-    <string name="edit_playlist_menu">Editar</string>
     <string name="rename_playlist_menu">Renomear</string>
     <string name="rename_album_menu">Renomear álbum</string>
     <string name="rename_artist_menu">Renomear artista</string>
@@ -196,7 +195,6 @@ Tente novamente."</string>
     <string name="buffering">Armazenando</string>
     <string name="music_browser_label">Música</string>
     <string name="mediaplaybacklabel">Música</string>
-    <string name="online_music">Música Online</string>
     <string name="artists_title">Artistas</string>
     <string name="albums_title">Álbuns</string>
     <string name="folders_title">Pastas</string>
@@ -213,6 +211,7 @@ Tente novamente."</string>
     <string name="add_tracks">Adicionar músicas</string>
     <string name="correct_id3_by_internet">Corrigir ID3 autom. pela internet</string>
     <string name="correct_id3_start">Correção da ID3 pela internet iniciada.</string>
+    <string name="correct_id3_in_processing">ID3 Corrigido </string>
     <string name="correct_id3_success">Correção da ID3 terminada.</string>
     <string name="correct_id3_failed">Falha na correção da ID3.</string>
     <string name="correct_id3_open_other_connect">Ativar configuração de correção da ID3 pela internet móvel.</string>
@@ -226,6 +225,4 @@ Tente novamente."</string>
     <string name="album_search_online_descript">Online | %1$d x %2$d</string>
     <string name="album_select">Selecione uma arte para o álbum</string>
     <string name="no_song_downloaded">Música não pode ser baixada</string>
-    <string name="dirac_enabled">Dirac Habilitado</string>
-    <string name="dirac_disabled">Dirac Desabilitado</string>
 </resources>
