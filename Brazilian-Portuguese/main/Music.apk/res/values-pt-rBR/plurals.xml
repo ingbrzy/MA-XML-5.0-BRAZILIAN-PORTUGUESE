@@ -57,7 +57,8 @@
         <item quantity="one">1 música adicionada à playlist.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d Remover da lista de músicas favorita.</item>
+        <item quantity="other">%d Removidos da lista de músicas favorita.</item>
+        <item quantity="one">1 Removid da lista de músicas favorita.</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" categorias"</item>
