@@ -28,7 +28,7 @@ telefone pela primeira vez"</string>
 Desfrute da MIUI!"</string>
     <string name="traffic_protection_label">Proteção de Tráfego</string>
     <string name="traffic_protection_summary">Proteção de tráfego irá avisá-lo quando o limite de tráfego estiver prestes a ser atingido para que este não seja ultrapassado</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;"Eu não sei. Por favor inclua depois."&lt;/u&gt;</string>
+	<string name="traffic_protection_unknown">&lt;u&gt;"Eu não sei. Por favor inclua depois."&lt;/u&gt;</string>
     <string name="traffic_protection_text_hint">Insira o pacote de tráfego</string>
     <string name="data_usage_summary">Se não tem um pacote de dados, é recomendado desligar o uso de dados. Caso contrário, o operador poderá cobrar taxas adicionais.</string>
     <string name="use_data">Dados ativos</string>
