@@ -139,8 +139,8 @@ Verifique o estado de seu cartão SD."</string>
     <string name="load_audio_in_process">Carregando lista de músicas</string>
     <string name="load_audio_failed">Falha ao carregar lista de músicas, tente novamente</string>
     <string name="load_album_artist_in_process">Carregar álbum e lista de artistas...</string>
-    <string name="load_album_artist_failed">"Falha ao carregar o álbum e lista de artistas. 
-Tente novamente."</string>
+    <string name="load_album_artist_failed">Falha ao carregar o álbum e lista de artistas. Tente novamente.</string>
+    <string name="retry">Tentar novamente</string>
     <string name="lrc_search_failed">Letra não encontrada!</string>
     <string name="lrc_searching">Procurando letra da música...</string>
     <string name="lyric_open_other_connect">Fazer download das letras utilizando a rede de dados móveis</string>
@@ -200,7 +200,7 @@ Tente novamente."</string>
     <string name="folders_title">Pastas</string>
     <string name="tracks_title">Músicas</string>
     <string name="playlists_title">Listas de reprodução</string>
-    <string name="playlist_new">Nova lista de reprodução</string>
+    <string name="online_title">On-line</string>
     <string name="playlist_recently_added">Novas adições</string>
     <string name="playlist_recently_played">Últimos executados</string>
     <string name="playlist_frequently_played">Mais ouvidos</string>

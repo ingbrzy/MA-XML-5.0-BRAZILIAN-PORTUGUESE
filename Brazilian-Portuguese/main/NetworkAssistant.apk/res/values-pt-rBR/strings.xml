@@ -80,13 +80,17 @@
     <string name="plate_traffic_exceed">Excedido</string>
     <string name="traffic_remain">Restando</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Falha ao ativar firewall. Tente outra vez. (%s)</string>
-    <string name="traffic_total">Pacote:%s</string>
-    <string name="traffic_used_status">Usado:%s</string>
+    <string name="apply_rules_failed">"Falha ao ativar firewall. Tente outra vez. 
+(%s)"</string>
+    <string name="traffic_total">"Pacote:
+%s"</string>
+    <string name="traffic_used_status">"Usado:
+%s"</string>
     <string name="unknown_traffic_hint">Tráfego de pacotes desconhecido, deseja configurar?</string>
     <string name="finish_traffic_settings_hint">Configurações de pacotes finalizadas</string>
     <string name="finish_traffic_settings_title">Ajustar uso de dados</string>
-    <string name="finish_traffic_settings_message">"%s de dados usados. Está correto? Você pode ajustá-lo."</string>
+    <string name="finish_traffic_settings_message">"%s de dados usados. Está correto? 
+Você pode ajustá-lo."</string>
     <string name="dialog_button_adjust">Ajustar</string>
     <string name="settings_page_adjust_summary_no_carrier">Operadora não definida，ajuste automático desativado</string>
     <string name="settings_page_traffic_summary">Disponível: %1$s, Lembrete: %2$s, Data Inicial: %3$d</string>
@@ -141,7 +145,8 @@
     <string name="overseas_menu_traffic_adjust">Ajuste Manual</string>
     <string name="about">Sobre</string>
     <string name="fire_wall_is_closed">Você não abriu o firewall.</string>
-    <string name="text_day" />
+    <string name="text_day">Dia</string>
     <string name="text_done">Concluído</string>
     <string name="text_save">Salvar</string>
+    <string name="adjust_no_network_update_data_fail">Falha ao Atualizar dados, verifique as configurações de rede e tente novamente.</string>
 </resources>

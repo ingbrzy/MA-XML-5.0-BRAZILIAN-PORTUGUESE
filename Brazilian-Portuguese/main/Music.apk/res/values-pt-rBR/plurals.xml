@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d músicas relacionadas</item>
-        <item quantity="one">%d música relacionada</item>
-    </plurals>
     <plurals name="Ntracks_total">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>

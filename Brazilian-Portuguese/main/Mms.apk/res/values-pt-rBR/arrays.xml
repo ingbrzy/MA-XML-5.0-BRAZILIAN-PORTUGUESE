@@ -22,7 +22,8 @@
     </string-array>
     <string-array name="entries_date_type">
         <item>Exibe horário de recebimento</item>
-        <item>Exibe horário de envio (impreciso, utiliza dados do servidor)</item>
+        <item>"Exibe horário de envio 
+        (impreciso, utiliza dados do servidor)"</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via SMS</item>

@@ -34,6 +34,8 @@ Permitir agora e no futuro?"</string>
     <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. 
 
 Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s)irá substituir a versão atualmente instalada (%3$s). Conteúdo do usuário será mantida.
+Instalar?"</string>
     <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? 
 
 Todos os dados de usuário anteriores serão salvos."</string>

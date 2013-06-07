@@ -39,6 +39,9 @@
     <string name="alert_title_discard">Descartar alterações?</string>
     <string name="alert_message_discard_changes">Descartar todas alterações?</string>
     <string name="format_move_notes_to_folder">%1$d anotações movidas para a pasta %2$s</string>
+    <string name="alert_title_edit_anyway">Confirmar para editar nota, mesmo que tenha perda de dados?</string>
+    <string name="alert_message_edit_anyway">A nota contém conteúdos não suportados, editá-lo pode resultar em perda de dados.</string>
+    <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="error_sdcard_unmounted">Cartão SD ocupado, indisponível no momento</string>
     <string name="error_sdcard_export">Exportação falhou, por favor verifique o cartão SD</string>
     <string name="error_note_not_exist">A anotação não existe</string>
@@ -48,6 +51,7 @@
     <string name="success_sdcard_export">Exportação bem sucedida</string>
     <string name="failed_sdcard_export">Exportação falhou</string>
     <string name="format_exported_file_location">Arquivo de texto (%1$s) exportado para o Cartão SD diretório (%2$s)</string>
+    <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, por favor clique em atualizar sistema</string>
     <string name="preferences_title">Definições</string>
     <string name="preferences_bg_random_appear_title">Fundo aleatório</string>
     <string name="call_record_folder_name">Registro da chamada</string>

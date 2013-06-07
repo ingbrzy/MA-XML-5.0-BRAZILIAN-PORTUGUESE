@@ -90,6 +90,7 @@
     <string name="theme_import_item_not_upgraded">Desatualizado</string>
     <string name="theme_import_item_waiting">Aguardando</string>
     <string name="theme_import_item_importing">Atualizando</string>
+    <string name="theme_import_item_not_exist">Não existe</string>
     <string name="theme_import_item_delete_request_title">Tema não atualizado</string>
     <string name="theme_import_item_delete_request_content">O tema não está atualizado. Você poderá utilizá-lo após a atualização.</string>
     <string name="theme_import_item_delete_request_button">Excluir</string>
@@ -99,6 +100,11 @@
     <string name="theme_import_new_download">Importando</string>
     <string name="theme_import_fail">Falha ao importar tema %1$s.</string>
     <string name="theme_import_data">Inicializando, aguarde...</string>
+    <string name="theme_batch_has_update_text">%1$d temas tem nova versão</string>
+    <string name="theme_batch_updating_text">%1$d temas estão atualizando</string>
+    <string name="theme_batch_update_all">Atualize todos</string>
+    <string name="theme_batch_update_dlg_title">Atualizar</string>
+    <string name="theme_batch_update_dlg_content">Você quer atualizar agora?</string>
     <string name="resource_comment_sending">Enviando comentário...</string>
     <string name="resource_comment_upload_failed">Falha ao enviar comentário</string>
     <string name="resource_comment_upload_success">Comentário enviado! Ele será exibido após verificação manual</string>
@@ -149,6 +155,7 @@ Por favor reabra este aplicativo para atualizar recursos."</string>
     <string name="resource_title">Detalhe dos recursos</string>
     <string name="resource_download">Download</string>
     <string name="resource_downloading">Baixando</string>
+    <string name="resource_waiting_download">Aguarde</string>
     <string name="resource_apply">Aplicar</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_select">Selecionar</string>
@@ -181,5 +188,6 @@ Por favor reabra este aplicativo para atualizar recursos."</string>
     <string name="resource_title_select_ringtone">Selecionar toque</string>
     <string name="resource_tip_select_ringtone">Toque não foi selecionado</string>
     <string name="loading_resource_detail_info">Carregando...</string>
+    <string name="loading_resource_detail_fail">Falha ao carregar o recurso!</string>
     <string name="account_abnormal_state">Informações da conta errada, tente efetuar login novamente.</string>
 </resources>
