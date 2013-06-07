@@ -24,6 +24,7 @@ Aplicativo vai reabrir os recursos de atualização."</string>
     <string name="resource_title">Detalhes do recurso</string>
     <string name="resource_download">Transferir</string>
     <string name="resource_downloading">Transferindo...</string>
+    <string name="resource_waiting_download">Aguarde</string>
     <string name="resource_apply">Aplicar</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_select">Selecionar</string>
@@ -56,6 +57,7 @@ Aplicativo vai reabrir os recursos de atualização."</string>
     <string name="resource_title_select_ringtone">Selecione toque</string>
     <string name="resource_tip_select_ringtone">Nenhuma toque selecionado</string>
     <string name="loading_resource_detail_info">carregando informações de recursos...</string>
+    <string name="loading_resource_detail_fail">Falha ao carregar recurso!</string>
     <string name="account_abnormal_state">Informações da conta anormal, tente fazer o login novamente ou tente novamente mais tarde</string>
     <string name="launcherDialer">Telefone</string>
     <string name="people">Pessoas</string>
