@@ -338,6 +338,15 @@
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Marcadores</string>
     <string name="bookmarks_root_folder">Pasta Raiz</string>
+    <string name="bookmarks_content_is_null">内容为空</string>
+    <string name="history_browsed">O conteúdo é nulo</string>
+    <string name="history_track">Histórico</string>
+    <string name="history_most_visited">Os mais visitados</string>
+    <string name="history_saved_webpage">Salvar página web</string>
+    <string name="clear_history_group">Limpar todo o histórico</string>
+    <string name="open_history_group_in_new_window">Abrir todo o histórico em nova janela</string>
+    <string name="open_history_most_visited_group_in_new_window">Abrir todo o histórico mais visitado</string>
+    <string name="pref_privacy_clear_history_by_group_dlg">Tem a certeza que deseja apagar o histórico?？</string>
     <string name="edit">Editar</string>
     <string name="delete">Excluir</string>
     <string name="multi_select_title">Selecionado(s) %1$s item(ns)</string>
@@ -442,4 +451,16 @@
     <string name="navigation_button_newtab">Novo</string>
     <string name="close_all_tab_alert_title">Fechar todas as abas</string>
     <string name="close_all_tab_alert_message">Tem certeza de fechar todas as abas?</string>
+    <string name="file_picker">Selecione Caminho</string>
+    <string name="file_name">Nome do arquivo</string>
+    <string name="file_dir">Diretório</string>
+    <string name="storage_internal">Armazenamento interna</string>
+    <string name="storage_sd_card">Cartão SD</string>
+    <string name="storage_usb">USB Armazenamento</string>
+    <string name="save_dialog_title">Salvar</string>
+    <string name="save_file_already_exist_alert_title">Alerta</string>
+    <string name="save_file_already_exist_alert_message">O arquivo já existe, substituí-lo?</string>
+    <string name="filename_empty_alert_message">O nome do arquivo não pode ficar vazio</string>
+    <string name="filename_illegal_alert_message">O nome do arquivo tem caracter ilegal, auto remover agora.</string>
+    <string name="quicklinks_management">Sites úteis</string>
 </resources>
