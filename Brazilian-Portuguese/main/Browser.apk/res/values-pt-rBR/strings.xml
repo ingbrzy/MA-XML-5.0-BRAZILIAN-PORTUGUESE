@@ -338,8 +338,8 @@
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Marcadores</string>
     <string name="bookmarks_root_folder">Pasta Raiz</string>
-    <string name="bookmarks_content_is_null">内容为空</string>
-    <string name="history_browsed">O conteúdo é nulo</string>
+    <string name="bookmarks_content_is_null">O conteúdo é nulo</string>
+    <string name="history_browsed">Histórico de navegação</string>
     <string name="history_track">Histórico</string>
     <string name="history_most_visited">Os mais visitados</string>
     <string name="history_saved_webpage">Salvar página web</string>
