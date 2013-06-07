@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
-    <string name="elapsed_time_format">(+%s)</string>
     <string name="app_label">Relógio</string>
     <string name="alarm_list_title">Alarmes</string>
     <string name="add_alarm">Adicionar Alarme</string>
     <string name="menu_desk_clock">Relógio de Mesa</string>
-    <string name="menu_edit_alarm">Editar Alarme</string>
+    <string name="edit_alarm">Editar Alarme</string>
     <string name="delete_alarm">Excluir alarme</string>
     <string name="enable_alarm">Ativar Alarme</string>
     <string name="disable_alarm">Desativar Alarme</string>
@@ -91,7 +90,7 @@ Você também pode cancelar este alarme."</string>
     <string name="alarm_disabled">Desativado</string>
     <string name="alarm_ascending_mode_title">Volume Crescente</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumentará gradualmente.</string>
-    <string name="slide_down_delelte_alarm">Deslizar para baixo para parar o alarme</string>
+    <string name="close_alarm">Desligar o alarme</string>
     <string name="start">Iniciar</string>
     <string name="pause">Pausar</string>
     <string name="reset">Zerar</string>
@@ -116,7 +115,7 @@ Você também pode cancelar este alarme."</string>
     <string name="timer_tutorial">Defina o Contador</string>
     <string name="shutdown_alarm_title">Alarme de Desligamento</string>
     <string name="shutdown_alarm_enable_summary">Alarme de Desligamento Ativado</string>
-
+    <string name="shutdown_alarm_disable_summary">Não tocar Alarme após o desligamento</string>
     <string name="workday_alarm_clock">Alarme de Dias de Semana</string>
     <string name="weekend_alarm_clock">Alarme de Fim de Semana</string>
     <string name="system_time_setting">Definição de hora</string>
@@ -144,8 +143,4 @@ Você também pode cancelar este alarme."</string>
     <string name="alarm_duration_summary">Alarme em intervalos de %d min</string>
     <string name="alarm_count_summary">, silenciar automaticamente após %d vezes</string>
     <string name="alarm_count_never_summary">, nunca parar</string>
-
-
-
-
 </resources>
