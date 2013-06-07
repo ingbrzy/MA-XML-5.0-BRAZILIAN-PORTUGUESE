@@ -384,20 +384,20 @@ Memória disponível: %2$s"</string>
     <string name="return_to_me_message">Por favor, informe ao proprietário.</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Abra as configurações de Wi-Fi</string>
-    <string name="lock_screen_date">"EEEE, d 
-MMMM"</string>
+    <string name="lock_screen_date">"dd/MM/yyyy 
+ EEEE"</string>
     <string name="unlockscreen_low_battery">Conecte o carregador</string>
     <string name="send">Enviar</string>
     <string name="share">Compartilhar</string>
-    <string name="perm_data_update_dspt">Permitir atualizar os dados</string>
-    <string name="provider_114">Oferecido pela 114号码百事通</string>
+    <string name="provider_sougou">Oferecido pela Sougou</string>
+    <string name="provider_114">Oferecido pela 114</string>
     <string name="device_xiaomi">Telefone Xiaomi</string>
     <string name="sim_unavailable">SIM indisponível</string>
     <string name="sim_locked">SIM bloqueada</string>
     <string name="sim_not_ready">SIM em uso, tente novamente.</string>
     <string name="sim_in_airplane_mode">Desativar modo avião.</string>
     <string name="sim_changed_reactivate_int_notice">SIM atual sem activação. Um sms internacional é necessária para ativar o serviço, ative agora?</string>
-    <string name="days">%d dias天</string>
+    <string name="days">%d dias</string>
     <string name="hours">%d horas</string>
     <string name="minutes">%d minutos</string>
     <string name="shutdown_confirm_title">Tem certeza que você quer desligar o telefone?</string>
