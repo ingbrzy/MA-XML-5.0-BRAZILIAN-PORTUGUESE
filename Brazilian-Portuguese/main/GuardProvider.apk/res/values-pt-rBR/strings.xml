@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Guard Provider</string>
-    <string name="hello_world">Provedor de Segurança</string>
+    <string name="app_name">Provedor de Segurança</string>
+    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Configurações</string>
-    <string name="title_activity_main">Principal</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

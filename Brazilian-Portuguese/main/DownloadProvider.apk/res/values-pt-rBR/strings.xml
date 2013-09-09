@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_label">Gerenciador de downloads</string>
+    <string name="app_label">Downloads</string>
     <string name="permlab_downloadManager">Acessar o gerenciador de download.</string>
     <string name="permdesc_downloadManager">Permite que o aplicativo acesse o gerenciador de download e o use para fazer download de arquivos. Aplicativos maliciosos podem usar essa ação para interromper downloads e acessar informações privadas.</string>
     <string name="permlab_downloadManagerAdvanced">Funções avançadas do gerenciador de download.</string>
@@ -20,23 +21,17 @@
     <string name="notification_filename_extras">" e %d mais"</string>
     <string name="notification_download_complete">Download concluído.</string>
     <string name="notification_download_failed">Falha no download.</string>
-    <string name="notification_need_wifi_for_size">O tamanho do download requer WiFi.</string>
+    <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_paused_in_background">Paus. em segundo plano.</string>
     <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
-    <string name="wifi_required_body" formatted="false">"Você deve usar o WiFi para completar o download de %s . 
-
-Toque em %s  para começar o download da próxima vez que você estiver conectado a uma rede WiFi."</string>
+    <string name="wifi_required_body" formatted="false">"Você deve usar o Wi-Fi para completar o download de %s . \n\nToque em %s  para começar o download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_recommended_title">Tráfego de dados</string>
-    <string name="wifi_recommended_body" formatted="false">"Você está prestes a efetuar um download através de sua operadora de dados móveis:
-
- %s (%s)
-
- Efetuar o download deste arquivo sem possuir um plano de dados poderá acarretar em custos substanciais para sua linha telefônica."</string>
+    <string name="wifi_recommended_body" formatted="false">Você está prestes a efetuar um download através de sua operadora de dados móveis:\n\n %s (%s)\n\n Efetuar o download deste arquivo sem possuir um plano de dados poderá acarretar em custos substanciais para sua linha telefônica.</string>
     <string name="button_queue_for_wifi">Fila</string>
     <string name="button_cancel_download">Cancelar</string>
     <string name="button_start_now">Iniciar agora</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Espaço insuficiente no cartão SD</string>
     <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no cache de download</string>
-    <string name="auto_restart_under_wifi">O arquivo será transferido automaticamente quando conectar-se a uma rede WiFi</string>
+    <string name="auto_restart_under_wifi">O arquivo será transferido automaticamente quando conectar-se a uma rede Wi-Fi</string>
 </resources>

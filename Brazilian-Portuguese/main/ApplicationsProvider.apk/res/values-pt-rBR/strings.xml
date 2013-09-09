@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
     <string name="app_label">Provedor de Pesquisa de Aplicativos</string>
-    <string name="search_label">Aplicativos</string>
+    <string name="search_label">Apps</string>
     <string name="application_desc">Aplicativo</string>
     <string name="settings_description">Nomes dos aplicativos instalados</string>
 </resources>

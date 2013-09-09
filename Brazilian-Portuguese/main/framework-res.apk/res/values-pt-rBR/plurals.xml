@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d segundos atrás</item>
@@ -68,12 +69,12 @@
         <item quantity="one">amanhã</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Redes WiFi disponíveis</item>
-        <item quantity="one">Rede WiFi disponível</item>
+        <item quantity="other">Redes Wi-Fi disponíveis</item>
+        <item quantity="one">Rede Wi-Fi disponível</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Redes WiFi abertas disponíveis</item>
-        <item quantity="one">Rede WiFi aberta disponível</item>
+        <item quantity="other">Redes Wi-Fi abertas disponíveis</item>
+        <item quantity="one">Rede Wi-Fi aberta disponível</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>

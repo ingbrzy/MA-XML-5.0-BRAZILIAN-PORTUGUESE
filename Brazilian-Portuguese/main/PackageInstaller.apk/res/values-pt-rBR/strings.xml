@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Instalador do pacote</string>
+    <string name="app_name">Instalador de pacote</string>
     <string name="install">Instalar</string>
     <string name="done">Concluído</string>
     <string name="security_settings_desc">Permitir que este aplicativo:</string>
@@ -9,36 +10,27 @@
     <string name="installing">Instalando...</string>
     <string name="install_done">Aplicativo instalado</string>
     <string name="install_confirm_question">Deseja instalar este aplicativo?</string>
-    <string name="install_failed">O aplicativo não está instalado.</string>
+    <string name="install_failed">O aplicativo não foi instalado.</string>
     <string name="install_failed_invalid_apk">O pacote parece estar corrompido.</string>
     <string name="install_failed_inconsistent_certificates">Um pacote existente com uma assinatura conflitante já está instalado.</string>
     <string name="install_failed_older_sdk">O pacote funciona somente em versões mais recentes do Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"Este aplicativo não é compatível com a CPU deste dispositivo."</string>
-    <string name="install_failed_file_not_found">O pacte especificado foi excluído antes da instalação ser iniciada.</string>
+    <string name="install_failed_cpu_abi_incompatible">Este aplicativo não é compatível com a CPU deste telefone.</string>
+    <string name="install_failed_file_not_found">O pacote especificado foi excluído antes da instalação ser iniciada.</string>
     <string name="install_failed_verify_failed">O pacote não passou na verificação e não pode ser instalado.</string>
     <string name="install_failed_verify_timeout">Tempo esgotado ao verificar o pacote de instalação. Tente instalá-lo novamente mais tarde.</string>
-    <string name="install_failed_msg">Não foi possível instalar o %1$s neste dispositivo.</string>
+    <string name="install_failed_msg">Não foi possível instalar o %1$s neste telefone.</string>
     <string name="launch">Abrir</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
-    <string name="unknown_apps_dlg_text">"Por segurança, o seu dispositivo está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market. 
- 
-Você pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas."</string>
+    <string name="unknown_apps_dlg_text">Por segurança, o seu telefone está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market.\n\nVocê pode alterar este bloqueio acessando o menu de Configurações->Segurança->Fontes desconhecidas.</string>
     <string name="ok">OK</string>
     <string name="settings">Configurações</string>
     <string name="allow_source_dlg_title">Permitir novas fontes de aplicativos?</string>
-    <string name="allow_source_dlg_text">"%1$s quer instalar outros aplicativos. 
- 
-Permitir agora e no futuro?"</string>
+    <string name="allow_source_dlg_text">%1$s quer instalar outros aplicativos.\n\nPermitir agora e no futuro?</string>
     <string name="manage_applications">Gerenciar aplicativos</string>
     <string name="dlg_app_replacement_title">Substituir aplicativo</string>
-    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo. 
-
-Todos os dados de usuário anteriores serão salvos."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s)irá substituir a versão atualmente instalada (%3$s). Conteúdo do usuário será mantida.
-Instalar?"</string>
-    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo? 
-
-Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_app_replacement_statement">O aplicativo que você está instalando substituirá outro aplicativo.\n\nTodos os dados de usuário anteriores serão salvos.</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) substituirá a versão instalada atualmente (%3$s). Os dados do usuário serão preservados.\nDeseja instalar?</string>
+    <string name="dlg_sys_app_replacement_statement">Este é um aplicativo do sistema. Ainda deseja substituí-lo?\n\nTodos os dados de usuário anteriores serão salvos.</string>
     <string name="lift_ban">Permitir</string>
     <string name="out_of_space_dlg_title">Sem espaço</string>
     <string name="out_of_space_dlg_text">Não foi possível instalar %1$s. Libere um pouco de espaço e tente novamente.</string>
@@ -48,13 +40,13 @@ Todos os dados de usuário anteriores serão salvos."</string>
     <string name="uninstall_application_title">Desinstalar aplicativo</string>
     <string name="uninstall_update_title">Desinstalar atualização</string>
     <string name="uninstall_activity_text">%1$s é parte do(s) seguinte(s) aplicativos(s):</string>
-    <string name="uninstall_confirm_question">Você quer desinstalar o aplicativo?</string>
+    <string name="uninstall_confirm_question">Você deseja desinstalar o aplicativo?</string>
     <string name="uninstall_application_text">Este aplicativo será desinstalado.</string>
     <string name="uninstall_update_text">A atualização do aplicativo será desinstalada. Você ainda poderá usar a versão de fábrica do aplicativo.</string>
     <string name="uninstalling">Desinstalando...</string>
     <string name="uninstall_done">Desinstalação concluída</string>
     <string name="uninstall_failed">Falha na desinstalação</string>
-    <string name="uninstall_failed_device_policy_manager">Impossível desinstalar: este pacte é um administrador do sistema ativo no momento.</string>
+    <string name="uninstall_failed_device_policy_manager">Impossível desinstalar: este pacote é um administrador do sistema ativo no momento.</string>
     <string name="manage_device_administrators">Gerenciar administradores</string>
     <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
     <string name="uninstall_failed_retained_app_msg">Aplicativo customizado pela operadora não pode ser desinstalado</string>
@@ -62,25 +54,23 @@ Todos os dados de usuário anteriores serão salvos."</string>
     <string name="Parse_error_dlg_text">Há um problema com a análise do pacote.</string>
     <string name="caller_app">Origem:%1$s</string>
     <string name="safe_guard_support">Suporte técnico fornecido por %1$s</string>
-    <string name="safe_relative">Permissões de segurança</string>
-    <string name="privacy_relative">permissões de Privacidade</string>
+    <string name="safe_relative">Permissões seguras</string>
+    <string name="privacy_relative">Permissões de privacidade</string>
     <string name="other_relative">Outras permissões</string>
-    <string name="perm_notice">Alerta de Segurança</string>
-    <string name="trust_switch_dialog_msg">"MIUI não irá pedir confirmação de segurança e operações de privacidade deste aplicativo. 
-Confiar neste aplicativo？"</string>
-    <string name="auto_startup_dialog_msg">"MIUI permitirá ao aplicativo iniciar-se automaticamente, sem avisar. Isto pode levar a um consumo de bateria ou tráfego de dados. 
-Permitir Iniciar automaticamente?"</string>
+    <string name="perm_notice">Alerta de segurança</string>
+    <string name="trust_switch_dialog_msg">A MIUI não irá pedir por confirmação de nenhuma operação de segurança ou privacidade relacionados a este App. Por favor tenha certeza de que você entende os riscos.\nConfiar neste App?</string>
+    <string name="auto_startup_dialog_msg">A MIUI irá permitir que este App inicie automaticamente sem a permissão do usuário. Esta configuração pode resultar em aumento de consumo de dados móveis e bateria.\nPermitir início automático?</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
-    <string name="perm_privacy_app_finish">Concluir</string>
-    <string name="perm_privacy_app_launch">Abrir</string>
-    <string name="perm_privacy_app_installed">Instalação bem sucedida!</string>
-    <string name="perm_sysopt_boost_auto_start">Permissões início automático</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Aplicativo iniciará automaticamente!</string>
-    <string name="perm_privacy_app_trust">Confio neste aplicativo</string>
-    <string name="perm_privacy_app_trust_summary">MIUI irá monitorar este aplicativo</string>
-    <string name="perm_action_accept">Aceitar</string>
-    <string name="perm_action_prompt">Mover</string>
-    <string name="perm_action_reject">Rejeitar</string>
-    <string name="unknown_installer">Instalação Ignorada</string>
+    <string name="perm_privacy_app_finish">Finalizar</string>
+    <string name="perm_privacy_app_launch">Executar</string>
+    <string name="perm_privacy_app_installed">Instalação concluída!</string>
+    <string name="perm_sysopt_boost_auto_start">Permissão de início automático</string>
+    <string name="perm_sysopt_boost_auto_start_summary">O App iniciará automaticamente!</string>
+    <string name="perm_privacy_app_trust">Eu confio neste App</string>
+    <string name="perm_privacy_app_trust_summary">A MIUI irá monitorar este App</string>
+    <string name="perm_action_accept">Permitir</string>
+    <string name="perm_action_prompt">Perguntar</string>
+    <string name="perm_action_reject">Negar</string>
+    <string name="unknown_installer">Instalador desconhecido</string>
 </resources>

@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
     <string name="sharedUserLabel">Principais aplicativos do Android</string>
     <string name="app_label">Armazenamento de contatos</string>
@@ -10,11 +11,18 @@
     <string name="default_directory">Contatos</string>
     <string name="local_invisible_directory">Outros</string>
     <string name="read_write_all_voicemail_label">Acessar todas as mensagens de voz</string>
-    <string name="read_write_all_voicemail_description">Permite que o aplicativo armazene e recupere todas as mensagens de voz que esse dispositivo acessa.</string>
+    <string name="read_write_all_voicemail_description">Permite que o aplicativo armazene e recupere todas as mensagens de voz que esse telefone acessa.</string>
     <string name="voicemail_from_column">"Correio de voz de "</string>
+    <string name="debug_dump_title">Copiar banco de dados</string>
+    <string name="debug_dump_database_message">Você está prestes a 1) efetuar uma cópia do seu banco de dados, que inclui todas as informações de contatos e registros de chamada para o armazenamento interno, e 2) enviá-lo por e-mail. Lembre-se de apagar o arquivo quando o envio por e-mail ou a cópia para fora do seu telefone for concluída.</string>
+    <string name="debug_dump_delete_button">Excluir agora</string>
+    <string name="debug_dump_start_button">Iniciar</string>
+    <string name="debug_dump_email_sender_picker">Escolha o programa para efetuar o envio</string>
+    <string name="debug_dump_email_subject">Banco de dados de Contatos MIUI</string>
+    <string name="debug_dump_email_body">Em anexo encontra-se o banco de dados com todas as minhas informações de contato. Por favor, utilize-o com cautela.</string>
     <string name="pound_search_tip">Insira um número após \"#\" para pesquisar contatos</string>
     <string name="create_contact">Novo contato</string>
     <string name="send_sms">Enviar SMS/MMS</string>
     <string name="edit_contact">Adicionar a contato</string>
-    <string name="call_log_provider_label">Registo de chamadas</string>
+    <string name="call_log_provider_label">Registro de chamada</string>
 </resources>

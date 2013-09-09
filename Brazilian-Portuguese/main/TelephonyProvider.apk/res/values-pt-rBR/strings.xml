@@ -1,12 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_label">Armazenamento de Telefome/Mensagens</string>
+    <string name="app_label">Armazenamento do discador e SMS</string>
     <string name="sms_provider_label">SMS</string>
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">Mensagens</string>
     <string name="default_cateogry_fraudulent">Fraudulento</string>
     <string name="default_cateogry_sales">Vendas</string>
     <string name="default_cateogry_intermediary">Intermediário</string>
-    <string name="default_cateogry_meal_delivery">Entrega de refeições</string>
+    <string name="default_cateogry_meal_delivery">Entrega de refeição</string>
     <string name="default_cateogry_courier">Correio</string>
 </resources>

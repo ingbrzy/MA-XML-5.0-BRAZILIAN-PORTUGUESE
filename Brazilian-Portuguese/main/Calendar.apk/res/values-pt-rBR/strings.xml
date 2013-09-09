@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
     <string name="app_label">Agenda</string>
-    <string name="what_label">O que</string>
+    <string name="what_label">O quê</string>
     <string name="where_label">Onde</string>
     <string name="when_label">Quando</string>
     <string name="timezone_label">Fuso horário</string>
@@ -58,11 +59,8 @@
     <string name="privacy_label">Privacidade</string>
     <string name="reminders_label">Adicionar lembrete</string>
     <string name="no_syncable_calendars">Nenhuma agenda disponível</string>
-    <string name="no_calendars_found">Antes de adicionar um evento, você deve adicionar pelo menos uma conta do Google Agenda a seu dispositivo e tornar uma agenda visível. Toque em \"Adicionar conta\" para adicionar uma conta (caso tenha adicionado uma conta recentemente, aguarde o fim da sincronização e tente novamente). Ou toque em \"Cancelar\" e certifique-se de que pelo menos uma agenda esteja visível.</string>
-    <string name="create_an_account_desc">"O aplicativo Agenda funciona melhor com uma Conta do Google.
-
-• Acesse-o a partir de qualquer navegador da web
-• Faça backup de seus eventos com segurança"</string>
+    <string name="no_calendars_found">Antes de adicionar um evento, você deve adicionar pelo menos uma conta do Google Agenda a seu telefone e tornar uma agenda visível. Toque em \"Adicionar conta\" para adicionar uma conta (caso tenha adicionado uma conta recentemente, aguarde o fim da sincronização e tente novamente). Ou toque em \"Cancelar\" e certifique-se de que pelo menos uma agenda esteja visível.</string>
+    <string name="create_an_account_desc">O aplicativo Agenda funciona melhor com uma Conta do Google.\n\n• Acesse-o a partir de qualquer navegador da web\n• Faça backup de seus eventos com segurança</string>
     <string name="add_account">Adicionar conta</string>
     <string name="view_event_calendar_label">Agenda:</string>
     <string name="view_event_organizer_label">Organizador:</string>
@@ -72,12 +70,13 @@
     <string name="response_no">Não</string>
     <string name="email_guests_label">Enviar email para convidados</string>
     <string name="email_picker_label">Enviar email com</string>
+    <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Respostas rápidas</string>
     <string name="quick_response_settings_summary">Editar respostas rápidas ao enviar email</string>
     <string name="quick_response_settings_title">Editar resp. rápidas</string>
     <string name="quick_response_settings_edit_title">Resposta rápida</string>
     <string name="quick_response_dialog_title">Escolher resp. rápida</string>
-    <string name="quick_response_email_failed">Impossível enconrar cliente de email</string>
+    <string name="quick_response_email_failed">Impossível encontrar cliente de email</string>
     <string name="quick_response_custom_msg">Mensagem personalizada...</string>
     <string name="event_info_organizer">Organizador:</string>
     <string name="event_info_reminders_label">Lembretes</string>
@@ -105,7 +104,7 @@
     <string name="yearly_plain">Anualmente</string>
     <string name="monthly_on_day">Mensalmente (no dia %s)</string>
     <string name="yearly">Anualmente (em %s)</string>
-    <string name="custom">Personalizado (não é possível personalizar no dispositivo)</string>
+    <string name="custom">Personalizado (não é possível personalizar no telefone)</string>
     <string name="modify_event">Alterar somente este evento</string>
     <string name="modify_all">Alterar todos os eventos da série</string>
     <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
@@ -122,6 +121,7 @@
     <string name="preferences_hide_declined_title">Ocultar recusados</string>
     <string name="preferences_week_start_day_title">A semana começa em</string>
     <string name="preferences_week_start_day_dialog">A semana começa em</string>
+    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_clear_search_history_title">Limpar histórico de pesquisa</string>
     <string name="preferences_clear_search_history_summary">Remover todas as pesquisas realizadas</string>
     <string name="search_history_cleared">Histórico de pesquisa apagado.</string>
@@ -135,12 +135,17 @@
     <string name="preferences_use_home_tz_title">Usar hora local</string>
     <string name="preferences_use_home_tz_descrip">Exibe agendas e eventos no seu fuso horário local quando você viajar</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
+    <string name="preferences_home_tz_default">America/Sao_Paulo</string>
     <string name="preferences_show_week_num_title">Mostrar número da semana</string>
     <string name="preferences_about_title">Sobre</string>
     <string name="preferences_build_version">Versão da compilação</string>
+    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_true">always</string>
+    <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="gadget_title">Agenda</string>
     <string name="gadget_no_events">Não há eventos futuros na agenda</string>
+    <string name="tardis">TARDIS</string>
     <string name="copy_db">Enviar banco de dados</string>
     <string name="directory_searching_fmt">Pesquisando %s…</string>
     <string name="accessibility_remove_attendee">Remover participante</string>
@@ -168,25 +173,27 @@
     <string name="local_calendar_display_name">Calendário Local</string>
     <string name="birthday_calendar_display_name">Lembrete de Aniversário</string>
     <string name="local_owner_account_name">Conta Local</string>
-    <string name="birthday_notification_title_today">"Aniversário de %1$s"</string>
+    <string name="birthday_notification_title_today">Aniversário de %1$s</string>
     <string name="birthday_notification_text_today">Não se esqueça de lhe desejar feliz aniversário!</string>
-    <string name="birthday_notification_title_three_days_later">"O aniversário de %1$s está chegando"</string>
+    <string name="birthday_notification_title_three_days_later">O aniversário de %1$s está chegando</string>
     <string name="birthday_notification_text_three_days_later">3 dias até o aniversário (%3$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-    <string name="birthday_event_description">"Hoje é o aniversário de %1$s!"</string>
+    <string name="birthday_event_description">Hoje é o aniversário de %1$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Pular</string>
     <string name="jump_date_full">Pular para data</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
-    <string name="miui_menu_create_event">Novo Evento</string>
+    <string name="miui_menu_create_event">Novo</string>
     <string name="preferences_category_general_title">Geral</string>
     <string name="preferences_category_account_title">Conta</string>
+    <string name="work_day_indication">:(</string>
+    <string name="rest_day_indication">:)</string>
     <string name="more_string">e %1$s mais...</string>
     <string name="copy_email">Copiar email</string>
-    <string name="copy_number">Copiar dispositivo</string>
+    <string name="copy_number">Copiar telefone</string>
     <string name="done">Voltar</string>
 </resources>

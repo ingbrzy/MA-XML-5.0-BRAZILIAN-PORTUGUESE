@@ -1,13 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string name="app_name">Xiaomi Sync</string>
-  <string name="sync_item_sms_title">Sincronizar mensagens</string>
-  <string name="sync_item_sms_summary">As mensagens serão automaticamente sincronizadas</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Usar a Wi-Fi para sincronizar mensagens</string>
-  <string name="sub_sync_item_sms_summary">Sincronizar mensagens usando Wi-fi para evitar custos de dados extras</string>
-  <string name="pref_title_sync_contacts_title">sincronizar contators</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Usar Wi-fi na visualização de fotos</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar fotos usando Wi-Fi para evitar custos de dados extras</string>
-  <string name="find_device">Procurar dispositivo</string>
-  <string name="find_device_stop_noise">Clique \"OK\" para parar o alerta sonoro</string>  
+    <string name="app_name">Xiaomi Sync</string>
+    <string name="sync_item_sms_title">Sincronizar SMS</string>
+    <string name="sync_item_sms_summary">Sincroniza mensagens de texto entre sua conta Xiaomi e telefone</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS apenas em Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">É recomendável ativar esta opção para economizar dados móveis</string>
+    <string name="pref_title_sync_contacts_title">Sincronizar contatos</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Exibir fotos: Wi-Fi apenas</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">É recomendado ativar esta opção para economizar dados móveis</string>
+    <string name="find_device">Encontrar telefone</string>
+    <string name="find_device_stop_noise">Toque em \"OK\" para interromper som</string>
 </resources>

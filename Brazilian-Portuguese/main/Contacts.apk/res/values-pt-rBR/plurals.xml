@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatos com números de telefone</item>
@@ -45,11 +46,16 @@
         <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="zero">%1$d selecionado</item>
-        <item quantity="one">%1$d selecionado</item>
+        <item quantity="other">%1$d adicionados com sucesso</item>
+        <item quantity="one">%1$d adicionado com sucesso</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d pessoas</item>
         <item quantity="one">1 pessoa</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d itens selecionados"</item>
+        <item quantity="zero">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
     </plurals>
 </resources>
