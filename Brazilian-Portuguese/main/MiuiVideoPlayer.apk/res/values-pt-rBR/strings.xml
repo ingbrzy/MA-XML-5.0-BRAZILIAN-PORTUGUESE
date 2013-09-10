@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Video</string>
     <string name="temp_play_history_button_label">Exibir histórico de reprodução</string>
-    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, este vídeo não pode ser reproduzido neste telefone</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, este vídeo não pode ser reproduzido neste dispositivo</string>
     <string name="vp_VideoView_error_text_unknown">Desculpe, este vídeo não pode ser reproduzido</string>
     <string name="vp_VideoView_error_title">Impossível executar vídeo.</string>
     <string name="vp_VideoView_error_button">OK</string>
@@ -13,7 +12,7 @@
     <string name="menu_item_about_label">Sobre</string>
     <string name="about_title">Sobre</string>
     <string name="about_app_name">MiPlayer</string>
-    <string name="about_version">V1.0.1</string>
+    <string name="about_version">V4.0</string>
     <string name="menu_wh_item_auto_select_label">Automático</string>
     <string name="menu_wh_item_full_screen_label">Tela cheia</string>
     <string name="menu_wh_item_adapt_width_label">Preencher largura</string>
@@ -49,12 +48,12 @@
     <string name="top_status_online_media">Online</string>
     <string name="loading_video_netplay_label_v5">Carregando, aguarde...</string>
     <string name="buffering_video_netplay_label_v5">Buffer de vídeo</string>
-    <string name="to_be_play_label_v5">Playlist</string>
-    <string name="about_version_label">Versão</string>
+    <string name="to_be_play_label_v5">Lista de reprodução</string>
+    <string name="about_version_label">Versão:</string>
     <string name="about_developer_label">Desenvolvedor</string>
-    <string name="about_developer_name">XiaoMi</string>
-    <string name="nowifi_alert_dialog_title">Dicas de uso de dados</string>
-    <string name="nowifi_alert_dialog_message">Acesso via rede de dados móveis. Deseja continuar?</string>
+    <string name="about_developer_name">MIUI</string>
+    <string name="nowifi_alert_dialog_title">Ligação</string>
+    <string name="nowifi_alert_dialog_message">Vai utilizar e ligação 3G para reproduzir o vídeo, continuar?</string>
     <string name="nowifi_alert_dialog_continue">Continuar</string>
     <string name="nowifi_alert_dialog_exit">Sair</string>
 </resources>

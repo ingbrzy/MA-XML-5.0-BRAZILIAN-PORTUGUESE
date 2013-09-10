@@ -1,24 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="sina_share_pendding">Enviando...</string>
-    <string name="sina_share_success">Enviado com sucesso!</string>
-    <string name="sina_share_fail">Falha no envio!</string>
-    <string name="sina_token_expired_warning">Sua conta Weibo expirou, vincule-a novamente</string>
-    <string name="sina_token_invalid_warning">Sua conta Weibo é inválida, vincule-a novamente</string>
-    <string name="kernel_upgrade_link" />
-    <string name="kernel_upgrade_version" />
     <string name="app_name">Atualizador</string>
     <string name="apply_now_button_text">Atualizar</string>
     <string name="download_whole_rom">Baixar (%s)</string>
     <string name="download_ota_rom">Baixar (%s)</string>
     <string name="apply_later_button_text">Atualizar depois</string>
-    <string name="apply_update_timer">Atualização concluída, seu telefone irá reiniciar em %d segundos</string>
+    <string name="apply_update_timer">Atualização concluído, o dispositivo será reiniciado em %d segundos</string>
     <string name="reboot_now">Reiniciar agora</string>
-    <string name="reboot_later">Reiniciar depois</string>
+    <string name="reboot_later">Reiniciar mais tarde</string>
     <string name="start_update">Iniciar atualização</string>
-    <string name="applying_update">Atualizando... %s</string>
-    <string name="apply_update_fail">Falha na atualização, clique em Trocar sistema para reiniciar o telefone agora, ou clique em Ver log para detalhes da atualização.</string>
+    <string name="applying_update">Atualizando...</string>
+    <string name="apply_update_fail">Falha na atualização</string>
     <string name="view_install_log">Ver log</string>
     <string name="send_install_log">Enviar log</string>
     <string name="install_email">Instalar app de E-Mail</string>
@@ -41,23 +33,23 @@
     <string name="apply_update_dialog_update_button">Atualizar</string>
     <string name="apply_update_dialog_cancel_button">Cancelar</string>
     <string name="cancel_download_buton_text">Cancelar</string>
-    <string name="confirm_download_cancelation_dialog_message">Você realmente deseja cancelar o download atual?</string>
+    <string name="confirm_download_cancelation_dialog_message">Você realmetne deseja cancelar o download atual?</string>
     <string name="dialog_yes">Sim</string>
     <string name="dialog_no">Não</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">Ok</string>
     <string name="verify_and_apply_dialog_title">Verificar integridade</string>
     <string name="verify_and_apply_dialog_message">Verificando MD5 do arquivo...</string>
     <string name="apply_existing_update_md5error_title">MD5 inválido.</string>
     <string name="file_not_found_error_message">O arquivo não existe ou não pôde ser acessado, efetue o download novamente</string>
     <string name="apply_upload_info_message_manually">Inicie o modo recovery manualmente para aplicar a ROM em %s. Caso deseje efetuar um backup, faça-o agora e reinicie então o processo de atualização.</string>
-    <string name="apply_upload_info_message">Clique em Atualizar, o telefone irá reiniciar automaticamente para aplicar a atualização</string>
-    <string name="apply_buddy_update_info_message">Clique em Atualizar, o telefone irá iniciar a atualização. É recomendado que se faça um backup dos seus dados antes de iniciar este processo.</string>
+    <string name="apply_upload_info_message">Clique em Atualizar, o dispositivo irá reiniciar automaticamente para aplicar a atualização</string>
+    <string name="apply_buddy_update_info_message">Clique em Atualizar, o dispositivo irá iniciar a atualização. É recomendado que se faça um backup dos seus dados antes de iniciar este processo.</string>
     <string name="system_backup_button_text">É recomendado que você efetue um backup antes de iniciar a atualização.</string>
     <string name="system_backup_cancel_text">Atualizar</string>
     <string name="system_backup_ok_text">Backup</string>
-    <string name="system_backup_download_helper">Após o término do download, o telefone reiniciará automaticamente para aplicar a atualização.</string>
-    <string name="system_backup_apply_helper">O telefone reiniciará automaticamente após aplicar a atualização.</string>
-    <string name="system_backup_helper">A atualização de sistema não afeta os dados do usuário, porém é recomendado que se faça um backup de todos os dados importantes antes de atualizar</string>
+    <string name="system_backup_download_helper">Dispositivo será reiniciado automaticamente para atualizar quando download estiver concluído</string>
+    <string name="system_backup_apply_helper">Dispositivo irá reiniciar automaticamente para aplicar a atualização</string>
+    <string name="system_backup_helper">A atualização do sistema não afeta os dados do usuário. Em todo caso, para proteger seus dados de possíveis erros na atualização, é recomendado que você faça o backup antes de atualizar.</string>
     <string name="system_backup_ask">Perguntar novamente</string>
     <string name="system_backup_error_message">O sistema não possui o aplicativo de Backup MIUI. Efetue um backup manual</string>
     <string name="md5_check_cancelled">Verificação de MD5 cancelada</string>
@@ -77,30 +69,32 @@
     <string name="monthly_build">Versão Mensal</string>
     <string name="weekly_build">Versão Semanal</string>
     <string name="daily_build">Versão Diária</string>
-    <string name="experimental_build">Build Experimental</string>
-    <string name="internal_build">Build Interna</string>
-    <string name="top_secret_build">Build Secreta</string>
+    <string name="experimental_build">Versão Experimental</string>
+    <string name="internal_build">Versão Internal</string>
+    <string name="top_secret_build">Versão Secreta</string>
     <string name="stable_build">Versão Estável</string>
-    <string name="unstable_build">Versão Instável</string>
-    <string name="about_device">Informação do Sistema</string>
+    <string name="about_device">Informação do Sistema:</string>
     <string name="emegency_build">Build:</string>
-    <string name="wifi_not_available_title">Wi-Fi indisponível</string>
-    <string name="wifi_not_available_body">É recomendado utilizar a rede Wi-Fi para baixar as atualizações, visto que os arquivos podem ser grandes. Você não está conectado à rede Wi-Fi, deseja continuar?</string>
+    <string name="wifi_not_available_title">WiFi indisponível</string>
+    <string name="wifi_not_available_body">É recomendado utilizar a rede WiFi para baixar as atualizações, visto que os arquivos podem ser grandes. Você não está conectado à rede WiFi, deseja continuar?</string>
     <string name="paused_queued_for_network">Aguardando conexão de rede</string>
-    <string name="paused_queued_for_wifi">Aguardando conexão de rede Wi-Fi</string>
+    <string name="paused_queued_for_wifi">Aguardando conexão de rede WiFi</string>
     <string name="boot_recovery">Reiniciar em recovery</string>
     <string name="applying_rom_message">ROM sendo aplicada</string>
     <string name="loading">Conectando à MIUI...</string>
     <string name="install_rom_from_sd">Selecionar ROM para instalação</string>
     <string name="download_current_rom">Baixar o último pacote completo</string>
     <string name="no_proper_updates">Nenhuma atualização encontrada</string>
-    <string name="sign_in_info">Esta atualização tem uma popularidade de %1$s\n%2$s pessoas já baixaram a versão %3$s</string>
-    <string name="sign_in_info_total_more">Seu ranking de envios é %1$s\n%2$s usuários já se conectaram à MIUI %3$s</string>
-    <string name="sign_in_info_rank_more">Seu ranking de envios está depois de %1$s\nMais de %2$s já se conectaram à MIUI %3$s</string>
-    <string name="sign_in_add_account">Por favor ative sua conta Xiaomi</string>
-    <string name="sign_in_add_account_helper">Seu telefone não está conectado à uma conta MIUI, faça o login para obter pontos após a atualização</string>
+    <string name="sign_in_info">"Esta atualização tem uma popularidade de %1$s %2$s 
+pessoas já baixaram a versão %3$s"</string>
+    <string name="sign_in_info_total_more">"Seu ranking de envios é %1$s %2$s 
+usuários já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_info_rank_more">"Seu ranking de envios está depois de %1$s 
+Mais de %2$s já se conectaram à MIUI %3$s"</string>
+    <string name="sign_in_add_account">Ative sua conta Xiaomi</string>
+    <string name="sign_in_add_account_helper">Seu dispositivo não está conectado à uma conta MIUI, faça o login para obter pontos após a atualização</string>
     <string name="my_rank">Ranking:</string>
-    <string name="check_update">Checar Atualização</string>
+    <string name="check_update">Verificar atualização</string>
     <string name="move_data_to_sdcard_title">Mover dados para o cartão SD</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Será necessário mover aproximadamente %dM，mas o cartão SD não possui espaço suficiente.</string>
     <string name="moving_data_to_sdcard_message">Movendo dados para o cartão SD, não remova o cartão SD</string>
@@ -108,7 +102,7 @@
     <string name="finish_download">Download concluído</string>
     <string name="install_whole_rom">Nós recomendamos que você faça download e instale o pacote de atualização completo</string>
     <string name="check_update_policy">Configurações de atualização</string>
-    <string name="check_update_when_wifi_available">Somente utilizar Wi-Fi</string>
+    <string name="check_update_when_wifi_available">Somente utilizar WiFi</string>
     <string name="update_monthly_build_only">Atualizar somente versões mensais</string>
     <string name="install_file_explorer">Por favor instale o Gerenciador de Arquivos</string>
     <string name="share_update">Compartilhar informações de atualização</string>
@@ -116,10 +110,12 @@
     <string name="share_update_content_unsign">Eu atualizei a MIUI para %s! Para ver o changelog detalhado, por favor visite http://www.miui.com</string>
     <string name="share_update_content_sign">Eu atualizei a MIUI para %1$s! Meu rank de atualizações é %2$s. Para ver o changelog detalhado, por favor visite http://www.miui.com</string>
     <string name="share_sina">Postar com o Sina Weibo</string>
+    <string name="install_sina">Instalar o Sina Weibo</string>
     <string name="share_qq">Postar com o Tencent Weibo</string>
     <string name="install_qq">Instalar o Tencent Weibo</string>
-    <string name="upgrade_kernel">Versão do kernel atual precisa ser atualizado</string>
-    <string name="upgrade_kernel_msg">Versão do kernel atual não coincide com a ROM MIUI. Você precisa atualizar o kernel manualmente. Por favor, consulte o tutorial de atualização:\n</string>
+    <string name="upgrade_kernel">Versão do kernel atual preisa ser atualizado</string>
+    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI.Você precisa atualizar o kernel manualmente. 
+Por favor, consulte o tutorial de atualização:"</string>
     <string name="view_upgrade_tutorial">Visualizar tutorial</string>
     <string name="upgrade_close">Fechar</string>
     <string name="recommend_vote_title">Enquete MIUI BETA TEAM</string>
@@ -133,7 +129,8 @@
     <string name="choose_recommend">Escolha se recomenda ou não esta versão</string>
     <string name="refuse_recommend_reason">Opine sobre seu voto</string>
     <string name="update_feedback">Feedback de betas diários</string>
-    <string name="update_feedback_expired">Infelizmente você perdeu o prazo para o feedback de betas diários!\nLembre-se de Votar na Quinta-feira</string>
+    <string name="update_feedback_expired">"Infelizmente você perdeu o prazo para o feedback de betas diários! 
+Lembre-se de Votar na Quinta-feira"</string>
     <string name="update_happy">Feliz</string>
     <string name="update_general">Mais ou menos</string>
     <string name="update_sad">Triste</string>
@@ -145,23 +142,14 @@
     <string name="my_best_update">Melhor atualização</string>
     <string name="my_worst_update">Pior atualização</string>
     <string name="my_expect_update">Expectativas</string>
-    <string name="get_update_error">Falha ao obter informação de atualização</string>
+    <string name="get_update_error">Falha ao opber informação de atualização</string>
     <string name="active_xiaomi_account_title">Ativar conta Xiaomi</string>
-    <string name="active_xiaomi_account_msg">Por favor acesse o fórum MIUI para ativar sua conta Xiaomi:\n</string>
+    <string name="active_xiaomi_account_msg">"Por favor acesse o fórum MIUI para ativar sua conta Xiaomi:
+"</string>
     <string name="active_xiaomi_account">Ativo</string>
     <string name="update_comment_title">Observações</string>
     <string name="update_comment_hint">(opcional)</string>
     <string name="next">Avançar</string>
     <string name="previous">Voltar</string>
     <string name="finish">Concluir</string>
-    <string name="comment_publish">Enviar</string>
-    <string name="edit_comment_title">Editar comentário</string>
-    <string name="edit_comment">Adic. comentário</string>
-    <string name="edit_text_default">Escrever comentário</string>
-    <string name="comment_sending">Enviando comentário...</string>
-    <string name="comment_upload_failed">Falha ao enviar comentário</string>
-    <string name="comment_upload_hint">Obrigado por seu comentário.</string>
-    <string name="comment_upload_success">Comentário enviado!</string>
-    <string name="comment_invalid">Por favor toque as estrelas para dar sua nota</string>
-    <string name="comment_upload_not_logined">Por favor efetue o login primeiro</string>
 </resources>

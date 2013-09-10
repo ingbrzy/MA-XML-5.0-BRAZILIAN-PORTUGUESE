@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_label">Bússola</string>
     <string name="getting_location">Obtendo localização...</string>
-    <string name="cannot_get_location">Não foi possível obter a sua localização</string>
-    <string name="location_north">NL</string>
-    <string name="location_south">SL</string>
-    <string name="location_east">LL</string>
-    <string name="location_west">OL</string>
+    <string name="location_north">%s N</string>
+    <string name="location_south">%s S</string>
+    <string name="location_east">%s L</string>
+    <string name="location_west">%s O</string>
     <string name="menu_calibrate">Calibrar a bússola</string>
     <string name="menu_calibrate_altitude">Calibrar a altitude pela internet</string>
     <string name="calibrate_success">Calibração concluída</string>
@@ -19,7 +17,7 @@
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
-    <string name="dialog_title_no_network">Por favor, habilite o tráfego de dados ou o Wi-Fi.</string>
+    <string name="dialog_title_no_network">Por favor, habilite o tráfego de dados ou o WiFi.</string>
     <string name="dialog_calibrat_altitude">Calibrando a altitude pela internet.</string>
     <string name="latitude">LAT</string>
     <string name="longitude">LON</string>
@@ -27,5 +25,6 @@
     <string name="direction_south">S</string>
     <string name="direction_east">L</string>
     <string name="direction_west">O</string>
-    <string name="guide_toast">Interferência de campo magnético.\nPor favor efetue a calibração da bússola seguindo o gesto abaixo.</string>
+    <string name="guide_toast">"Pode haver interferência de campo magnético ao redor.
+Calibrar a bússola de acordo com o gesto acima"</string>
 </resources>

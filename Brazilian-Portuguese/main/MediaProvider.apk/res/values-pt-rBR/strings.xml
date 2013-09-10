@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Multimídia</string>
+    <string name="app_label">Armazenamento Multimídia</string>
+    <string name="upgrade_msg">Atualizando banco de dados multimídia.</string>
+    <string name="artist_label">Artista</string>
+</resources>

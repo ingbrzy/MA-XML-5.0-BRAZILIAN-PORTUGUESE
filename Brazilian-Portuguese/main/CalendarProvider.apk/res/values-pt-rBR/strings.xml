@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="calendar_storage">Armazenamento de agenda</string>
-    <string name="upgrade_msg">Atualizando o banco de dados da agenda.</string>
+    <string name="calendar_storage">Armazenamento do calendário</string>
+    <string name="upgrade_msg">A atualizar base de dados do calendário.</string>
     <string name="calendar_default_name">Padrão</string>
-    <string name="calendar_info">Informações da agenda</string>
+    <string name="calendar_info">Informações do calendário</string>
     <string name="calendar_info_error">Erro</string>
     <string name="calendar_info_no_calendars">Nenhuma agenda disponível</string>
     <string name="calendar_info_events">Eventos: %1$d</string>
-    <string name="calendar_info_events_dirty">Eventos: %1$d, Não salvos: %2$d</string>
+    <string name="calendar_info_events_dirty">Eventos: %1$d. Não guardados: %2$d</string>
     <string name="provider_label">Agenda</string>
-    <string name="debug_tool_delete_button">Excluir agora</string>
+    <string name="debug_tool_delete_button">Apagar agora</string>
     <string name="debug_tool_start_button">Início</string>
-    <string name="debug_tool_message">Você está prestes a 1) fazer uma cópia de seu banco de dados da agenda para o cartão SD/armazenamento USB, podendo ser lida por qualquer aplicativo e 2) enviá-la por e-mail. Lembre-se de excluir o banco de dados após tê-lo copiado ou ter recebido o e-mail.</string>
-    <string name="debug_tool_email_sender_picker">Selecione um programa para enviar seu arquivo</string>
-    <string name="debug_tool_email_subject">O banco de dados da agenda foi anexado</string>
-    <string name="debug_tool_email_body">O banco de dados da minha agenda está anexado, contendo todos os meus compromissos e informações pessoais. Use-o com cuidado.</string>
-    <string name="holiday_update_title">Os dados de dias úteis precisam ser atualizados na internet</string>
-    <string name="holiday_update_summary">Toque para atualizar</string>
-    <string name="holiday_data_updating">Atualizando...</string>
-    <string name="holiday_data_update_failed">Falha ao verificar atualização. Tente novamente mais tarde.</string>
-    <string name="holiday_data_update_succeed">Atualização concluída</string>
-    <string name="holiday_data_no_network">Sem conexão, tente novamente mais tarde</string>
+    <string name="debug_tool_message">Está prestes a 1) fazer uma cópia da sua base de dados do calendário para o armazenamento de usb/cartão SD que pode ser lido por qualquer aplicação e 2) enviá-la por e-mail. Lembre-se de apagá-lo logo que copie com sucesso do dispositivo ou o e-mail seja recebido.</string>
+    <string name="debug_tool_email_sender_picker">Selecione um programa para enviaro seu ficheiro</string>
+    <string name="debug_tool_email_subject">BD do calendário anexada</string>
+    <string name="debug_tool_email_body">Está anexado à minha base de dados do calendário, com todos os meus compromissos e informações pessoais. Por favor, use com cuidado.</string>
 </resources>

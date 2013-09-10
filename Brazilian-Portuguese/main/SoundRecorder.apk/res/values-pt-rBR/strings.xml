@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Gravador de Som</string>
     <string name="recording">Gravando</string>
@@ -7,20 +6,19 @@
     <string name="storage_is_full">Armazenamento cheio</string>
     <string name="max_length_reached">Duração máxima atingida</string>
     <string name="insert_sd_card">Insira um Cartão SD</string>
-    <string name="button_ok">OK</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="button_ok">Ok</string>
     <string name="audio_db_artist_name">Suas gravações</string>
     <string name="audio_db_album_name">Gravações de Áudio</string>
     <string name="audio_db_playlist_name">Minhas gravações</string>
     <string name="error_sdcard_access">Impossível acessar cartão SD</string>
-    <string name="error_app_internal">Erro interno do aplicativo, tente executá-lo novamente ou reinicie o aparelho.</string>
-    <string name="error_app_internal_title">Erro interno do aplicativo</string>
+    <string name="error_app_internal">Erro interno do aplicativo</string>
+    <string name="error_app_internal_title">Sound recorder error</string>
     <string name="error_mediadb_new_record">Impossível salvar áudio gravado</string>
     <string name="default_record_name">Gravação sem título</string>
     <string name="menu_view_record_list">Visualizar gravações</string>
     <string name="delete_dialog_message">Você deseja excluir a gravação atual?</string>
-    <string name="overwrite_dialog_message">%s já existe, você deseja sobrescrevê-lo?</string>
+    <string name="overwrite_dialog_message">"%s já existe. 
+Deseja substituir?"</string>
     <string name="notification_recording">Gravando</string>
     <string name="notification_playback">Executando...</string>
     <string name="notification_stopped">A gravação parou</string>
@@ -45,40 +43,28 @@
     <string name="send_to">Enviar para</string>
     <string name="delete">Excluir</string>
     <string name="deleting_message">Excluindo...</string>
-    <string name="rename_dialog_title">Renomear gravação</string>
-    <string name="rename_illegal">Nome inválido, por favor insira novamente:</string>
-    <string name="rename_duplicate">Nome duplicado, por favor insira novamente:</string>
-    <string name="record_picker_title">Selecionar gravação</string>
-    <string name="dialog_title_storage_full">Espaço insuficiente para gravação. Limpar armazenamento?</string>
-    <string name="dialog_content_storage_full">Devido à falta de espaço para armazenamento, a gravação foi forçada a ser finalizada para que você possa remover arquivos desnecessários através do Gerenciador de Arquivos. Abrir Gerenciador agora?</string>
-    <string name="status_bar_anti_disturb">Telefone mudo, ajuste o volume do microfone para continuar.</string>
-    <string name="status_bar_recording">Gravando...</string>
-    <string name="status_bar_back">Toque para retornar ao Gravador</string>
-    <string name="status_bar_recording_pause">"Gravação em pausa. "</string>
-    <string name="record_saving">Salvando gravação, aguarde.</string>
-    <string name="record_loading">Carregando gravação, aguarde.</string>
+    <string name="rename_dialog_title">Renomear esta gravação</string>
+    <string name="rename_illegal">Nome da gravação ilegal, trocar nome:</string>
+    <string name="rename_duplicate">Nome da gravação existente, trocar nome:</string>
+    <string name="record_picker_title">Escolha a gravação</string>
+    <string name="dialog_title_storage_full">Armazenagem completa</string>
+    <string name="dialog_content_storage_full">Devido à falta de espaço de armazenamento, a gravação foi obrigado a parar. Remova arquivos desnecessários através do File Explorer, gostaria de abri-lo agora?</string>
+    <string name="status_bar_anti_disturb">Telefone foi silenciado, ajustar o volume para retomar.</string>
+    <string name="status_bar_recording">Gravação...</string>
+    <string name="status_bar_back">Clique para retornar ao Gravador</string>
+    <string name="status_bar_recording_pause">"A gravação foi pausada. "</string>
+    <string name="record_saving">Salvando a gravação, aguarde.</string>
+    <string name="record_loading">Carregando a gravação, por favor aguarde.</string>
     <string name="low_battery_message_title">Bateria fraca</string>
-    <string name="low_battery_warning">Um desligamento inesperado do telefone pode causar perda da gravação. É recomendado que a gravação seja iniciada somente com o telefone completamente carregado.</string>
-    <string name="low_battery_error">A bateria do telefone está acabando. É necessário que a bateria esteja completamente carregada para garantir que a gravação de audio ocorra sem problemas.</string>
+    <string name="low_battery_warning">Encerramento inesperado pode resultar em perda de gravação, recomenda-se a gravar apenas quando a bateria está totalmente carregada.</string>
+    <string name="low_battery_error">A bateria tem menos de 5% de carga, para garantir que a gravação não seja perdida, a gravação foi encerrada e salva.</string>
     <string name="record_name_hour">.</string>
-    <string name="sound_recorder_settings">Configurações</string>
+    <string name="sound_recorder_settings">Configurações de gravação</string>
     <string name="menu_settings">Configurações</string>
-    <string name="preference_led_indicator">Gravar com a tela bloqueada</string>
-    <string name="preference_led_indicator_prompt">Durante uma gravação, exibe atividade na barra de notificações e no LED do aparelho.</string>
-    <string name="preference_record_type_title">Tipo de gravação</string>
-    <string name="preference_record_type_dialog_title">Selecione um tipo de gravação</string>
-    <string name="preference_silent_mode">Silenciar toque durante gravação.</string>
-    <string name="error_filename_too_long">Nome muito longo</string>
-    <string name="duration_format_hour">%sh</string>
-    <string name="duration_format_minute">%sm</string>
-    <string name="duration_format_second">%ss</string>
-    <string name="toast_max_record_time">App:%1$s suporte máximo de %2$s anexos de gravação</string>
-    <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo para %s</string>
-    <string name="start_recording">Iniciar gravação</string>
-    <string name="pause">Pausar</string>
-    <string name="play_record">Reprudozir</string>
-    <string name="stop_recording">Parar gravação</string>
-    <string name="view_list_of_recordings">Lista de gravações</string>
-    <string name="search_for_recordings_in_folders">Pesquisar gravações na memória</string>
-    <string name="back">Voltar</string>
+    <string name="preference_led_indicator">Indicador de gravação quando a tela estiver bloqueada</string>
+    <string name="preference_led_indicator_prompt">Mostrar indicadores de LED, barra de status e tela bloqueada durante a gravação</string>
+    <string name="pref_title_enable_sound_effect">Ativar efeitos sonoros</string>
+    <string name="pref_title_record_type">Tipo de arquivo</string>
+    <string name="preferences_title">Configurações</string>
+    <string name="record_name_minute">minutos</string>
 </resources>

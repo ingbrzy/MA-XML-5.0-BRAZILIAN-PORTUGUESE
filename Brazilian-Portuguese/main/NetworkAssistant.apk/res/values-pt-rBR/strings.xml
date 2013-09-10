@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="empty" />
-    <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
-    <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
-    <string name="mobile_type">2G/3G</string>
-    <string name="wifi_type">Wi-Fi</string>
-    <string name="process_kernel_label">Sistema Android</string>
-    <string name="mobile_traffic">2G/3G: %s</string>
-    <string name="wifi_traffic">Wi-Fi: %s</string>
-    <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
-    <string name="widget_color_exceed_warn">\#F9882C</string>
-    <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
-    <string name="widget_color_used_all">\#C00203</string>
     <string name="app_name">Assistente de Rede</string>
     <string name="used_flux">Uso de dados</string>
     <string name="sorted_flux">Ranking de uso de dados</string>
@@ -24,21 +11,21 @@
     <string name="pref_traffic_adjust_title">Ajustar uso de dados</string>
     <string name="pref_traffic_daily_limit_settings">Configurações de limite diário</string>
     <string name="pref_connect_settings_title">Configurações de monitoramento de rede</string>
-    <string name="pref_connect_settings_notify_in_statusbar">Exibir na tela de notificações</string>
-    <string name="pref_connect_settings_exceed_limit">Desconectar da Internet</string>
-    <string name="pref_connect_settings_exceed_limit_hint">Mostrar aviso quando o pacote de dados atingir o limite e desativar os dados móveis</string>
-    <string name="pref_connect_settings_enable_backgroung">Permitir conexão em 2o. plano</string>
-    <string name="pref_connect_settings_enable_backgroung_hint">Permitir conexão automática à rede quando o programa estiver executando em segundo plano</string>
+    <string name="pref_connect_settings_notify_in_statusbar">Exibir na área de notificações estendida</string>
+    <string name="pref_connect_settings_exceed_limit">Desconectar da Internet quando uso de dados exceder</string>
+    <string name="pref_connect_settings_exceed_limit_hint">Lembrar-me e desconectar da Internet quando uso de dados disponível exceder</string>
+    <string name="pref_connect_settings_enable_backgroung">Permitir conexão à rede quando executado em segundo plano</string>
+    <string name="pref_connect_settings_enable_backgroung_hint">Permitir conexão automática à Rede quando o programa estiver executando em segundo plano</string>
     <string name="warning_title">Aviso</string>
     <string name="close_txt">Fechar</string>
     <string name="cancel_txt">Cancelar</string>
     <string name="disable_background_connect_warning">Ao limitar uso de dados em segundo plano, alguns programas ou serviços não executarão via rede 2G/3G. Deseja desativar?</string>
     <string name="menu_refresh">Atualizar</string>
     <string name="menu_sort">Organizar</string>
-    <string name="menu_display_wifi">Exibir uso de dados via Wi-Fi</string>
-    <string name="menu_hide_wifi">Não exibir uso de dados via Wi-Fi</string>
-    <string name="menu_display_system_app">Exibir apps de sistema</string>
-    <string name="menu_hide_system_app">Ocultar apps de sistema</string>
+    <string name="menu_display_wifi">Exibir uso de dados via WiFi</string>
+    <string name="menu_hide_wifi">Não exibir uso de dados via WiFi</string>
+    <string name="menu_display_system_app">Exibir programas dos sistema</string>
+    <string name="menu_hide_system_app">Não exibir programas dos sistema</string>
     <string name="adjust_traffic_title">Ajustar uso de dados</string>
     <string name="month_traffic_settings_title">Configurações de limite mensal</string>
     <string name="sort_dialog_title">Organizar</string>
@@ -50,13 +37,13 @@
     <string name="adjust_traffic_relate_settings">Configurações relacionadas</string>
     <string name="adjust_traffic_carrier_settings_title">Operadora de rede</string>
     <string name="adjust_traffic_auto_adjust_title">Ajuste automático</string>
-    <string name="adjust_traffic_auto_adjust_hint">O Sistema solicita à operadora e ajusta os dados regularmente. É necessário configurar informações da operadora</string>
-    <string name="manual_input_used_traffic_title">Quantidade de dados utilizados até o momento</string>
-    <string name="manual_input_used_traffic_hint">1000</string>
+    <string name="adjust_traffic_auto_adjust_hint">Sistema solicita à operadora e ajusta os dados regularmente. É necessário configurar informações da operadora</string>
+    <string name="manual_input_used_traffic_title">Inserir manualmente quantidade de dados utilizados</string>
+    <string name="manual_input_used_traffic_hint">Inserir quantidade de dados utilizados</string>
     <string name="save">Salvar</string>
     <string name="daily_limit_dialog_hint">Limite diário de uso de dados(Vazio ou 0 significa sem limite)</string>
     <string name="input_hint">Inserir</string>
-    <string name="daily_limit_dialog_disconnect_hint">Desativar dados móveis</string>
+    <string name="daily_limit_dialog_disconnect_hint">Desconectar da Internet quando uso de dados exceder o limite</string>
     <string name="daily_limit_result_no_limit">Avisar quando uso diário de dados exceder o limite. Desligado</string>
     <string name="daily_limit_result_no_disconnect">Avisar quando uso diário de dados exceder %dM. Ligado</string>
     <string name="daily_limit_result">Avisar e desconectar da Internet quando uso diário de dados exceder %dM. Ligado</string>
@@ -68,7 +55,7 @@
     <string name="carrier_query_number_carrier">Operadora</string>
     <string name="carrier_query_number_brand">Tipo de rede</string>
     <string name="unknown_location">Não definido</string>
-    <string name="adjust_traffic_auto_adjust_open_hint">O ajuste automático está ativado e irá ajustar regularmente o uso de dados</string>
+    <string name="adjust_traffic_auto_adjust_open_hint">Ajuste automático está ativado e irá ajustar regularmente o uso de dados</string>
     <string name="unknown_free_traffic_text">Limite do pacote de dados desconhecido?</string>
     <string name="unknown_free_traffic_title">Informações sobre o pacote de dados</string>
     <string name="unknown_free_traffic_hint">Se você não souber o limite do pacote de dados, envie mensagens ou ligue para a operadora para solicitar</string>
@@ -79,7 +66,7 @@
     <string name="fire_rule_program_list">Lista de programas</string>
     <string name="menu_new_install_app_settings">Configurações padrão para novos programas instalados</string>
     <string name="traffic_suffix">Tráfego</string>
-    <string name="traffic_suffix_with_uint">Tráfego (MB)</string>
+    <string name="traffic_suffix_with_uint">Tráfego(MB)</string>
     <string name="app_detail_title">Informações do programa</string>
     <string name="unknown_version">Versão desconhecida</string>
     <string name="app_detail_version">Versão: %s</string>
@@ -93,13 +80,17 @@
     <string name="plate_traffic_exceed">Excedido</string>
     <string name="traffic_remain">Restando</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Falha ao ativar firewall. Tente outra vez. \n(%s)</string>
-    <string name="traffic_total">Pacote:\n%s</string>
-    <string name="traffic_used_status">Usado:\n%s</string>
+    <string name="apply_rules_failed">"Falha ao ativar firewall. Tente outra vez. 
+(%s)"</string>
+    <string name="traffic_total">"Pacote:
+%s"</string>
+    <string name="traffic_used_status">"Usado:
+%s"</string>
     <string name="unknown_traffic_hint">Tráfego de pacotes desconhecido, deseja configurar?</string>
     <string name="finish_traffic_settings_hint">Configurações de pacotes finalizadas</string>
     <string name="finish_traffic_settings_title">Ajustar uso de dados</string>
-    <string name="finish_traffic_settings_message">%s de dados usados. Está correto?\n Você pode ajustá-lo.</string>
+    <string name="finish_traffic_settings_message">"%s de dados usados. Está correto? 
+Você pode ajustá-lo."</string>
     <string name="dialog_button_adjust">Ajustar</string>
     <string name="settings_page_adjust_summary_no_carrier">Operadora não definida，ajuste automático desativado</string>
     <string name="settings_page_traffic_summary">Disponível: %1$s, Lembrete: %2$s, Data Inicial: %3$d</string>
@@ -118,11 +109,11 @@
     <string name="app_traffic_detail">" tráfego(%s)"</string>
     <string name="sms_match_fail">SMS correspondente falhou</string>
     <string name="pref_network_status_bar">Barra de status</string>
-    <string name="pref_network_speed_settings">Dados de vel. na barra de status</string>
+    <string name="pref_network_speed_settings">Exibir velocidade da internet na barra de status</string>
     <string name="pref_network_speed_internal_title">Intervalo de atualização</string>
     <string name="pref_netwotk_speed_internal_summary">Atualização da velocidade de internet a cada %d s</string>
     <string name="force_stop_dlg_title">Forçar parada?</string>
-    <string name="force_stop_dlg_text">Se você forçar o fechamento de um aplicativo, ele poderá se comportar estranhamente.</string>
+    <string name="force_stop_dlg_text">Se você forçar o fechamento de uum aplicativo, ele poderá se comportar estranhamente.</string>
     <string name="adjust_traffic_update">Atualizar</string>
     <string name="adjust_traffic_sms_template_update">Atualizar template de SMS</string>
     <string name="updating">Atualizando…</string>
@@ -140,12 +131,12 @@
     <string name="menu_sort_by_mobile_traffic">Ordenar pelo uso do 2G/3G</string>
     <string name="menu_sort_by_all_traffic">Ordenar pelo uso total de dados</string>
     <string name="menu_sort_by_disabled">Ordenar pelos apps desabilitados</string>
-    <string name="notify_traffic_settings_title">Você não configurou seu plano de dados. Configurar agora?</string>
+    <string name="notify_traffic_settings_title">Você não configurou seu plano de dados. Confgurar agora?</string>
     <string name="notify_carrier_settings_title">Você não configurou o seu provedor de serviços. Configurar agora?</string>
     <string name="notify_traffic_settings_cancel_hint">As notificações e o monitoramento do uso de dados serão desativados. Sair agora?</string>
     <string name="carrier_settings_button">Configurações do provedor de serviços</string>
     <string name="sync_traffic_no_cmd_title">Nenhum modelo de SMS</string>
-    <string name="sync_traffic_no_cmd_detail">Insira sua cidade, província e modelo de ICC e operadora neste tópico do fórum oficial MIUI: http://www.miui.com/forum-172-1.html. Obrigado.</string>
+    <string name="sync_traffic_no_cmd_detail">Incira sua cidade, província e modelo de ICC e operadora neste tópico do fórum oficial MIUI: http://www.miui.com/forum-172-1.html. Obrigado.</string>
     <string name="version_label">Versão:</string>
     <string name="sms_template_updated_label">"Atualização: "</string>
     <string name="unknown">desconhecido</string>
@@ -153,11 +144,9 @@
     <string name="overseas_menu_traffic_settings">Limite de Tráfego</string>
     <string name="overseas_menu_traffic_adjust">Ajuste Manual</string>
     <string name="about">Sobre</string>
-    <string name="fire_rule_title_bar">fire_rule_title_bar</string>
     <string name="fire_wall_is_closed">Você não abriu o firewall.</string>
-    <string name="text_day" />
+    <string name="text_day">Dia</string>
     <string name="text_done">Concluído</string>
     <string name="text_save">Salvar</string>
-    <string name="adjust_no_network_update_data_fail">Falha na atualização dos dados. Por favor, tente novamente após verificar as configurações de rede.</string>
-    <string name="app_has_deleted">%s foi excluído.</string>
+    <string name="adjust_no_network_update_data_fail">Falha ao Atualizar dados, verifique as configurações de rede e tente novamente.</string>
 </resources>

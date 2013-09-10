@@ -1,36 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="next">Próximo</string>
-    <string name="continues">Continuar</string>
-    <string name="shutdown">Desligar</string>
-    <string name="other_service_label">Outros serviços</string>
-    <string name="other_service_location">Serv. de localização</string>
-    <string name="other_service_location_summary">Os serviços de localização permitem que aplicativos de mapa e de posicionamento obtenham a localização de seu telefone por meio do GPS</string>
-    <string name="other_service_google_location">Localização do Google</string>
-    <string name="other_service_google_location_use">Local para Google</string>
-    <string name="other_service_google_location_use_summary">Permita que o Google utilize sua localização para melhorar resultados de pesquisa e outros serviços</string>
-    <string name="other_service_google_location_use_help">Permitir que o serviço de localização do google armazene informações de localização anônimos. As informações serão armazenadas em segundo plano. Para ajustar esta configuração, vá até Configurações > Serviços de Localização</string>
-    <string name="other_service_permission_manager">Gerenciar permissões</string>
-    <string name="other_service_permission_manager_summary">Monitorando apps para segurança e privacidade</string>
-    <string name="other_service_user_experience">Programa de experiência do usuário</string>
-    <string name="other_service_user_experience_summary0">"Nós contamos com você para utilizar nossos produtos e serviços e contamos com sua ajuda ao fornecer feedback sobre o uso de seu telefone. Seu feedback estará seguro por nossa "</string>
-    <string name="other_service_user_experience_summary1">política de privacidade</string>
-    <string name="sim_card_detection_dialog_message">Detectando cartão SIM. Aguarde.</string>
-    <string name="sim_card_detection_label">Detecção de cartão SIM</string>
-    <string name="sim_card_detection_info">Não é possível configurar uma conta Xiaomi sem um cartão SIM ativo. Você precisa de um cartão SIM funcional para utilizar as funções de sincronização de dados na nuvem e rastreamento do telefone.</string>
-    <string name="sim_card_detection_status_absent">O cartão SIM não foi detectado. Insira um cartão SIM e reinicie o aparelho, ou continue sem configurar os serviços Xiaomi.</string>
-    <string name="setup_complete_label">Obrigado</string>
-    <string name="setup_complete_info">O sistema irá registrar o momento da primeira inicialização para de garantia e suporte técnico</string>
-    <string name="setup_complete_start">Iniciar o uso</string>
-    <string name="setup_complete_summary">Configuração concluída! Aproveite a excitante MIUI!</string>
-    <string name="traffic_protection_label">Proteção de tráfego de dados</string>
-    <string name="traffic_protection_summary">A proteção de tráfego de dados lembra-o quando seu plano de dados atingir seu limite, evitando cobranças adicionais em seu plano.</string>
-    <string name="traffic_protection_unknown"><u>Inserir mais tarde.</u></string>
-    <string name="traffic_protection_text_hint">Insira seu limite de dados mensal.</string>
-    <string name="data_usage_summary">Caso você não possua um plano de dados, recomendamos que mantenha este recurso desativado para evitar a cobrança de tarifas extras por sua operadora.</string>
-    <string name="use_data">Utilizar dados 3G</string>
-    <string name="input_method_category">Método de Entrada Padrão</string>
-    <string name="input_method">Método de Entrada</string>
-    <string name="default_gprs_sim_name">Por favor, insira \"%s\" limites do plano de dados</string>
+  <string name="next">Próximo</string>
+  <string name="continues">Continuar</string>
+  <string name="shutdown">Desligar</string>
+    <string name="other_service_label">Outro Serviço</string>
+    <string name="other_service_location">Serviço de localização</string>
+    <string name="other_service_location_summary">Serviço de localização permite que várias aplicações possam obter a sua localização usando o GPS</string>
+  <string name="other_service_google_location">Serviço de localização Google</string>
+  <string name="other_service_google_location_use">Localização &amp; pesquisa Google</string>
+  <string name="other_service_google_location_use_summary">Permitir Google usar sua localização para melhorar os resultados de pesquisa e outros serviços</string>
+  <string name="other_service_google_location_use_help">"Permitir serviço de localização do Google para coletar anonimamente dados de localização. A coleta ocorrerá quando não há aplicativos em execução. 
+Para ajustar esta definição, va em Configurações &gt; Serviços de Localização"</string>
+  <string name="other_service_permission_manager">Gerenciar permissão de aplicativos</string>
+  <string name="other_service_permission_manager_summary">Monitoramento de aplicativos para segurança e privacidade</string>
+    <string name="other_service_user_experience">Programa de testes de utilização</string>
+  <string name="other_service_user_experience_summary0">"Contamos com vocês para usar nossos produtos e recursos. Esperamos que possa nos ajudar fornecendo seu feedback."</string>
+  <string name="other_service_user_experience_summary1">Graças a equipe MIUI</string>
+  <string name="sim_card_detection_dialog_message">Detectando cartão SIM, por favor agurade...</string>
+  <string name="sim_card_detection_label">Cartão SIM detectado</string>
+  <string name="sim_card_detection_info">"Não é possíel definir conta Xiamo sem um cartão SIM. Você precisa de um cartão SIM para usar a sincronização da conta, rastreamento de telefone, etc."</string>
+  <string name="sim_card_detection_status_absent">Cartão SIM não detectado!</string>
+  <string name="setup_complete_label">Configuração completa</string>
+  <string name="setup_complete_info">"O serviço de venda será ativado quando usar o 
+telefone pela primeira vez"</string>
+    <string name="setup_complete_start">Começar a usar o telefone</string>
+  <string name="setup_complete_summary">"Configuração completa! 
+Desfrute da MIUI!"</string>
+    <string name="traffic_protection_label">Proteção de Tráfego</string>
+    <string name="traffic_protection_summary">Proteção de tráfego irá avisá-lo quando o limite de tráfego estiver prestes a ser atingido para que este não seja ultrapassado</string>
+	<string name="traffic_protection_unknown">&lt;u&gt;"Eu não sei. Por favor inclua depois."&lt;/u&gt;</string>
+    <string name="traffic_protection_text_hint">Insira o pacote de tráfego</string>
+    <string name="data_usage_summary">Se não tem um pacote de dados, é recomendado desligar o uso de dados. Caso contrário, o operador poderá cobrar taxas adicionais.</string>
+    <string name="use_data">Dados ativos</string>
+    <string name="input_method_category">Escolha método de entrada padrão</string>
+    <string name="input_method">Entrada padrão</string>
+    <string name="default_gprs_sim_name">Por favor, insira \"%s\" limites de plano de dados</string>
 </resources>

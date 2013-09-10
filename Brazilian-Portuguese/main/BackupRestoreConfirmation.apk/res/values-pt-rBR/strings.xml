@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
     <string name="backup_confirm_title">Backup completo</string>
     <string name="restore_confirm_title">Restauração completa</string>
-    <string name="backup_confirm_text">Foi solicitado um backup completo de todos os dados para um computador conectado. Deseja permitir que isso aconteça?\n\nCaso você não tenha solicitado o backup, não permita que a operação prossiga.</string>
-    <string name="allow_backup_button_label">Fazer backup dos meus dados</string>
-    <string name="deny_backup_button_label">Não fazer backup</string>
-    <string name="restore_confirm_text">Foi solicitada uma restauração completa de todos os dados de um computador conectado. Deseja permitir que isso ocorra?\n\nCaso você não tenha solicitado a restauração, não permita que a operação prossiga. Isso substituirá todos os dados existentes no telefone!</string>
-    <string name="allow_restore_button_label">Restaurar meus dados</string>
+    <string name="backup_confirm_text">"Foi solicitado por um computador ligado um backup completo de todos os dados. Quer autorizar o pedido?
+
+Se não pediu este Backup, não autorize a operação."</string>
+    <string name="allow_backup_button_label">Backup dos dados</string>
+    <string name="deny_backup_button_label">Não fazer uma cópia de dados</string>
+    <string name="restore_confirm_text">"Foi solicitado por um computador ligado uma restauração completa de todos os dados. Quer autorizar o pedido?
+
+Se não pediu esta restauração, não autorize a operação. Esta irá substituir todos os dados do seu aparelho!\""</string>
+    <string name="allow_restore_button_label">Restaurar os meus dados</string>
     <string name="deny_restore_button_label">Não restaurar</string>
-    <string name="current_password_text">Digite sua senha atual de backup abaixo:</string>
-    <string name="device_encryption_restore_text">Insira sua senha de criptografia do telefone abaixo.</string>
-    <string name="device_encryption_backup_text">Insira sua senha de criptografia do telefone abaixo. Ela também será usada para criptografar o arquivo de backup.</string>
-    <string name="backup_enc_password_text">Digite uma senha para criptografar os dados de backup por completo. Se isso for deixado em branco, sua senha atual de backup será usada:</string>
-    <string name="backup_enc_password_optional">Se você deseja criptografar os dados de backup por completo, digite uma senha abaixo:</string>
-    <string name="restore_enc_password_text">Se os dados restaurados forem criptografados, digite a senha abaixo:</string>
-    <string name="toast_backup_started">Iniciando backup...</string>
-    <string name="toast_backup_ended">O backup foi concluído</string>
-    <string name="toast_restore_started">Iniciando restauração...</string>
-    <string name="toast_restore_ended">A restauração foi concluída</string>
-    <string name="toast_timeout">A operação atingiu o tempo limite</string>
+    <string name="current_password_text">Por favor, digite a sua senha atual de backup abaixo:</string>
+    <string name="device_encryption_restore_text">Por favor, digite a sua senha de criptografia do dispositivo abaixo.</string>
+    <string name="device_encryption_backup_text">Por favor, digite a sua senha de criptografia do dispositivo abaixo. Esta também será usada para criptografar o arquivo da cópia de dados.</string>
+    <string name="backup_enc_password_text">Por favor, insira uma senha a ser usada para criptografar os dados de backup completo. Se for deixado em branco, a atual senha de backup será usada:</string>
+    <string name="backup_enc_password_optional">Se deseja criptografar os dados de backup completo, digite uma senha abaixo:</string>
+    <string name="restore_enc_password_text">Se os dados a restaurar são encriptados, digite a senha abaixo:</string>
+    <string name="toast_backup_started">Iniciar o backup...</string>
+    <string name="toast_backup_ended">Backup terminada</string>
+    <string name="toast_restore_started">A iniciar o restauração...</string>
+    <string name="toast_restore_ended">Terminou o restauração</string>
+    <string name="toast_timeout">Operação esgotada</string>
 </resources>

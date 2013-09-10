@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="build_number">20080722-0001</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="permission_read_attachment_desc">Permite que este aplicativo leia os anexos do seu e-mail.</string>
     <string name="permission_access_provider_label">Acessar dados do provedor de e-mail</string>
@@ -55,12 +53,6 @@
     <string name="notification_to_account">para %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d novas mensagens</string>
     <string name="account_name_display_all">Todas as contas</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
     <string name="mailbox_name_display_outbox">Caixa de saída</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>
@@ -72,13 +64,6 @@
     <string name="picker_mailbox_name_all_inbox">Caixa de entrada (todas)</string>
     <string name="picker_combined_view_fmt">Visualização combinada (%s)</string>
     <string name="debug_version_fmt">Versão: %s</string>
-    <string name="debug_enable_debug_logging_label">Ativar LOG extensivo?</string>
-    <string name="debug_enable_exchange_logging_label">Ativar parser do log do exchange? (extensivo)</string>
-    <string name="debug_enable_exchange_file_logging_label">Ativar log do exchange no cartão SD?</string>
-    <string name="debug_clear_webview_cache">Limpar cache WebView</string>
-    <string name="debug_disable_graphics_acceleration_label">Desativar aceleração gráfica</string>
-    <string name="debug_force_one_minute_refresh_label">Forçar atualização por minuto de POP/IMAP</string>
-    <string name="debug_enable_strict_mode_label">Ativar modo estrito (com log)</string>
     <string name="account_folder_list_summary_inbox">Caixa de entrada</string>
     <string name="account_folder_list_summary_starred">Com estrela</string>
     <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -103,8 +88,20 @@
     <string name="bcc">Cco</string>
     <string name="subject_hint">Assunto</string>
     <string name="body_hint">Escrever e-mail</string>
-    <string name="message_compose_fwd_header_fmt">\n\n-------- Mensagem Original --------\nAssunto: %1$s\nDe: %2$s\nPara: %3$s\nCC: %4$s\n\n</string>
-    <string name="message_compose_reply_header_fmt">\n\n%s escreveu:\n\n</string>
+    <string name="message_compose_fwd_header_fmt">"
+
+-------- Mensagem Original --------
+Assunto: %1$s
+De: %2$s
+Para: %3$s
+Cc: %4$s
+
+"</string>
+    <string name="message_compose_reply_header_fmt">"
+
+%s escreveu:
+
+"</string>
     <string name="message_compose_quoted_text_label">Incluir texto das mensagens anteriores</string>
     <string name="message_compose_include_quoted_text_checkbox_label">Incluir texto</string>
     <string name="message_compose_error_no_recipients">Você deve adicionar pelo menos um destinatário.</string>
@@ -147,13 +144,13 @@
     <string name="message_view_show_details">Mostrar detalhes</string>
     <string name="message_view_message_details_dialog_title">Detalhes da mensagem</string>
     <string name="attachment_info_dialog_default_title">Informações do anexo</string>
-    <string name="attachment_info_dialog_wifi_title">Conexão Wi-Fi necessária</string>
-    <string name="attachment_info_wifi_settings">Configurações de Wi-Fi</string>
+    <string name="attachment_info_dialog_wifi_title">Conexão WiFi necessária</string>
+    <string name="attachment_info_wifi_settings">Configurações de WiFi</string>
     <string name="attachment_info_application_settings">Config. do aplicativo</string>
     <string name="attachment_info_unknown">Não foi possível abrir o anexo.</string>
     <string name="attachment_info_malware">Não é possível salvar ou abrir este arquivo porque este tipo de anexo pode conter software malicioso.</string>
     <string name="attachment_info_policy">Não é possível salvar ou abrir este anexo por causa das políticas de segurança desta conta.</string>
-    <string name="attachment_info_wifi_only">Este anexo é muito grande para o download através de uma rede móvel. O download pode ser feito da próxima vez que você se conectar a uma rede Wi-Fi.</string>
+    <string name="attachment_info_wifi_only">Este anexo é muito grande para o download através de uma rede móvel. O download pode ser feito da próxima vez que você se conectar a uma rede WiFi.</string>
     <string name="attachment_info_no_intent">Não há nenhum aplicativo instalado que possa abrir este anexo. Tente fazer download de um aplicativo adequado no Android Market.</string>
     <string name="attachment_info_sideload_disabled">Este anexo é um aplicativo. Você deve marcar Fontes desconhecidas em Configurações > Aplicativos antes de instalá-lo.</string>
     <string name="attachment_info_apk_install_disabled">Não é possível instalar os aplicativos diretamente do e-mail. Primeiro salve este aplicativo e instale-o usando o aplicativo Downloads.</string>
@@ -199,10 +196,6 @@
     <string name="account_setup_account_type_title">Configuração da conta</string>
     <string name="account_setup_account_type_headline">Tipo de conta</string>
     <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
-    <string name="account_setup_account_type_pop_action">POP3</string>
-    <string name="account_setup_account_type_imap_action">IMAP</string>
-    <string name="account_setup_account_type_exchange_action">Exchange</string>
-    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
     <string name="account_setup_incoming_title">Configuração da conta</string>
     <string name="account_setup_incoming_headline">Configurações de entrada do servidor</string>
     <string name="account_setup_incoming_username_label">Nome de usuário</string>
@@ -256,7 +249,7 @@
     <string name="account_setup_options_sync_contacts_label">Sincronizar contatos desta conta.</string>
     <string name="account_setup_options_sync_calendar_label">Sincronizar agenda desta conta.</string>
     <string name="account_setup_options_sync_email_label">Sincronizar e-mail desta conta.</string>
-    <string name="account_setup_options_background_attachments_label">Fazer download de anexos automaticamente ao conectar ao Wi-Fi</string>
+    <string name="account_setup_options_background_attachments_label">Fazer download de anexos automaticamente ao conectar ao WiFi</string>
     <string name="account_setup_failed_dlg_title">Não foi possível concluir</string>
     <string name="account_setup_options_mail_window_label">Dias para sincronizar</string>
     <string name="account_setup_options_mail_window_auto">Automático</string>
@@ -268,14 +261,17 @@
     <string name="account_setup_options_mail_window_all">Todos</string>
     <string name="account_setup_options_mail_window_default">Usar padrão da conta</string>
     <string name="account_setup_failed_dlg_auth_message">Nome de usuário ou senha incorretos.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">Nome de usuário ou senha incorretos. \n(%s)</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">"Nome de usuário ou senha incorretos. 
+(%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Não é possível se conectar ao servidor com segurança.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">Não é possível se conectar ao servidor com segurança.\n(%s)</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível se conectar ao servidor com segurança.
+(%s)"</string>
     <string name="account_setup_failed_certificate_required">O certificado do cliente é necessário. Conectar-se ao servidor com o certificado do cliente?</string>
     <string name="account_setup_failed_certificate_inaccessible">O certificado é inválido ou inacessível.</string>
     <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique seu nome de usuário e senha e tente novamente.</string>
     <string name="account_setup_failed_dlg_server_message">Não é possível se conectar ao servidor.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">Não é possível se conectar ao servidor.\n(%s)</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível se conectar ao servidor.
+(%s)"</string>
     <string name="account_setup_failed_tls_required">TLS solicitado, mas não suportado pelo servidor.</string>
     <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor.</string>
     <string name="account_setup_failed_security">Não foi possível abrir a conexão com o servidor devido a um erro de segurança.</string>
@@ -283,16 +279,16 @@
     <string name="account_setup_failed_protocol_unsupported">Você digitou um endereço de servidor incorreto ou o servidor exige uma versão de protocolo que o e-mail não suporta.</string>
     <string name="account_setup_failed_access_denied">Você não tem permissão para sincronizar com este servidor. Entre em contato com o administrador do servidor para obter mais informações.</string>
     <string name="account_setup_security_required_title">Administração de segurança remota</string>
-    <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu telefone Android. Deseja concluir a configuração desta conta?</string>
-    <string name="account_setup_failed_security_policies_unsupported">Este servidor exige recursos de segurança não suportados por seu telefone Android, incluindo: %s</string>
+    <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
+    <string name="account_setup_failed_security_policies_unsupported">Este servidor exige recursos de segurança não suportados por seu dispositivo Android, incluindo: %s</string>
     <string name="account_setup_username_uneditable_error">Não é possível alterar o nome de usuário de uma conta. Para adicionar uma conta com um nome de usuário diferente, toque em Adicionar conta.</string>
-    <string name="disable_admin_warning">AVISO: ao desativar a autoridade do aplicativo de e-mail para administrar seu telefone, todas as contas de e-mail vinculadas serão excluídas, assim como e-mails, contatos, eventos da agenda e outros dados.</string>
+    <string name="disable_admin_warning">AVISO: ao desativar a autoridade do aplicativo de e-mail para administrar seu dispositivo, todas as contas de e-mail vinculadas serão excluídas, assim como e-mails, contatos, eventos da agenda e outros dados.</string>
     <string name="account_security_dialog_title">Atualização de segurança</string>
     <string name="account_security_dialog_content_fmt">%s solicita que você atualize suas configurações de segurança.</string>
     <string name="security_notification_ticker_fmt">A conta \"%s\" requer a atualização das configurações de segurança.</string>
     <string name="security_notification_content_title">Necessária atualização de segurança</string>
-    <string name="account_security_title">Segurança do telefone</string>
-    <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu telefone Android.</string>
+    <string name="account_security_title">Segurança do dispositivo</string>
+    <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Editar detalhes</string>
     <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que você altere sua senha ou PIN da lockscreen.</string>
     <string name="password_expire_warning_content_title">Senha da lockscreen expirando</string>
@@ -301,14 +297,14 @@
     <string name="password_expire_warning_dialog_title">Senha da lockscreen expirando</string>
     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar sua senha ou PIN da lockscreen, senão os dados de %s serão apagados. Alterar agora?</string>
     <string name="password_expired_dialog_title">Senha da lockscreen expirada</string>
-    <string name="password_expired_dialog_content_fmt">Os dados de %s estão sendo apagados de seu telefone. Você pode restaurá-los alterando sua senha ou PIN da lockscreen. Alterar agora?</string>
+    <string name="password_expired_dialog_content_fmt">Os dados de %s estão sendo apagados de seu dispositivo. Você pode restaurá-los alterando sua senha ou PIN da lockscreen. Alterar agora?</string>
     <string name="account_settings_exit_server_settings">Descartar as alterações não salvas?</string>
     <string name="account_settings_login_dialog_title">Não foi possível fazer login</string>
     <string name="account_settings_login_dialog_content_fmt">O nome de usuário ou a senha de %s estão incorretos. Atualizar agora?</string>
     <string name="account_settings_default_label">Conta padrão</string>
     <string name="account_settings_default_summary">Enviar e-mail desta conta por padrão</string>
     <string name="account_settings_background_attachments_label">Fazer download dos anexos</string>
-    <string name="account_settings_background_attachments_summary">Fazer download automát. dos anexos de mens. recentes via Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Fazer download automát. dos anexos de mens. recentes via WiFi</string>
     <string name="account_settings_notify_label">Notificações de e-mail</string>
     <string name="account_settings_summary">Frequência de sincronização, notificações etc.</string>
     <string name="account_settings_notify_summary">Notificar sobre chegada de e-mails na barra de sistema</string>
@@ -402,7 +398,6 @@
     <string name="search_slow_warning_title">Aguardando resultados</string>
     <string name="search_slow_warning_message">Alguns servidores podem levar um longo tempo.</string>
     <string name="action_bar_mailbox_list_title">Pastas</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="default_signature">Enviado de meu MIPhone</string>
     <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desativada durante o roaming.</string>
     <string name="application_name">Instant Upload</string>
@@ -415,7 +410,7 @@
     <string name="summary_subtitle_paused_low_battery">pouca bateria</string>
     <string name="summary_subtitle_paused_photos_quota">cota de fotos excedida</string>
     <string name="summary_subtitle_paused_roaming">em roaming</string>
-    <string name="summary_subtitle_paused_need_wifi">aguardando Wi-Fi</string>
+    <string name="summary_subtitle_paused_need_wifi">aguardando WiFi</string>
     <string name="summary_subtitle_paused_need_charger">adiado até o carregamento</string>
     <string name="summary_subtitle_paused_need_network">aguardando conexão</string>
     <string name="summary_subtitle_paused_retry_format">tentando novamente em %s</string>
@@ -442,7 +437,7 @@
     <string name="toast_failed_auth">Ocorreu um problema ao fazer login em sua conta.</string>
     <string name="upload_state_queued" />
     <string name="upload_state_waiting_retry">Aguardando para tentar novamente</string>
-    <string name="upload_state_waiting_wifi">Aguardando Wi-Fi</string>
+    <string name="upload_state_waiting_wifi">Aguardando WiFi</string>
     <string name="upload_state_uploading">Fazendo upload</string>
     <string name="upload_state_failed">Falhou</string>
     <string name="upload_state_completed">Concluído</string>
@@ -452,7 +447,7 @@
     <string name="pause_state_need_charger">pausado - adiado até o carregamento</string>
     <string name="pause_state_need_connectivity">pausado - aguardando conexão</string>
     <string name="pause_state_need_photos_quota">pausado - fora da cota PWA</string>
-    <string name="pause_state_need_wifi">pausado - aguardando Wi-Fi</string>
+    <string name="pause_state_need_wifi">pausado - aguardando WiFi</string>
     <string name="pause_state_roaming">pausado - roaming</string>
     <string name="pause_state_retrying">aguardando para tentar novamente</string>
     <string name="retry_in_1min">Um minuto</string>
@@ -476,13 +471,15 @@
     <string name="manager_toast_canceled">Envio cancelado</string>
     <string name="manager_toast_not_canceled">Envio já concluído</string>
     <string name="manager_sync_all">Sincronizar tudo</string>
-    <string name="manager_activity_last_sync_format">Última sincronização:\n%1$s\n%2$s</string>
+    <string name="manager_activity_last_sync_format">"Última sincronização：
+%1$s
+%2$s"</string>
     <string name="finished_empty">A lista de itens concluídos está vazia.</string>
     <string name="notify_uploads">Instant Upload</string>
     <string name="notify_resolved">Envios concluídos</string>
     <string name="notify_paused">Envios pausados</string>
     <string name="notify_activation_reminder">O Instant Upload ainda não foi ativado</string>
-    <string name="dialog_first_wifi">Arquivos grandes serão enviados apenas por uma conexão Wi-Fi.</string>
+    <string name="dialog_first_wifi">Arquivos grandes serão enviados apenas por uma conexão WiFi.</string>
     <string name="dialog_sync_all_scanning">Verificando arquivos...</string>
     <string name="dialog_sync_all_preparing">Preparando %1$d fotos e %2$d vídeos para enviar...</string>
     <string name="dialog_sync_all_found_none">Não é necessário enviar fotos ou vídeos adicionais.</string>
@@ -494,9 +491,9 @@
     <string name="preference_category_title_general">Geral</string>
     <string name="preference_title_pause_all_uploads">Pausar todos os envios</string>
     <string name="preference_title_need_power">Energia</string>
-    <string name="preference_summary_need_power">Enviar somente quando o telefone estiver carregando.</string>
-    <string name="preference_title_need_wifi">Wi-Fi</string>
-    <string name="preference_summary_need_wifi">Enviar somente quando houver Wi-Fi disponível.</string>
+    <string name="preference_summary_need_power">Enviar somente quando o dispositivo estiver carregando.</string>
+    <string name="preference_title_need_wifi">WiFi</string>
+    <string name="preference_summary_need_wifi">Enviar somente quando houver WiFi disponível.</string>
     <string name="preference_category_title_photos">Fotos</string>
     <string name="preference_title_photos_account">Conta</string>
     <string name="preference_title_photos_upload_connectivity">Condições de envio</string>
@@ -508,7 +505,7 @@
     <string name="preference_title_videos_upload_connectivity_summary">As configurações de conectividade de fotos estão sendo utilizadas.</string>
     <string name="preference_mobile_data_usage_for_photos_only">Somente fotos através de redes móveis</string>
     <string name="preference_mobile_data_usage_for_all_media">Fotos e vídeos por redes móveis</string>
-    <string name="preference_mobile_data_usage_never">Fotos e vídeos somente por Wi-Fi</string>
+    <string name="preference_mobile_data_usage_never">Fotos e vídeos somente por WiFi</string>
     <string name="preference_category_title_about">Sobre</string>
     <string name="preference_title_camera_sync_version">Vers. Instant Upload</string>
     <string name="photos_upload_dimension_1600">Recomendado: 1.600 pixels (para compartilhamento, impressões e protetores de tela)</string>
@@ -526,18 +523,19 @@
     <string name="preference_plus_delay_sync_until_charging">Uploads de bateria</string>
     <string name="preference_plus_delay_sync_until_charging_summary">Enviar fotos e vídeos apenas quando estiver carregando</string>
     <string name="preference_plus_sync_all">Enviar fotos existentes</string>
-    <string name="preference_plus_sync_all_description">Enviar agora todas as fotos e vídeos existentes em seu telefone</string>
+    <string name="preference_plus_sync_all_description">Enviar agora todas as fotos e vídeos existentes em seu dispositivo</string>
     <string name="summary_subtitle_disabled">Desativado</string>
     <string name="preference_summary_header_format">%1$s: %2$s</string>
     <string name="preference_summary_uploading_percent">Enviando (%1$d%%)</string>
     <string name="preference_summary_uploading_format">: %1$d de %2$d</string>
     <string name="preference_summary_uploading_paused">Pausado: toque para retomar o envio</string>
     <string name="preference_plus_sync_all_prompt_title">Enviar fotos existentes</string>
-    <string name="preference_plus_sync_all_prompt_text">O envio de fotos e vídeos que ainda não tenham sido enviados de seu telefone para um álbum privado na web pode demorar um pouco, mas será feito em segundo plano. Tem certeza de que deseja continuar?</string>
+    <string name="preference_plus_sync_all_prompt_text">O envio de fotos e vídeos que ainda não tenham sido enviados de seu dispositivo para um álbum privado na web pode demorar um pouco, mas será feito em segundo plano. Tem certeza de que deseja continuar?</string>
     <string name="preference_plus_sync_all_prompt_yes">Sim</string>
     <string name="preference_plus_sync_all_prompt_no">Não</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
-    <string name="single_new_message_notification_big_text">%1$s\n%2$s</string>
+    <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
     <string name="choosertitle_sharevia">Compartilhar via</string>
     <string name="contextmenu_openlink">Abrir no navegador</string>
     <string name="contextmenu_copy">Copiar</string>
@@ -554,15 +552,15 @@
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
     <string name="done">Voltar</string>
-    <string name="alert_title_selected">Sel. todos</string>
-    <string name="alert_selected_all_message">" tem no mínimo %d mensagens, você deseja selecionar todas?"</string>
-    <string name="account_setup_index_title">Guia de Configurações de Email</string>
-    <string name="account_setup_index_label">Por favor, selecione seu provedor de Email:</string>
-    <string name="account_setup_index_other_mails">Outros serviços</string>
-    <string name="account_setup_basic_label">Por favor complete as informações para sua caixa de e-mails do %s:</string>
-    <string name="account_setup_basic_name_label">Nome (opcional)</string>
+    <string name="alert_title_selected">selecione todas</string>
+    <string name="alert_selected_all_message">" tem pelo menos %d mensagens, selecione todas？"</string>
+    <string name="account_setup_index_title">manual de  configurações da conta</string>
+    <string name="account_setup_index_label">Escolha da lista de provedores de serviços de e-mail:</string>
+    <string name="account_setup_index_other_mails">Outra conta de email</string>
+    <string name="account_setup_basic_label">Insira informações para%s caixa de correio :</string>
+    <string name="account_setup_basic_name_label">Seu nome (opcional)</string>
     <string name="account_setup_basic_description_label">Nome da conta (opcional)</string>
-    <string name="add_quick_responses_action">Criar nova</string>
-    <string name="account_security_waiting_policy_key_message">%s precisa de configurações de segurança do servidor, aguarde.</string>
-    <string name="cleared_trusted_senders_message">Ao limpar a opção \"mostrar imagens\", imagens em mensagens de e-mail não serão exibidas automaticamente.</string>
+    <string name="add_quick_responses_action">criar nova</string>
+    <string name="account_security_waiting_policy_key_message">%s precisa de informações de configurações de segurança do servidor, por favor aguarde...</string>
+    <string name="cleared_trusted_senders_message">"Desmarque a opção \"mostrar imagens\"imagens em mensagens não será mostrado automaticamente"</string>
 </resources>

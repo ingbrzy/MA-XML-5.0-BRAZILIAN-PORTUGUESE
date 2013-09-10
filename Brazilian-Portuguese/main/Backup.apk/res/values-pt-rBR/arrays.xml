@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Dados de Wi-Fi</item>
-        <item>Todos os apps</item>
+        <item>Dados de WiFi</item>
+        <item>Aplicativos</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Navegador</item>
+        <item>Gerenc. de arquivos</item>
         <item>Galeria</item>
-        <item>Permissões de aplicativos</item>
+        <item>Gerenciador de Permissões</item>
         <item>Câmera</item>
         <item>Assistente de Rede</item>
-        <item>Armazenamento de Clima</item>
+        <item>Dados de Clima</item>
         <item>Clima</item>
     </string-array>
     <string-array name="system_data_label">
@@ -19,29 +19,29 @@
         <item>Registro de Chamadas</item>
         <item>Mensagens</item>
         <item>Mensagens Multimídia</item>
-        <item>Configurações de Sistema</item>
-        <item>Configurações de Wi-Fi</item>
-        <item>Configurações do Launcher</item>
-        <item>Configurações do Alarme</item>
-        <item>Anotações</item>
-        <item>AntiSpam</item>
+        <item>Configs. do Sistema</item>
+        <item>Configs. de WiFi</item>
+        <item>Configs. do Launcher</item>
+        <item>Configs. do Alarme</item>
+        <item>Anotações Salvas</item>
+        <item>Configs. de DND</item>
         <item>Contas do Sistema</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Dados</item>
         <item>Aplicativos</item>
-        <item>Aplicativos seus dados</item>
+        <item>Aplicativos e Dados</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contatos</item>
         <item>Registro de Chamadas</item>
         <item>Mensagens</item>
-        <item>Configurações de Wi-Fi</item>
-        <item>Anotações</item>
+        <item>Config. de WiFi</item>
+        <item>Anotações Salvas</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Contatos</item>
-        <item>Configurações de Wi-Fi</item>
+        <item>Configs. de WiFi</item>
         <item>Anotações</item>
     </string-array>
     <string-array name="cloud_sim_data">

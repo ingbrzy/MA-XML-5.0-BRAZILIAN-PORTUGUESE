@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$s conversas serão excluídas.</item>
         <item quantity="one">Uma conversa será excluída.</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s seg.</item>
-        <item quantity="one">%s seg.</item>
-        <item quantity="few">%s seg.</item>
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%s segundos</item>
+        <item quantity="few">%s segundos</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultados para \"%2$s\"</item>
@@ -19,6 +18,6 @@
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mensagens</item>
-        <item quantity="one">%1$s mensagem</item>
+        <item quantity="one">%1$s mensagen</item>
     </plurals>
 </resources>

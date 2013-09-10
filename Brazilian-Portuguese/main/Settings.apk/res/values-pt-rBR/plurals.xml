@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A senha deve conter pelo menos %d letras</item>

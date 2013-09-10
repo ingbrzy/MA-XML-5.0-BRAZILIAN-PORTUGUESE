@@ -1,42 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
-    </string-array>
     <string-array name="operatorDescs">
-        <item>parênteses esquerdo</item>
-        <item>parênteses direito</item>
-        <item>fatoral</item>
-        <item>logaritmo natural</item>
-        <item>logaritmo</item>
+        <item>parêntese esquerdo</item>
+        <item>parêntese direito</item>
+        <item>fatorial</item>
+        <item>logarítmo natural</item>
+        <item>logarítmo</item>
         <item>raiz quadrada</item>
         <item>dividido por</item>
         <item>multiplicado por</item>
-        <item>adição</item>
-        <item>subtração</item>
+        <item>mais</item>
+        <item>menos</item>
         <item> ponto </item>
-        <item>power</item>
+        <item>expoente</item>
         <item>tangente</item>
         <item>seno</item>
-        <item>coseno</item>
+        <item>cosseno</item>
         <item>pi</item>
-        <item>iguais</item>
+        <item>igual a</item>
     </string-array>
 </resources>

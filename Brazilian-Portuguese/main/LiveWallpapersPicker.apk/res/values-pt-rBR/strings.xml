@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Wallpapers</string>
+    <string name="live_wallpaper_picker_title">Selecione o wallpaper</string>
+    <string name="live_wallpaper_picker_label">Live Wallpapers</string>
+    <string name="live_wallpaper_preview_title">Pré-visualização</string>
+    <string name="configure_wallpaper">Configurar…</string>
+    <string name="wallpaper_instructions">Definir</string>
+    <string name="live_wallpaper_empty">Nenhum Live Wallpaper.</string>
+    <string name="set_live_wallpaper">Definir</string>
+    <string name="wallpaper_title_and_author">%1$s por %2$s</string>
+    <string name="live_wallpaper_loading">Carregando Live Wallpaper…</string>
+    <string name="wallpaper_cancel">Cancelar</string>
+</resources>
