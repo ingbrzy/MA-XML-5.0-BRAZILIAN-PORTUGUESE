@@ -124,7 +124,7 @@ d-M-yyyy"</string>
     <string name="usb_mode_mount_storage_title">Abrir armazenamento usb agora？</string>
     <string name="mount_storage">Sim</string>
     <string name="dismount_storage">Não</string>
-    <string name="usb_notification">Coenctado ao USB</string>
+    <string name="usb_notification">Conectado ao USB</string>
     <string name="usb_notification_mtp_info">Acesse arquivos pelo computador</string>
     <string name="usb_notification_ptp_info">Acesse fotos pelo computador</string>
     <string name="usb_notification_mtp_problem">Ajuda ></string>
